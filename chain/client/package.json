@@ -1,0 +1,42 @@
+{
+  "name": "village-client",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "gen": "node scripts/codegen.mjs",
+    "test": "node --import tsx --test test/*.test.ts",
+    "gateway": "tsx server/gateway.ts",
+    "inspect": "tsx scripts/inspect.ts",
+    "local:chain": "cd .. && NO_DNA=1 surfpool start --network devnet --no-tui --no-deploy --port 8899 --ws-port 8900 -k ~/.config/solana/new-project.json",
+    "local:deploy": "cd .. && solana program deploy target/deploy/village.so --program-id target/deploy/village-keypair.json --url http://127.0.0.1:8899",
+    "local:gateway": "RPC_URL=http://127.0.0.1:8899 GATEWAY_PORT=8403 tsx server/gateway.ts",
+    "indexer": "tsx server/indexer.ts",
+    "local:indexer": "RPC_URL=http://127.0.0.1:8899 tsx server/indexer.ts",
+    "tongue": "tsx server/tongue.ts",
+    "tongue:litesvm": "tsx server/tongue.ts --litesvm",
+    "local:tongue": "RPC_URL=http://127.0.0.1:8899 tsx server/tongue.ts",
+    "lang:sim": "tsx lang/run.ts"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.6",
+    "litesvm": "^1.6.2",
+    "litesvm-darwin-arm64": "^1.6.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@codama/nodes-from-anchor": "^1.5.6",
+    "@codama/renderers-js": "^2.9.0",
+    "@solana-program/system": "^0.16.0",
+    "@solana-program/token": "^0.18.0",
+    "@solana/kit": "^8.6.0",
+    "@solana/program-client-core": "^8.6.0",
+    "@x402/core": "^2.31.0",
+    "@x402/express": "^2.31.0",
+    "@x402/fetch": "^2.31.0",
+    "@x402/svm": "^2.31.0",
+    "codama": "^1.11.0",
+    "express": "^5.3.0"
+  }
+}

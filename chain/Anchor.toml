@@ -1,0 +1,20 @@
+[toolchain]
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.devnet]
+village = "GzNn1p3Vc5wg1KVY4aEWWnxXBj6qKD823sr5nNhmmB9a"
+
+[programs.localnet]
+village = "GzNn1p3Vc5wg1KVY4aEWWnxXBj6qKD823sr5nNhmmB9a"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/new-project.json"
+
+[scripts]
+test = "cargo test"
+
+[hooks]

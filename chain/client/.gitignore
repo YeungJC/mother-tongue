@@ -1,0 +1,5 @@
+node_modules
+.keys
+data
+agent-kit/keys
+agent-kit/logs

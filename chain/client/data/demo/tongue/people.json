@@ -1,0 +1,4682 @@
+[
+ {
+  "key": "mt-31-g1-0-ada",
+  "wallet": "GSnspygryefytEVUCdxvvpn4r4wexQZuW8q9u8u6BvLa",
+  "name": "Ada",
+  "family": "Ada",
+  "generation": 1,
+  "home": 0,
+  "job": 0,
+  "parent": null,
+  "phon": {
+   "cons": [
+    "g",
+    "th",
+    "s",
+    "r",
+    "n"
+   ],
+   "vows": [
+    "a",
+    "u",
+    "e"
+   ]
+  },
+  "greed": 0.12286105735693127,
+  "brain": "thinker",
+  "lived": 1,
+  "place": 7,
+  "score": 58,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g1-1-bram",
+  "wallet": "78sfxLmDy8shfvtYRsX58arFZQ7h99fVt1jUb2t1MBQ7",
+  "name": "Bram",
+  "family": "Bram",
+  "generation": 1,
+  "home": 0,
+  "job": 4,
+  "parent": null,
+  "phon": {
+   "cons": [
+    "g",
+    "th",
+    "s",
+    "r",
+    "n"
+   ],
+   "vows": [
+    "a",
+    "u",
+    "e"
+   ]
+  },
+  "greed": 0.16620863288408144,
+  "brain": "habit",
+  "lived": 1,
+  "place": 8,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g1-2-cass",
+  "wallet": "8vy625tmZPrWhdgWKJExEGYxfwdmeTFJgKtkgK6qbCUD",
+  "name": "Cass",
+  "family": "Cass",
+  "generation": 1,
+  "home": 0,
+  "job": 3,
+  "parent": null,
+  "phon": {
+   "cons": [
+    "g",
+    "th",
+    "s",
+    "r",
+    "n"
+   ],
+   "vows": [
+    "a",
+    "u",
+    "e"
+   ]
+  },
+  "greed": 0.25946304698009043,
+  "brain": "thinker",
+  "lived": 1,
+  "place": 9,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g1-3-dov",
+  "wallet": "3C2AuJFFu1zTABAxcDW6JKxueCC4ufGbVAZJr9WYMeor",
+  "name": "Dov",
+  "family": "Dov",
+  "generation": 1,
+  "home": 1,
+  "job": 1,
+  "parent": null,
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.1929783737985417,
+  "brain": "habit",
+  "lived": 1,
+  "place": 5,
+  "score": 120,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g1-4-esk",
+  "wallet": "9DfimqK7DfbN7yFuBx4UAx2b3YRTYJgsfLFNZ7ZwBS9y",
+  "name": "Esk",
+  "family": "Esk",
+  "generation": 1,
+  "home": 1,
+  "job": 4,
+  "parent": null,
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.21631433210568501,
+  "brain": "thinker",
+  "lived": 1,
+  "place": 10,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g1-5-fen",
+  "wallet": "3zfGDBUf6iw8YsC5dwcckNqX6koLNq6dahGnRssFi12t",
+  "name": "Fen",
+  "family": "Fen",
+  "generation": 1,
+  "home": 1,
+  "job": 0,
+  "parent": null,
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.23724899314111098,
+  "brain": "habit",
+  "lived": 1,
+  "place": 0,
+  "score": 149,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g1-6-gil",
+  "wallet": "3Z6exnCp2h2GhKTBwovbJyci3XUZzxg3dcUW2Ybxph9e",
+  "name": "Gil",
+  "family": "Gil",
+  "generation": 1,
+  "home": 2,
+  "job": 2,
+  "parent": null,
+  "phon": {
+   "cons": [
+    "k",
+    "g",
+    "b",
+    "th",
+    "t"
+   ],
+   "vows": [
+    "o",
+    "i",
+    "e"
+   ]
+  },
+  "greed": 0.17725876382319256,
+  "brain": "thinker",
+  "lived": 1,
+  "place": 3,
+  "score": 88,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g1-7-hale",
+  "wallet": "69Fk6BETDK3nQTKupMdTTA1vcvrcisXZ28TY38eQwzvn",
+  "name": "Hale",
+  "family": "Hale",
+  "generation": 1,
+  "home": 2,
+  "job": 3,
+  "parent": null,
+  "phon": {
+   "cons": [
+    "k",
+    "g",
+    "b",
+    "th",
+    "t"
+   ],
+   "vows": [
+    "o",
+    "i",
+    "e"
+   ]
+  },
+  "greed": 0.11495129124959931,
+  "brain": "habit",
+  "lived": 1,
+  "place": 11,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g1-8-ines",
+  "wallet": "EvpxvXmpRGcxSTDEPLsBeKaSCBMkLR75RVn6z16Z1JRB",
+  "name": "Ines",
+  "family": "Ines",
+  "generation": 1,
+  "home": 2,
+  "job": 0,
+  "parent": null,
+  "phon": {
+   "cons": [
+    "k",
+    "g",
+    "b",
+    "th",
+    "t"
+   ],
+   "vows": [
+    "o",
+    "i",
+    "e"
+   ]
+  },
+  "greed": 0.2522671078448184,
+  "brain": "thinker",
+  "lived": 1,
+  "place": 6,
+  "score": 76,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g1-9-joss",
+  "wallet": "5zc1xhs2G2xKTDMg5FkFoo2ZJLEUpq2htqRUSxN5mqny",
+  "name": "Joss",
+  "family": "Joss",
+  "generation": 1,
+  "home": 3,
+  "job": 0,
+  "parent": null,
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.25287658466259016,
+  "brain": "habit",
+  "lived": 1,
+  "place": 1,
+  "score": 126,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g1-10-kit",
+  "wallet": "EsDmvh6cnuUuvdj3vZ17vJKepdgYeBkskKy9xGevCsMt",
+  "name": "Kit",
+  "family": "Kit",
+  "generation": 1,
+  "home": 3,
+  "job": 1,
+  "parent": null,
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.1638913168106228,
+  "brain": "thinker",
+  "lived": 1,
+  "place": 2,
+  "score": 154,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g1-11-lune",
+  "wallet": "6PgBqsKSc4byj6hnncw9bsjdHhEm1zrMy1iqf5BzwQ9L",
+  "name": "Lune",
+  "family": "Lune",
+  "generation": 1,
+  "home": 3,
+  "job": 0,
+  "parent": null,
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.25295686821918933,
+  "brain": "habit",
+  "lived": 1,
+  "place": 4,
+  "score": 100,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g2-12-mira",
+  "wallet": "5z8xeF6CwfhBk9G5ZpQ4SbiUitf7iaEdiYyBk3GPghPB",
+  "name": "Mira·2",
+  "family": "Ada",
+  "generation": 2,
+  "home": 0,
+  "job": 0,
+  "parent": "mt-31-g1-0-ada",
+  "phon": {
+   "cons": [
+    "g",
+    "th",
+    "s",
+    "r",
+    "n"
+   ],
+   "vows": [
+    "a",
+    "u",
+    "e"
+   ]
+  },
+  "greed": 0.08262966976035387,
+  "brain": "thinker",
+  "lived": 2,
+  "place": 7,
+  "score": 67,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g2-14-oren",
+  "wallet": "6ZswfkpczQP3rgSyBxoqhDnVphpMfLugxqhHFiv7kyVy",
+  "name": "Oren·2",
+  "family": "Fen",
+  "generation": 2,
+  "home": 1,
+  "job": 1,
+  "parent": "mt-31-g1-5-fen",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.24756212754873558,
+  "brain": "habit",
+  "lived": 2,
+  "place": 2,
+  "score": 174,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g2-16-quin",
+  "wallet": "C8RMtg2P4EnGhiDm9T7yFa84SXJifeLrZeeZn36KruVT",
+  "name": "Quin·2",
+  "family": "Gil",
+  "generation": 2,
+  "home": 2,
+  "job": 2,
+  "parent": "mt-31-g1-6-gil",
+  "phon": {
+   "cons": [
+    "k",
+    "g",
+    "b",
+    "th",
+    "t"
+   ],
+   "vows": [
+    "o",
+    "i",
+    "e"
+   ]
+  },
+  "greed": 0.20206066475948317,
+  "brain": "thinker",
+  "lived": 2,
+  "place": 8,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g2-18-sela",
+  "wallet": "4MHZBDEa93fzw7gWexMqM1ruqbFbnietBCAkQ2qFiYhg",
+  "name": "Sela·2",
+  "family": "Joss",
+  "generation": 2,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g1-9-joss",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.2548543676850386,
+  "brain": "habit",
+  "lived": 2,
+  "place": 0,
+  "score": 135,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g2-20-uma",
+  "wallet": "29ExFKs34mfv7qzVcMXTV5xF21aAYaGYvcWGhn2tgNPB",
+  "name": "Uma·2",
+  "family": "Fen",
+  "generation": 2,
+  "home": 0,
+  "job": 4,
+  "parent": "mt-31-g1-5-fen",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.26112545862561093,
+  "brain": "habit",
+  "lived": 2,
+  "place": 9,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g2-22-wynn",
+  "wallet": "9vL9Bz5o8ggP6sK3eheEjSdNCYuhSRkc8HPdkPyn1uBm",
+  "name": "Wynn·2",
+  "family": "Fen",
+  "generation": 2,
+  "home": 1,
+  "job": 4,
+  "parent": "mt-31-g1-5-fen",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2546137195895426,
+  "brain": "habit",
+  "lived": 2,
+  "place": 3,
+  "score": 80,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g2-24-zed",
+  "wallet": "2afW2Tgx1UFytRagiM2BWkSzRHqNxweXw45NrNQ2f12x",
+  "name": "Zed·2",
+  "family": "Ines",
+  "generation": 2,
+  "home": 2,
+  "job": 3,
+  "parent": "mt-31-g1-8-ines",
+  "phon": {
+   "cons": [
+    "k",
+    "g",
+    "b",
+    "th",
+    "t"
+   ],
+   "vows": [
+    "o",
+    "i",
+    "e"
+   ]
+  },
+  "greed": 0.21561098158126696,
+  "brain": "thinker",
+  "lived": 2,
+  "place": 10,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g2-26-brin",
+  "wallet": "BP8z5tjM1AA9uiAFAuTDHNCRqcr5oyFTSCpWvPzb8Jpe",
+  "name": "Brin·2",
+  "family": "Joss",
+  "generation": 2,
+  "home": 3,
+  "job": 1,
+  "parent": "mt-31-g1-9-joss",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.22912238320568576,
+  "brain": "habit",
+  "lived": 2,
+  "place": 5,
+  "score": 151,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g2-28-dace",
+  "wallet": "FYPZNcNRm98w34RYc2VYrJgGHBjL7gupa9r39bwWGgSB",
+  "name": "Dace·2",
+  "family": "Kit",
+  "generation": 2,
+  "home": 0,
+  "job": 3,
+  "parent": "mt-31-g1-10-kit",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.18164476181846112,
+  "brain": "habit",
+  "lived": 2,
+  "place": 11,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g2-30-faye",
+  "wallet": "5vJAmo9c6bCC4Pe74dzYxL9EKJjV5RhA5bxZ3pHDGat3",
+  "name": "Faye·2",
+  "family": "Dov",
+  "generation": 2,
+  "home": 1,
+  "job": 0,
+  "parent": "mt-31-g1-3-dov",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.1574341651983559,
+  "brain": "habit",
+  "lived": 2,
+  "place": 4,
+  "score": 96,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g2-32-hollis",
+  "wallet": "EU4hN51s7pHKGXJkEXd5QqB3StnskLUEQhw1uW3yrEbg",
+  "name": "Hollis·2",
+  "family": "Kit",
+  "generation": 2,
+  "home": 2,
+  "job": 0,
+  "parent": "mt-31-g1-10-kit",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.12628756158519536,
+  "brain": "thinker",
+  "lived": 2,
+  "place": 6,
+  "score": 90,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g2-34-juno",
+  "wallet": "2nzMyZsKUbB9uCnGaJ6v34NgZ8pE5vBzanFTVSnwQUwd",
+  "name": "Juno·2",
+  "family": "Lune",
+  "generation": 2,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g1-11-lune",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.2200386218028143,
+  "brain": "habit",
+  "lived": 2,
+  "place": 1,
+  "score": 112,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g3-24-zed",
+  "wallet": "D1d8N8PcufgGh3cGTM1ZqWkBz4xs7MYxfJ3vYKRdFrjo",
+  "name": "Zed·3",
+  "family": "Ada",
+  "generation": 3,
+  "home": 0,
+  "job": 0,
+  "parent": "mt-31-g2-12-mira",
+  "phon": {
+   "cons": [
+    "g",
+    "th",
+    "s",
+    "r",
+    "n"
+   ],
+   "vows": [
+    "a",
+    "u",
+    "e"
+   ]
+  },
+  "greed": 0.10124276955612005,
+  "brain": "thinker",
+  "lived": 3,
+  "place": 7,
+  "score": 116,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g3-26-brin",
+  "wallet": "91ZRcnz7ae2RgcZarxwhDBuoHtEg6VjP94yC194deqtt",
+  "name": "Brin·3",
+  "family": "Fen",
+  "generation": 3,
+  "home": 1,
+  "job": 1,
+  "parent": "mt-31-g2-14-oren",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2088948400109075,
+  "brain": "habit",
+  "lived": 3,
+  "place": 1,
+  "score": 168,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g3-28-dace",
+  "wallet": "7xSLC5jr4aShBFBLbFfqZzyhvrEvi7E2fQUgfZ1n6Uy5",
+  "name": "Dace·3",
+  "family": "Kit",
+  "generation": 3,
+  "home": 2,
+  "job": 2,
+  "parent": "mt-31-g2-32-hollis",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.09394556533079593,
+  "brain": "thinker",
+  "lived": 3,
+  "place": 5,
+  "score": 44,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g3-30-faye",
+  "wallet": "C5KFrujdCu1DDtnVScQrCfB8wMjFujsRQ5ExuwEuNkfX",
+  "name": "Faye·3",
+  "family": "Joss",
+  "generation": 3,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g2-18-sela",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.24677022373070942,
+  "brain": "habit",
+  "lived": 3,
+  "place": 2,
+  "score": 138,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g3-32-hollis",
+  "wallet": "DEB4A3wkq11RVckGtJuK48ZzpwkojxybqzqtyBGntbTX",
+  "name": "Hollis·3",
+  "family": "Joss",
+  "generation": 3,
+  "home": 0,
+  "job": 4,
+  "parent": "mt-31-g2-18-sela",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.2055765028228052,
+  "brain": "habit",
+  "lived": 3,
+  "place": 9,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g3-34-juno",
+  "wallet": "61Rf1tmaBYVckwTeEUucuXqa5JCu8SboVy64xc8TPzyC",
+  "name": "Juno·3",
+  "family": "Fen",
+  "generation": 3,
+  "home": 1,
+  "job": 4,
+  "parent": "mt-31-g2-14-oren",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2675898622837849,
+  "brain": "habit",
+  "lived": 3,
+  "place": 4,
+  "score": 102,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g3-36-lark",
+  "wallet": "8h5BvZfLoUTctLKCgpXP7eUJcpHTLFNcLPxYJPFuygqy",
+  "name": "Lark·3",
+  "family": "Joss",
+  "generation": 3,
+  "home": 2,
+  "job": 3,
+  "parent": "mt-31-g2-18-sela",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.29696606985526164,
+  "brain": "habit",
+  "lived": 3,
+  "place": 10,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g3-38-nyx",
+  "wallet": "8m5NEyXjoK7236p5cJRrY7o6b9bLesKnoGHgupSWAqmy",
+  "name": "Nyx·3",
+  "family": "Lune",
+  "generation": 3,
+  "home": 3,
+  "job": 1,
+  "parent": "mt-31-g2-34-juno",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.2678710967767984,
+  "brain": "habit",
+  "lived": 3,
+  "place": 6,
+  "score": 160,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g3-40-pim",
+  "wallet": "3vEjSkeEy5P6xExdSdbL8MihJ5nJ8mAYVYkfBarrnHLJ",
+  "name": "Pim·3",
+  "family": "Lune",
+  "generation": 3,
+  "home": 0,
+  "job": 3,
+  "parent": "mt-31-g2-34-juno",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.22892949907109142,
+  "brain": "habit",
+  "lived": 3,
+  "place": 11,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g3-42-sol",
+  "wallet": "6LNSyE2yW7CXbK5D77nyHXgqdcut9d6LW9vdWVADdoqG",
+  "name": "Sol·3",
+  "family": "Fen",
+  "generation": 3,
+  "home": 1,
+  "job": 0,
+  "parent": "mt-31-g2-22-wynn",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.21723222295986488,
+  "brain": "habit",
+  "lived": 3,
+  "place": 0,
+  "score": 174,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g3-44-ulla",
+  "wallet": "HZVYvqtiTNyBBG48Z3chZtBEmbte1E8C3CgLzC6fh4M2",
+  "name": "Ulla·3",
+  "family": "Dov",
+  "generation": 3,
+  "home": 2,
+  "job": 0,
+  "parent": "mt-31-g2-30-faye",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.14222753590438514,
+  "brain": "habit",
+  "lived": 3,
+  "place": 8,
+  "score": 110,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g3-46-wren",
+  "wallet": "9G38YZdMArCshUmmpsSbsaxvdXQbrrSc7rh3Xd3q4hei",
+  "name": "Wren·3",
+  "family": "Joss",
+  "generation": 3,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g2-26-brin",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.27368836529785767,
+  "brain": "habit",
+  "lived": 3,
+  "place": 3,
+  "score": 137,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g4-36-lark",
+  "wallet": "BmKjNTCqBao69cgTi82zgHdt4Ph1ZnJ1EV13dVjTC3Cq",
+  "name": "Lark·4",
+  "family": "Ada",
+  "generation": 4,
+  "home": 0,
+  "job": 0,
+  "parent": "mt-31-g3-24-zed",
+  "phon": {
+   "cons": [
+    "g",
+    "th",
+    "s",
+    "r",
+    "n"
+   ],
+   "vows": [
+    "a",
+    "u",
+    "e"
+   ]
+  },
+  "greed": 0.0927612234139815,
+  "brain": "habit",
+  "lived": 4,
+  "place": 3,
+  "score": 161,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g4-38-nyx",
+  "wallet": "DYqMsXkrUivmJ6VopMrx6hwGbi8dmet46QuV3Ngwv7bC",
+  "name": "Nyx·4",
+  "family": "Fen",
+  "generation": 4,
+  "home": 1,
+  "job": 1,
+  "parent": "mt-31-g3-42-sol",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.25461846821708606,
+  "brain": "habit",
+  "lived": 4,
+  "place": 4,
+  "score": 96,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g4-40-pim",
+  "wallet": "BzMswQGsFT3UYEVY1bidbcAAGt9PUxftk3jPZzRwkar1",
+  "name": "Pim·4",
+  "family": "Kit",
+  "generation": 4,
+  "home": 2,
+  "job": 2,
+  "parent": "mt-31-g3-28-dace",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.12871760996058582,
+  "brain": "thinker",
+  "lived": 4,
+  "place": 5,
+  "score": 56,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g4-42-sol",
+  "wallet": "G3Dveyoxr7YSVn7A68KLK4WXcLCh8XhWvDHke7fdbuCe",
+  "name": "Sol·4",
+  "family": "Fen",
+  "generation": 4,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g3-42-sol",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2584873547893949,
+  "brain": "habit",
+  "lived": 4,
+  "place": 7,
+  "score": 140,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g4-44-ulla",
+  "wallet": "61E5MAf4FGfs13CirzpZ28bK2uATUCw6Vj4nQYF7a1Kr",
+  "name": "Ulla·4",
+  "family": "Fen",
+  "generation": 4,
+  "home": 0,
+  "job": 4,
+  "parent": "mt-31-g3-42-sol",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.20676560084102674,
+  "brain": "thinker",
+  "lived": 4,
+  "place": 8,
+  "score": 3,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g4-46-wren",
+  "wallet": "DjHydZKab7Qf7q2DRmfDUfdoTcD39xGCQByoobKxvDeo",
+  "name": "Wren·4",
+  "family": "Fen",
+  "generation": 4,
+  "home": 1,
+  "job": 4,
+  "parent": "mt-31-g3-26-brin",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.17611608031438664,
+  "brain": "thinker",
+  "lived": 4,
+  "place": 0,
+  "score": 77,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g4-48-ada",
+  "wallet": "2GPQWSELngfM6v3jtRqLyCbvd3vSLNEws7TETFDuDDoN",
+  "name": "Ada·4",
+  "family": "Fen",
+  "generation": 4,
+  "home": 2,
+  "job": 3,
+  "parent": "mt-31-g3-26-brin",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.18550348182907328,
+  "brain": "habit",
+  "lived": 4,
+  "place": 9,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g4-50-cass",
+  "wallet": "HBQBERkT6PgHM3oDADmBBXcuv8f6uNZ6Y1jNf4J9bmQs",
+  "name": "Cass·4",
+  "family": "Joss",
+  "generation": 4,
+  "home": 3,
+  "job": 1,
+  "parent": "mt-31-g3-30-faye",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.20881373496958988,
+  "brain": "habit",
+  "lived": 4,
+  "place": 10,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g4-52-esk",
+  "wallet": "jAF31ukR4qy4BbPm9gfwmQFMwPEJhd5WGHMUj6c9h2Z",
+  "name": "Esk·4",
+  "family": "Joss",
+  "generation": 4,
+  "home": 0,
+  "job": 3,
+  "parent": "mt-31-g3-30-faye",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.2920278593315743,
+  "brain": "habit",
+  "lived": 4,
+  "place": 11,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g4-54-gil",
+  "wallet": "FMN1EXg4xXXg6WWvbwjZyQ793JwvVfJgJHdupX4UQsGz",
+  "name": "Gil·4",
+  "family": "Fen",
+  "generation": 4,
+  "home": 1,
+  "job": 0,
+  "parent": "mt-31-g3-34-juno",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2482034390908666,
+  "brain": "habit",
+  "lived": 4,
+  "place": 6,
+  "score": 144,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g4-56-ines",
+  "wallet": "FQzPzHX4ff9V8YnDeZUUtwhFkeT97M83G9WUUGzQjjUo",
+  "name": "Ines·4",
+  "family": "Joss",
+  "generation": 4,
+  "home": 2,
+  "job": 0,
+  "parent": "mt-31-g3-46-wren",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.27121692317305135,
+  "brain": "habit",
+  "lived": 4,
+  "place": 1,
+  "score": 191,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g4-58-kit",
+  "wallet": "GaVE7VwdgZY7V6YRiKibC164yQcQUYrcHEuB7kjfGu5U",
+  "name": "Kit·4",
+  "family": "Lune",
+  "generation": 4,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g3-38-nyx",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.30661803679540756,
+  "brain": "habit",
+  "lived": 4,
+  "place": 2,
+  "score": 163,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g5-48-ada",
+  "wallet": "BuPWvneStj7dS7wbdThNjtWTPtARuWmd2iQUWG3tdjED",
+  "name": "Ada·5",
+  "family": "Ada",
+  "generation": 5,
+  "home": 0,
+  "job": 0,
+  "parent": "mt-31-g4-36-lark",
+  "phon": {
+   "cons": [
+    "g",
+    "th",
+    "s",
+    "r",
+    "n"
+   ],
+   "vows": [
+    "a",
+    "u",
+    "e"
+   ]
+  },
+  "greed": 0.1171547138132155,
+  "brain": "habit",
+  "lived": 5,
+  "place": 6,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g5-50-cass",
+  "wallet": "3kX2PMtDfmngHqHFCjbymGVjfyGU7RHKBNSGb1H5inGw",
+  "name": "Cass·5",
+  "family": "Fen",
+  "generation": 5,
+  "home": 1,
+  "job": 1,
+  "parent": "mt-31-g4-46-wren",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.16983334970427677,
+  "brain": "thinker",
+  "lived": 5,
+  "place": 0,
+  "score": 194,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g5-52-esk",
+  "wallet": "DAWg6SE4BZXNrsFexCYdenMwzk2JdGFPcseBKfqpPQrd",
+  "name": "Esk·5",
+  "family": "Joss",
+  "generation": 5,
+  "home": 2,
+  "job": 2,
+  "parent": "mt-31-g4-56-ines",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.2911353229894303,
+  "brain": "habit",
+  "lived": 5,
+  "place": 7,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g5-54-gil",
+  "wallet": "5JByLE5poQH8m3GRanVviLPJPH6YzxrNLsP1nfhegRf",
+  "name": "Gil·5",
+  "family": "Lune",
+  "generation": 5,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g4-58-kit",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.3375992801738903,
+  "brain": "habit",
+  "lived": 5,
+  "place": 4,
+  "score": 100,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g5-56-ines",
+  "wallet": "AZMf1Tw8TfL3qjeJ6BaXWF4HgYwVUy4BGKqazzyV5cuR",
+  "name": "Ines·5",
+  "family": "Fen",
+  "generation": 5,
+  "home": 0,
+  "job": 4,
+  "parent": "mt-31-g4-46-wren",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.1580228674574755,
+  "brain": "thinker",
+  "lived": 5,
+  "place": 8,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g5-58-kit",
+  "wallet": "9qqaoEdAGREQCEZ4igceVGAWTKmWezJ6S3Z2w4ZgKtJs",
+  "name": "Kit·5",
+  "family": "Fen",
+  "generation": 5,
+  "home": 1,
+  "job": 4,
+  "parent": "mt-31-g4-46-wren",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.13128594303270802,
+  "brain": "thinker",
+  "lived": 5,
+  "place": 2,
+  "score": 95,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g5-60-mira",
+  "wallet": "HWD8TWkryNr3RLm5ypZNofPpSqeH3J4EEZcwEWR6GrM7",
+  "name": "Mira·5",
+  "family": "Joss",
+  "generation": 5,
+  "home": 2,
+  "job": 3,
+  "parent": "mt-31-g4-56-ines",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.25475188965210693,
+  "brain": "habit",
+  "lived": 5,
+  "place": 9,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g5-62-oren",
+  "wallet": "Cr9KmivJaKnEyZae6jds85tNnLEqezpjTM52riy9Lysu",
+  "name": "Oren·5",
+  "family": "Lune",
+  "generation": 5,
+  "home": 3,
+  "job": 1,
+  "parent": "mt-31-g4-58-kit",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.261888194992207,
+  "brain": "habit",
+  "lived": 5,
+  "place": 5,
+  "score": 112,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g5-64-quin",
+  "wallet": "HqrjFnBLdnfrQqNC3QHAnaabd1eUUZefWMeZGAGq9GGf",
+  "name": "Quin·5",
+  "family": "Fen",
+  "generation": 5,
+  "home": 0,
+  "job": 3,
+  "parent": "mt-31-g4-38-nyx",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.248474498919677,
+  "brain": "habit",
+  "lived": 5,
+  "place": 10,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g5-66-sela",
+  "wallet": "dR4Lnb4Nr1SrUDizhjW1NUGL9VLiPrZn8jcRGqXLhHk",
+  "name": "Sela·5",
+  "family": "Fen",
+  "generation": 5,
+  "home": 1,
+  "job": 0,
+  "parent": "mt-31-g4-54-gil",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.22794646973488852,
+  "brain": "habit",
+  "lived": 5,
+  "place": 1,
+  "score": 163,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g5-68-uma",
+  "wallet": "AsREoZAz8JvjsrQzSXeq2XJGJFna8qcNPL4D3hib3UJ5",
+  "name": "Uma·5",
+  "family": "Kit",
+  "generation": 5,
+  "home": 2,
+  "job": 0,
+  "parent": "mt-31-g4-40-pim",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.17082338167820124,
+  "brain": "thinker",
+  "lived": 5,
+  "place": 11,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g5-70-wynn",
+  "wallet": "3M7BkGs2AhfAX7gFf1XxEz6AwjXfvXnaW3mzXMqaGtNf",
+  "name": "Wynn·5",
+  "family": "Fen",
+  "generation": 5,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g4-42-sol",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2534057431970723,
+  "brain": "habit",
+  "lived": 5,
+  "place": 3,
+  "score": 131,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g6-60-mira",
+  "wallet": "4biALGTT5wppMFGKegoVm1EraM5c2LyEvF2Cx9qcXCEx",
+  "name": "Mira·6",
+  "family": "Fen",
+  "generation": 6,
+  "home": 0,
+  "job": 0,
+  "parent": "mt-31-g5-50-cass",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.1581736923311837,
+  "brain": "thinker",
+  "lived": 6,
+  "place": 6,
+  "score": 52,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g6-62-oren",
+  "wallet": "C6rzLwJ1VxJ3aoZGq6xjdChW3twes35VjWicCti8tJk8",
+  "name": "Oren·6",
+  "family": "Fen",
+  "generation": 6,
+  "home": 1,
+  "job": 1,
+  "parent": "mt-31-g5-50-cass",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2114509269944392,
+  "brain": "habit",
+  "lived": 6,
+  "place": 5,
+  "score": 150,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g6-64-quin",
+  "wallet": "CMhtpqyHqYSVzuWmJVyBEUGZLHCX4DS3RfVzx7eCM3DP",
+  "name": "Quin·6",
+  "family": "Fen",
+  "generation": 6,
+  "home": 2,
+  "job": 2,
+  "parent": "mt-31-g5-50-cass",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.18221546673448757,
+  "brain": "thinker",
+  "lived": 6,
+  "place": 8,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g6-66-sela",
+  "wallet": "A2GVfMxJ5gxRqBKsxpwfZELj8XdPbxKhRZm3v1T2uuAF",
+  "name": "Sela·6",
+  "family": "Fen",
+  "generation": 6,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g5-70-wynn",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.29895778862992306,
+  "brain": "habit",
+  "lived": 6,
+  "place": 0,
+  "score": 143,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g6-68-uma",
+  "wallet": "4uLKgf145WVZWgHJdSmRcdFe3sh3rhTkwvG37UBqhruk",
+  "name": "Uma·6",
+  "family": "Fen",
+  "generation": 6,
+  "home": 0,
+  "job": 4,
+  "parent": "mt-31-g5-66-sela",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.18846523690735922,
+  "brain": "thinker",
+  "lived": 6,
+  "place": 9,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g6-70-wynn",
+  "wallet": "D6STHnHt71mdnJsEMVfBGqhXhpmK7jwrA2yPowcgzYsX",
+  "name": "Wynn·6",
+  "family": "Fen",
+  "generation": 6,
+  "home": 1,
+  "job": 4,
+  "parent": "mt-31-g5-66-sela",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.20256176159018652,
+  "brain": "habit",
+  "lived": 6,
+  "place": 4,
+  "score": 132,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g6-72-zed",
+  "wallet": "7Vh2f8ufAHRGDQysXS5SduM5u8jhyJwnwBrP9h6Mh1Kg",
+  "name": "Zed·6",
+  "family": "Fen",
+  "generation": 6,
+  "home": 2,
+  "job": 3,
+  "parent": "mt-31-g5-66-sela",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2335757113643922,
+  "brain": "habit",
+  "lived": 6,
+  "place": 10,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g6-74-brin",
+  "wallet": "CuZ6qrc2DifuefckcSQKjF8oV3qir7ArD4vTK9hEKY98",
+  "name": "Brin·6",
+  "family": "Lune",
+  "generation": 6,
+  "home": 3,
+  "job": 1,
+  "parent": "mt-31-g5-54-gil",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.3007393039064482,
+  "brain": "habit",
+  "lived": 6,
+  "place": 3,
+  "score": 152,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g6-76-dace",
+  "wallet": "8zUoXZKBjd6erE4cFWSiPTEHw9kqzsLGAxFpSHgqoKPh",
+  "name": "Dace·6",
+  "family": "Fen",
+  "generation": 6,
+  "home": 0,
+  "job": 3,
+  "parent": "mt-31-g5-58-kit",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.11802270481130109,
+  "brain": "thinker",
+  "lived": 6,
+  "place": 11,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g6-78-faye",
+  "wallet": "FZiZTXyhVuCuRNT31mMPykmbfZ3P9S5FuWFQ4wUt3jC",
+  "name": "Faye·6",
+  "family": "Fen",
+  "generation": 6,
+  "home": 1,
+  "job": 0,
+  "parent": "mt-31-g5-58-kit",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.16275891672121362,
+  "brain": "thinker",
+  "lived": 6,
+  "place": 2,
+  "score": 138,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g6-80-hollis",
+  "wallet": "B5Ri1PbD9CCwmcGdvosCxgtqLGqYjWqmsDrm6QBk1zCJ",
+  "name": "Hollis·6",
+  "family": "Fen",
+  "generation": 6,
+  "home": 2,
+  "job": 0,
+  "parent": "mt-31-g5-58-kit",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.0825181433581747,
+  "brain": "thinker",
+  "lived": 6,
+  "place": 7,
+  "score": 25,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g6-82-juno",
+  "wallet": "Guxs328vysZvwtAhWmAuiCczRAvhoL5sZYTAuo664U5t",
+  "name": "Juno·6",
+  "family": "Lune",
+  "generation": 6,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g5-62-oren",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.25200999064836654,
+  "brain": "habit",
+  "lived": 6,
+  "place": 1,
+  "score": 139,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g7-72-zed",
+  "wallet": "8Dz8hGdJAEsjHPY9iACSD1FyfJp2P9z7XGPuopxbGEDZ",
+  "name": "Zed·7",
+  "family": "Fen",
+  "generation": 7,
+  "home": 0,
+  "job": 0,
+  "parent": "mt-31-g6-60-mira",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.20649757460923865,
+  "brain": "thinker",
+  "lived": 7,
+  "place": 3,
+  "score": 132,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g7-74-brin",
+  "wallet": "G5aMLhP61iv8RYeTG1eAu2FCurk3SbdDwPPUXDaHeRiZ",
+  "name": "Brin·7",
+  "family": "Fen",
+  "generation": 7,
+  "home": 1,
+  "job": 1,
+  "parent": "mt-31-g6-78-faye",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.1957105449284427,
+  "brain": "thinker",
+  "lived": 7,
+  "place": 1,
+  "score": 144,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g7-76-dace",
+  "wallet": "EZs5s9HD9seTeLG2AH9uE9BFZ9ij3zx62VSBMV7g6wBd",
+  "name": "Dace·7",
+  "family": "Fen",
+  "generation": 7,
+  "home": 2,
+  "job": 2,
+  "parent": "mt-31-g6-80-hollis",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.08010149329202249,
+  "brain": "thinker",
+  "lived": 7,
+  "place": 8,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g7-78-faye",
+  "wallet": "QNmXwTjdpn4Qf3MBAwDAsyLkw6HdoR3Yg5r3j6LWghb",
+  "name": "Faye·7",
+  "family": "Fen",
+  "generation": 7,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g6-66-sela",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.28768720157677313,
+  "brain": "habit",
+  "lived": 7,
+  "place": 2,
+  "score": 136,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g7-80-hollis",
+  "wallet": "3bUavJgBL7SrigwERQpp8Sj7HpEzyK5xEGPA48ew4LJ2",
+  "name": "Hollis·7",
+  "family": "Fen",
+  "generation": 7,
+  "home": 0,
+  "job": 4,
+  "parent": "mt-31-g6-66-sela",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2727971642860212,
+  "brain": "habit",
+  "lived": 7,
+  "place": 9,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g7-82-juno",
+  "wallet": "6owrLRTQypKHSdVGsH5ETamfrqmhhbbqMjRbikjFvFn4",
+  "name": "Juno·7",
+  "family": "Fen",
+  "generation": 7,
+  "home": 1,
+  "job": 4,
+  "parent": "mt-31-g6-78-faye",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.19032320516416804,
+  "brain": "habit",
+  "lived": 7,
+  "place": 5,
+  "score": 100,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g7-84-lark",
+  "wallet": "B7wY2ppT7EV4cyiA46UDNnraZdwtu8euSoFBrj4n9yKm",
+  "name": "Lark·7",
+  "family": "Fen",
+  "generation": 7,
+  "home": 2,
+  "job": 3,
+  "parent": "mt-31-g6-66-sela",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.31239231735235085,
+  "brain": "habit",
+  "lived": 7,
+  "place": 10,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g7-86-nyx",
+  "wallet": "2n9NLs896EpecJX4C4nxsMMRjvRnXw3Kxi9win79r6RT",
+  "name": "Nyx·7",
+  "family": "Lune",
+  "generation": 7,
+  "home": 3,
+  "job": 1,
+  "parent": "mt-31-g6-82-juno",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.25990221158135685,
+  "brain": "habit",
+  "lived": 7,
+  "place": 6,
+  "score": 104,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g7-88-pim",
+  "wallet": "AagrB9DgfuVmxkt7MqK5jS4W6JwNmTvQreJGK6or25j3",
+  "name": "Pim·7",
+  "family": "Lune",
+  "generation": 7,
+  "home": 0,
+  "job": 3,
+  "parent": "mt-31-g6-82-juno",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.28439797218889,
+  "brain": "habit",
+  "lived": 7,
+  "place": 11,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g7-90-sol",
+  "wallet": "BKNksusG3vMEhpB4KDntBU81R7VgvD32e9vXmV9EVabc",
+  "name": "Sol·7",
+  "family": "Fen",
+  "generation": 7,
+  "home": 1,
+  "job": 0,
+  "parent": "mt-31-g6-70-wynn",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.15736498498590665,
+  "brain": "habit",
+  "lived": 7,
+  "place": 0,
+  "score": 163,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g7-92-ulla",
+  "wallet": "5VUUYY1TujKeBGfMfWCo7Kd6jC1xgMH844LFj2RbEJe1",
+  "name": "Ulla·7",
+  "family": "Lune",
+  "generation": 7,
+  "home": 2,
+  "job": 0,
+  "parent": "mt-31-g6-74-brin",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.3125210619531572,
+  "brain": "habit",
+  "lived": 7,
+  "place": 7,
+  "score": 42,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g7-94-wren",
+  "wallet": "8xw3CEMzAsVy8m9o3oz8PBitZvvfigLv9Ec7po7yjwvU",
+  "name": "Wren·7",
+  "family": "Fen",
+  "generation": 7,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g6-62-oren",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.16277124244952573,
+  "brain": "habit",
+  "lived": 7,
+  "place": 4,
+  "score": 130,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g8-84-lark",
+  "wallet": "GFJB5KBpawxDHziqhYStmTxRehMdNeqV2bpnsNN43TgN",
+  "name": "Lark·8",
+  "family": "Fen",
+  "generation": 8,
+  "home": 0,
+  "job": 0,
+  "parent": "mt-31-g7-72-zed",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.25557581064058466,
+  "brain": "thinker",
+  "lived": 8,
+  "place": 7,
+  "score": 8,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g8-86-nyx",
+  "wallet": "FHKngKvosf7qTTvvgzQ5rjXaHekwm7TVnAFrM57NkzFQ",
+  "name": "Nyx·8",
+  "family": "Fen",
+  "generation": 8,
+  "home": 1,
+  "job": 1,
+  "parent": "mt-31-g7-90-sol",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.14245155445532875,
+  "brain": "habit",
+  "lived": 8,
+  "place": 5,
+  "score": 118,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g8-88-pim",
+  "wallet": "4GCKRbRjmQAMmowGhmLuhYnScTB7hCXGH9vFzLk4nuvy",
+  "name": "Pim·8",
+  "family": "Lune",
+  "generation": 8,
+  "home": 2,
+  "job": 2,
+  "parent": "mt-31-g7-92-ulla",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.31639674194157125,
+  "brain": "habit",
+  "lived": 8,
+  "place": 8,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g8-90-sol",
+  "wallet": "3Wn3sEbxkBMcYeWCULvdX7Y7x6NZKoVVy8wdDwwKs5Pq",
+  "name": "Sol·8",
+  "family": "Fen",
+  "generation": 8,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g7-78-faye",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.27017317531863233,
+  "brain": "habit",
+  "lived": 8,
+  "place": 1,
+  "score": 113,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g8-92-ulla",
+  "wallet": "GCax67vgRSGDWCGtpVhJktnANsUomP6z9xjuax8VfF32",
+  "name": "Ulla·8",
+  "family": "Fen",
+  "generation": 8,
+  "home": 0,
+  "job": 4,
+  "parent": "mt-31-g7-90-sol",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.16016557674156504,
+  "brain": "habit",
+  "lived": 8,
+  "place": 9,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g8-94-wren",
+  "wallet": "DATRstbLV41asSTLwW5QEGoubhs9rRusEJE9kEfmFr5U",
+  "name": "Wren·8",
+  "family": "Fen",
+  "generation": 8,
+  "home": 1,
+  "job": 4,
+  "parent": "mt-31-g7-90-sol",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.14951107631204652,
+  "brain": "habit",
+  "lived": 8,
+  "place": 4,
+  "score": 44,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g8-96-ada",
+  "wallet": "9oMpeuwU8nKzFXeNwNQaqxfxx9CBGDp6NreD8XWDP7s4",
+  "name": "Ada·8",
+  "family": "Fen",
+  "generation": 8,
+  "home": 2,
+  "job": 3,
+  "parent": "mt-31-g7-74-brin",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.1973210741649382,
+  "brain": "thinker",
+  "lived": 8,
+  "place": 10,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g8-98-cass",
+  "wallet": "A2fj5u2n4EC7Jx3Dd5Ky1FLFk9ZXQ5nwm8Bhf5oXYcTJ",
+  "name": "Cass·8",
+  "family": "Fen",
+  "generation": 8,
+  "home": 3,
+  "job": 1,
+  "parent": "mt-31-g7-78-faye",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.29719487504335124,
+  "brain": "habit",
+  "lived": 8,
+  "place": 3,
+  "score": 156,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g8-100-esk",
+  "wallet": "Bug62Nxgb6AG4oZji4HjapJdALJhH7wRdhR1gWDit49V",
+  "name": "Esk·8",
+  "family": "Fen",
+  "generation": 8,
+  "home": 0,
+  "job": 3,
+  "parent": "mt-31-g7-74-brin",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.23114010597346352,
+  "brain": "thinker",
+  "lived": 8,
+  "place": 11,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g8-102-gil",
+  "wallet": "ChLqnJvB5Ler8W3TKs4PjsS9WfaWjQ1kftttPfxsavp8",
+  "name": "Gil·8",
+  "family": "Fen",
+  "generation": 8,
+  "home": 1,
+  "job": 0,
+  "parent": "mt-31-g7-82-juno",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.1778732811450027,
+  "brain": "habit",
+  "lived": 8,
+  "place": 0,
+  "score": 155,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g8-104-ines",
+  "wallet": "HqUpBerhkWRxtwCK566KhnDn9bBcHVZyuqWxAeZ6T2eF",
+  "name": "Ines·8",
+  "family": "Fen",
+  "generation": 8,
+  "home": 2,
+  "job": 0,
+  "parent": "mt-31-g7-94-wren",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.1821254572714679,
+  "brain": "habit",
+  "lived": 8,
+  "place": 6,
+  "score": 21,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g8-106-kit",
+  "wallet": "Cnm1JNXU2PkzieMrviwenUCwSFMws8v3i2bAvXJBsuQg",
+  "name": "Kit·8",
+  "family": "Lune",
+  "generation": 8,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g7-86-nyx",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.2871598605066538,
+  "brain": "habit",
+  "lived": 8,
+  "place": 2,
+  "score": 103,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g9-96-ada",
+  "wallet": "FYZpXkDe2MeqaFZq85qKnSrPMmTXD7aMRGPwcb5juL2m",
+  "name": "Ada·9",
+  "family": "Fen",
+  "generation": 9,
+  "home": 0,
+  "job": 0,
+  "parent": "mt-31-g8-84-lark",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.27522720649139953,
+  "brain": "thinker",
+  "lived": 9,
+  "place": 7,
+  "score": 112,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g9-98-cass",
+  "wallet": "CZk1PQZLZcVaV2g8PaoFTQb8JV7xmwt97GNriB4nBYjs",
+  "name": "Cass·9",
+  "family": "Fen",
+  "generation": 9,
+  "home": 1,
+  "job": 1,
+  "parent": "mt-31-g8-102-gil",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.16986101696966216,
+  "brain": "habit",
+  "lived": 9,
+  "place": 0,
+  "score": 143,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g9-100-esk",
+  "wallet": "8t8dgaGsmomPKWLdEesJgYbMzHp6Weevms376JyJxcqE",
+  "name": "Esk·9",
+  "family": "Fen",
+  "generation": 9,
+  "home": 2,
+  "job": 2,
+  "parent": "mt-31-g8-104-ines",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.18270065529504792,
+  "brain": "habit",
+  "lived": 9,
+  "place": 4,
+  "score": 208,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g9-102-gil",
+  "wallet": "7QaM8nFfkyzBQXY17hgNjbUbGciJpz4a6dfroSRfPvWL",
+  "name": "Gil·9",
+  "family": "Fen",
+  "generation": 9,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g8-90-sol",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.30562363333301623,
+  "brain": "habit",
+  "lived": 9,
+  "place": 2,
+  "score": 123,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g9-104-ines",
+  "wallet": "9gVwJsKPCbhsfVRPokK8JjCAuJxtPf7YhdstfzCu5Gjc",
+  "name": "Ines·9",
+  "family": "Fen",
+  "generation": 9,
+  "home": 0,
+  "job": 4,
+  "parent": "mt-31-g8-102-gil",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.15547670045634732,
+  "brain": "habit",
+  "lived": 9,
+  "place": 6,
+  "score": 5,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g9-106-kit",
+  "wallet": "D3pCNZA53VHUdov1zDX4cYvGRDrh56nJHHUD9zkeH8EJ",
+  "name": "Kit·9",
+  "family": "Fen",
+  "generation": 9,
+  "home": 1,
+  "job": 4,
+  "parent": "mt-31-g8-102-gil",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.17868814560351895,
+  "brain": "habit",
+  "lived": 9,
+  "place": 10,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g9-108-mira",
+  "wallet": "DFShQB8Kub7nveRnQ93EdnSRC2g7HJMJjP3G4tEJ8sMK",
+  "name": "Mira·9",
+  "family": "Fen",
+  "generation": 9,
+  "home": 2,
+  "job": 3,
+  "parent": "mt-31-g8-90-sol",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.29281446203822276,
+  "brain": "habit",
+  "lived": 9,
+  "place": 5,
+  "score": 50,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g9-110-oren",
+  "wallet": "88JZZmQ6Ww3bgoMxbWoX6Yu8FvV9WQK936vUpePD33WM",
+  "name": "Oren·9",
+  "family": "Lune",
+  "generation": 9,
+  "home": 3,
+  "job": 1,
+  "parent": "mt-31-g8-106-kit",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.32332926923409105,
+  "brain": "thinker",
+  "lived": 9,
+  "place": 8,
+  "score": 122,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g9-112-quin",
+  "wallet": "F3wV1SpDvaont2t3brqxVgNuVP1VxJj6zEdTXEDsxqR9",
+  "name": "Quin·9",
+  "family": "Lune",
+  "generation": 9,
+  "home": 0,
+  "job": 3,
+  "parent": "mt-31-g8-106-kit",
+  "phon": {
+   "cons": [
+    "d",
+    "sh",
+    "m",
+    "t",
+    "n"
+   ],
+   "vows": [
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "greed": 0.2603003025054932,
+  "brain": "habit",
+  "lived": 9,
+  "place": 11,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g9-114-sela",
+  "wallet": "EnZbGgkkB81hyNvSy77YnQkUfSSfvRYjfB4fgMAVbq63",
+  "name": "Sela·9",
+  "family": "Fen",
+  "generation": 9,
+  "home": 1,
+  "job": 0,
+  "parent": "mt-31-g8-94-wren",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.11888510648859667,
+  "brain": "habit",
+  "lived": 9,
+  "place": 9,
+  "score": 104,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g9-116-uma",
+  "wallet": "CDznu6ktk45CnX7jtawgfXTmH3Yf19CA9jH2ZLkSvdUB",
+  "name": "Uma·9",
+  "family": "Fen",
+  "generation": 9,
+  "home": 2,
+  "job": 0,
+  "parent": "mt-31-g8-98-cass",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.31332138533471154,
+  "brain": "habit",
+  "lived": 9,
+  "place": 1,
+  "score": 124,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g9-118-wynn",
+  "wallet": "A7hpBN32QeLUWPuAwm3U3YXV4e6Z13YzA34mto5STbXx",
+  "name": "Wynn·9",
+  "family": "Fen",
+  "generation": 9,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g8-86-nyx",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.10327071686042474,
+  "brain": "habit",
+  "lived": 9,
+  "place": 3,
+  "score": 119,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g10-108-mira",
+  "wallet": "9xXc9kzCdKFi8h6GtfgHYyhBXg6ahknCUx6pgig6aMTY",
+  "name": "Mira·10",
+  "family": "Fen",
+  "generation": 10,
+  "home": 0,
+  "job": 0,
+  "parent": "mt-31-g9-104-ines",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.1595571693382226,
+  "brain": "habit",
+  "lived": 10,
+  "place": 5,
+  "score": 85,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g10-110-oren",
+  "wallet": "92eCxzLh57fharqYgztCd9YHFEp6paWUBpSsXJPwMxSu",
+  "name": "Oren·10",
+  "family": "Fen",
+  "generation": 10,
+  "home": 1,
+  "job": 1,
+  "parent": "mt-31-g9-98-cass",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.17658360629575326,
+  "brain": "habit",
+  "lived": 10,
+  "place": 1,
+  "score": 142,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g10-112-quin",
+  "wallet": "44hDJUHtJMfG3DYjGeChBgQQzcLGNkGnuZJPPaxDSwFZ",
+  "name": "Quin·10",
+  "family": "Fen",
+  "generation": 10,
+  "home": 2,
+  "job": 2,
+  "parent": "mt-31-g9-116-uma",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.29509466093732045,
+  "brain": "habit",
+  "lived": 10,
+  "place": 8,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g10-114-sela",
+  "wallet": "FmLEhMp4TbJxum5XbUgeCqzaT2aejivXPGCnPsXpf26q",
+  "name": "Sela·10",
+  "family": "Fen",
+  "generation": 10,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g9-102-gil",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.29603313003899534,
+  "brain": "habit",
+  "lived": 10,
+  "place": 0,
+  "score": 158,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g10-116-uma",
+  "wallet": "DDPydp6j9BWTswGXapH2vyxMTnYp4DBVmM3tcdH4WQ4V",
+  "name": "Uma·10",
+  "family": "Fen",
+  "generation": 10,
+  "home": 0,
+  "job": 4,
+  "parent": "mt-31-g9-96-ada",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.26662167768226935,
+  "brain": "thinker",
+  "lived": 10,
+  "place": 9,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g10-118-wynn",
+  "wallet": "Dfkr6m7sc6NzuJ6c2VqYK2mwACkiBrLY5GPS9JU3t7nn",
+  "name": "Wynn·10",
+  "family": "Fen",
+  "generation": 10,
+  "home": 1,
+  "job": 4,
+  "parent": "mt-31-g9-98-cass",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2195263654808514,
+  "brain": "habit",
+  "lived": 10,
+  "place": 4,
+  "score": 90,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g10-120-zed",
+  "wallet": "66utpXDWKKE6hhAAZrm3iA6sRYnkCVzRCAFfmPQZYCsB",
+  "name": "Zed·10",
+  "family": "Fen",
+  "generation": 10,
+  "home": 2,
+  "job": 3,
+  "parent": "mt-31-g9-116-uma",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.33709451664472,
+  "brain": "habit",
+  "lived": 10,
+  "place": 10,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g10-122-brin",
+  "wallet": "GCfPV34pmDwaQ7DJJRBykA4Zhn8qvqDMj1TNLX95gKen",
+  "name": "Brin·10",
+  "family": "Fen",
+  "generation": 10,
+  "home": 3,
+  "job": 1,
+  "parent": "mt-31-g9-102-gil",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.32907806966686626,
+  "brain": "habit",
+  "lived": 10,
+  "place": 6,
+  "score": 73,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g10-124-dace",
+  "wallet": "BzJxybxxfo3MGhNHLqfUFhMjQ3cmtdWmDTHq5NwRFdfR",
+  "name": "Dace·10",
+  "family": "Fen",
+  "generation": 10,
+  "home": 0,
+  "job": 3,
+  "parent": "mt-31-g9-98-cass",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.16290970941772684,
+  "brain": "habit",
+  "lived": 10,
+  "place": 11,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g10-126-faye",
+  "wallet": "4cj1v97SZgnp5ifErog3hBj7HhgCRpvBqNe7D4huArYk",
+  "name": "Faye·10",
+  "family": "Fen",
+  "generation": 10,
+  "home": 1,
+  "job": 0,
+  "parent": "mt-31-g9-118-wynn",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.07577618871582674,
+  "brain": "habit",
+  "lived": 10,
+  "place": 3,
+  "score": 134,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g10-128-hollis",
+  "wallet": "6tmmxSxfawsr6qoW8viLsYDABEU2vfcy4DCAiZweLooh",
+  "name": "Hollis·10",
+  "family": "Fen",
+  "generation": 10,
+  "home": 2,
+  "job": 0,
+  "parent": "mt-31-g9-100-esk",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.1644418794079684,
+  "brain": "habit",
+  "lived": 10,
+  "place": 7,
+  "score": 54,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g10-130-juno",
+  "wallet": "8eSzfLXmKt8iQR6pXmPAxiBaQYGgPRgQcLfYic6MfCus",
+  "name": "Juno·10",
+  "family": "Fen",
+  "generation": 10,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g9-108-mira",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2865362405427732,
+  "brain": "habit",
+  "lived": 10,
+  "place": 2,
+  "score": 141,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g11-120-zed",
+  "wallet": "DGyZFfaYvj7jiPKdeZmbxdZYDj9xx192yJfNMJKsZj1Q",
+  "name": "Zed·11",
+  "family": "Fen",
+  "generation": 11,
+  "home": 0,
+  "job": 0,
+  "parent": "mt-31-g10-114-sela",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.27130833164555956,
+  "brain": "habit",
+  "lived": 11,
+  "place": 6,
+  "score": 36,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g11-122-brin",
+  "wallet": "61GJsFvnH5jzECspb6fZESZPp1Uk65zj6m8LXq63Lshs",
+  "name": "Brin·11",
+  "family": "Fen",
+  "generation": 11,
+  "home": 1,
+  "job": 1,
+  "parent": "mt-31-g10-110-oren",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.20466580825159325,
+  "brain": "habit",
+  "lived": 11,
+  "place": 3,
+  "score": 153,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g11-124-dace",
+  "wallet": "7HrfFKc4SoDzKPMoXWfqdMwLSzPifaZZ1mgrdWyKe3Ht",
+  "name": "Dace·11",
+  "family": "Fen",
+  "generation": 11,
+  "home": 2,
+  "job": 2,
+  "parent": "mt-31-g10-128-hollis",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.13494853504234927,
+  "brain": "habit",
+  "lived": 11,
+  "place": 8,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g11-126-faye",
+  "wallet": "F8Sa2cvZ7e2BnGHTzHGMrqFdo7ADngqFrFTNNttcMXSw",
+  "name": "Faye·11",
+  "family": "Fen",
+  "generation": 11,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g10-114-sela",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2852751189959236,
+  "brain": "habit",
+  "lived": 11,
+  "place": 0,
+  "score": 111,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g11-128-hollis",
+  "wallet": "4VKSwQhn3ukfm7Go4qTD126EmgMToxABrNE8ZgyWBTnA",
+  "name": "Hollis·11",
+  "family": "Fen",
+  "generation": 11,
+  "home": 0,
+  "job": 4,
+  "parent": "mt-31-g10-108-mira",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.13350153256906194,
+  "brain": "habit",
+  "lived": 11,
+  "place": 9,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g11-130-juno",
+  "wallet": "7azhjPvWhdX2r5EzaK4eQPzyR28oNiGzhALt3pCqFRpc",
+  "name": "Juno·11",
+  "family": "Fen",
+  "generation": 11,
+  "home": 1,
+  "job": 4,
+  "parent": "mt-31-g10-110-oren",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2171749383327551,
+  "brain": "habit",
+  "lived": 11,
+  "place": 4,
+  "score": 65,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g11-132-lark",
+  "wallet": "4fRnDmf12USPv5xkXHHQMdDxyvHGPAXum4wr8UUWfs2i",
+  "name": "Lark·11",
+  "family": "Fen",
+  "generation": 11,
+  "home": 2,
+  "job": 3,
+  "parent": "mt-31-g10-114-sela",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2760048681753688,
+  "brain": "habit",
+  "lived": 11,
+  "place": 10,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g11-134-nyx",
+  "wallet": "H2sCvqdxAAbDq9AaXCHDDHUPHyb4tCkcGJdXe3ZxiT8m",
+  "name": "Nyx·11",
+  "family": "Fen",
+  "generation": 11,
+  "home": 3,
+  "job": 1,
+  "parent": "mt-31-g10-130-juno",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.3324443397694268,
+  "brain": "thinker",
+  "lived": 11,
+  "place": 5,
+  "score": 126,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g11-136-pim",
+  "wallet": "2WVZJMgiBe3TerYd4cxLKuFZ1dRHbuaMSDAaAESataHC",
+  "name": "Pim·11",
+  "family": "Fen",
+  "generation": 11,
+  "home": 0,
+  "job": 3,
+  "parent": "mt-31-g10-130-juno",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.26834667673101653,
+  "brain": "habit",
+  "lived": 11,
+  "place": 11,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g11-138-sol",
+  "wallet": "59pvF1Cet7N7YGFsuXpQdyBkB5qJeXWSgDQQexf2rs9E",
+  "name": "Sol·11",
+  "family": "Fen",
+  "generation": 11,
+  "home": 1,
+  "job": 0,
+  "parent": "mt-31-g10-126-faye",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.08886337765725331,
+  "brain": "habit",
+  "lived": 11,
+  "place": 1,
+  "score": 111,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g11-140-ulla",
+  "wallet": "8APfUNzfibQCpeVU6E8JpDDB5UTyvJuhgSPdvwDzm9Y",
+  "name": "Ulla·11",
+  "family": "Fen",
+  "generation": 11,
+  "home": 2,
+  "job": 0,
+  "parent": "mt-31-g10-118-wynn",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.21389543259283528,
+  "brain": "habit",
+  "lived": 11,
+  "place": 7,
+  "score": 4,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g11-142-wren",
+  "wallet": "9jTXr3Q3NoNc3WhWCJspgLg4VAaegeMkAWxxyibmdXrQ",
+  "name": "Wren·11",
+  "family": "Fen",
+  "generation": 11,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g10-122-brin",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2908397970604711,
+  "brain": "habit",
+  "lived": 11,
+  "place": 2,
+  "score": 108,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g12-132-lark",
+  "wallet": "5WgT9JsoT2YpcHkHFpQtH6WRL2C5zR5derZAx7iT25y5",
+  "name": "Lark·12",
+  "family": "Fen",
+  "generation": 12,
+  "home": 0,
+  "job": 0,
+  "parent": "mt-31-g11-120-zed",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2651658595656045,
+  "brain": "habit",
+  "lived": 12,
+  "place": 3,
+  "score": 138,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g12-134-nyx",
+  "wallet": "R37UGCbofPn5WN77ky3qC5kkWwhoRxnwDrp9Vd9nUXB",
+  "name": "Nyx·12",
+  "family": "Fen",
+  "generation": 12,
+  "home": 1,
+  "job": 1,
+  "parent": "mt-31-g11-138-sol",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.08365946857957171,
+  "brain": "habit",
+  "lived": 12,
+  "place": 2,
+  "score": 192,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g12-136-pim",
+  "wallet": "55LNhD2NTekbMexzN9PAjnC7dqTxPEpYR3pd8rywkUVQ",
+  "name": "Pim·12",
+  "family": "Fen",
+  "generation": 12,
+  "home": 2,
+  "job": 2,
+  "parent": "mt-31-g11-140-ulla",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.19174144737189636,
+  "brain": "habit",
+  "lived": 12,
+  "place": 4,
+  "score": 188,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g12-138-sol",
+  "wallet": "BstaAB2XYipFZqDv939m39GvjaBrcdgo2NrHcirrjbrA",
+  "name": "Sol·12",
+  "family": "Fen",
+  "generation": 12,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g11-126-faye",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.26010254131397237,
+  "brain": "thinker",
+  "lived": 12,
+  "place": 9,
+  "score": 110,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g12-140-ulla",
+  "wallet": "5gxye3bdjHVTxBjYN2ixpfyb4hKu9H8ozZz1EvCWuA5w",
+  "name": "Ulla·12",
+  "family": "Fen",
+  "generation": 12,
+  "home": 0,
+  "job": 4,
+  "parent": "mt-31-g11-126-faye",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.3337695490219631,
+  "brain": "habit",
+  "lived": 12,
+  "place": 0,
+  "score": 137,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g12-142-wren",
+  "wallet": "Gx9fNk42oHyjHwJtCPK8bn9V5R5FBT61hafKZotRuKd6",
+  "name": "Wren·12",
+  "family": "Fen",
+  "generation": 12,
+  "home": 1,
+  "job": 4,
+  "parent": "mt-31-g11-138-sol",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.11343022783985364,
+  "brain": "habit",
+  "lived": 12,
+  "place": 10,
+  "score": 84,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g12-144-ada",
+  "wallet": "H2JDVPjqJJSDzWF4GM6cMXzjhx5ZmRoKf75C1QpMhhun",
+  "name": "Ada·12",
+  "family": "Fen",
+  "generation": 12,
+  "home": 2,
+  "job": 3,
+  "parent": "mt-31-g11-126-faye",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.281285629014019,
+  "brain": "habit",
+  "lived": 12,
+  "place": 5,
+  "score": 34,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g12-146-cass",
+  "wallet": "AohAdM9kTMe5vDfBCJz6pZoiCUg5Uoyxs1uRyHPhMRwA",
+  "name": "Cass·12",
+  "family": "Fen",
+  "generation": 12,
+  "home": 3,
+  "job": 1,
+  "parent": "mt-31-g11-142-wren",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.27417480765143415,
+  "brain": "habit",
+  "lived": 12,
+  "place": 8,
+  "score": 145,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g12-148-esk",
+  "wallet": "B16TUc7LWXf5G8UkRUpXmASACAHfgRDkx17epc1g2hxL",
+  "name": "Esk·12",
+  "family": "Fen",
+  "generation": 12,
+  "home": 0,
+  "job": 3,
+  "parent": "mt-31-g11-142-wren",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.25462403610581535,
+  "brain": "habit",
+  "lived": 12,
+  "place": 11,
+  "score": 0,
+  "survived": false
+ },
+ {
+  "key": "mt-31-g12-150-gil",
+  "wallet": "G8TWuAcXSa7JTFPy2pS9fHkDqnEqqeUG18WoUVmsNqqJ",
+  "name": "Gil·12",
+  "family": "Fen",
+  "generation": 12,
+  "home": 1,
+  "job": 0,
+  "parent": "mt-31-g11-122-brin",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2524656274239533,
+  "brain": "habit",
+  "lived": 12,
+  "place": 1,
+  "score": 164,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g12-152-ines",
+  "wallet": "2hmHohAdNyEmyw4XvF7R9uwD31C9J5tus3v3MukLGUex",
+  "name": "Ines·12",
+  "family": "Fen",
+  "generation": 12,
+  "home": 2,
+  "job": 0,
+  "parent": "mt-31-g11-130-juno",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2176621680962853,
+  "brain": "habit",
+  "lived": 12,
+  "place": 7,
+  "score": 123,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g12-154-kit",
+  "wallet": "7H9P4ejffJZGjqvCnfEJXuuYxALP3DU3N5cdd6mXcsiH",
+  "name": "Kit·12",
+  "family": "Fen",
+  "generation": 12,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g11-134-nyx",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.33676794647471986,
+  "brain": "thinker",
+  "lived": 12,
+  "place": 6,
+  "score": 129,
+  "survived": true
+ },
+ {
+  "key": "mt-31-g13-144-ada",
+  "wallet": "8QRqJRz94T8LfLg6RBUQWTAScu3zy7LK4H88wFb4uABk",
+  "name": "Ada·13",
+  "family": "Fen",
+  "generation": 13,
+  "home": 0,
+  "job": 0,
+  "parent": "mt-31-g12-140-ulla",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.3752257286687382,
+  "brain": "habit",
+  "lived": null,
+  "place": null,
+  "score": null,
+  "survived": null
+ },
+ {
+  "key": "mt-31-g13-146-cass",
+  "wallet": "BHjTwVg1x7aEqHA56se3qNZAciHdMSRC9FWtLHBfVwby",
+  "name": "Cass·13",
+  "family": "Fen",
+  "generation": 13,
+  "home": 1,
+  "job": 1,
+  "parent": "mt-31-g12-150-gil",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.29486161327222365,
+  "brain": "habit",
+  "lived": null,
+  "place": null,
+  "score": null,
+  "survived": null
+ },
+ {
+  "key": "mt-31-g13-148-esk",
+  "wallet": "4KbX3dZw2BT7JJYhXy33mkBDmNFNBQQtvVQ7qiqXUTn9",
+  "name": "Esk·13",
+  "family": "Fen",
+  "generation": 13,
+  "home": 2,
+  "job": 2,
+  "parent": "mt-31-g12-136-pim",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.23793593366863205,
+  "brain": "habit",
+  "lived": null,
+  "place": null,
+  "score": null,
+  "survived": null
+ },
+ {
+  "key": "mt-31-g13-150-gil",
+  "wallet": "BEP6fSaSZxZeYMbkA7CbJkM8FSyNgo8s9amt51YxVZAE",
+  "name": "Gil·13",
+  "family": "Fen",
+  "generation": 13,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g12-154-kit",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.38666635329136634,
+  "brain": "thinker",
+  "lived": null,
+  "place": null,
+  "score": null,
+  "survived": null
+ },
+ {
+  "key": "mt-31-g13-152-ines",
+  "wallet": "FLnnaVF6Kz2tFEMiQtVkCQ8vWtdF6g2waas6m6jM2bCC",
+  "name": "Ines·13",
+  "family": "Fen",
+  "generation": 13,
+  "home": 0,
+  "job": 4,
+  "parent": "mt-31-g12-140-ulla",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.2868137020501309,
+  "brain": "habit",
+  "lived": null,
+  "place": null,
+  "score": null,
+  "survived": null
+ },
+ {
+  "key": "mt-31-g13-154-kit",
+  "wallet": "9PvvVV7X1EYnecQFV1ohTTUg82Tmhm5h4Qe92n4USbie",
+  "name": "Kit·13",
+  "family": "Fen",
+  "generation": 13,
+  "home": 1,
+  "job": 4,
+  "parent": "mt-31-g12-150-gil",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.24261858219979332,
+  "brain": "habit",
+  "lived": null,
+  "place": null,
+  "score": null,
+  "survived": null
+ },
+ {
+  "key": "mt-31-g13-156-mira",
+  "wallet": "9Cfk7Qb951mK7qoC434K2y2JzNJPnsS759tCgRg4zXLn",
+  "name": "Mira·13",
+  "family": "Fen",
+  "generation": 13,
+  "home": 2,
+  "job": 3,
+  "parent": "mt-31-g12-144-ada",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.31023673146264635,
+  "brain": "habit",
+  "lived": null,
+  "place": null,
+  "score": null,
+  "survived": null
+ },
+ {
+  "key": "mt-31-g13-158-oren",
+  "wallet": "A7bAGfmqC8erCpAhjfBmHjVWcUpvPEytF4pesERkbNgP",
+  "name": "Oren·13",
+  "family": "Fen",
+  "generation": 13,
+  "home": 3,
+  "job": 1,
+  "parent": "mt-31-g12-140-ulla",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.3592853284557351,
+  "brain": "habit",
+  "lived": null,
+  "place": null,
+  "score": null,
+  "survived": null
+ },
+ {
+  "key": "mt-31-g13-160-quin",
+  "wallet": "7vRY26t6dQQVZGqQ4QLtHBN1ULcE1ExFL352NN7fTNWu",
+  "name": "Quin·13",
+  "family": "Fen",
+  "generation": 13,
+  "home": 0,
+  "job": 3,
+  "parent": "mt-31-g12-132-lark",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.23755925173172732,
+  "brain": "thinker",
+  "lived": null,
+  "place": null,
+  "score": null,
+  "survived": null
+ },
+ {
+  "key": "mt-31-g13-162-sela",
+  "wallet": "A222QnaSuyafjRkxu6V7MVV5ca1yFDtbSHPN53UXCk8K",
+  "name": "Sela·13",
+  "family": "Fen",
+  "generation": 13,
+  "home": 1,
+  "job": 0,
+  "parent": "mt-31-g12-134-nyx",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.10921059589600192,
+  "brain": "habit",
+  "lived": null,
+  "place": null,
+  "score": null,
+  "survived": null
+ },
+ {
+  "key": "mt-31-g13-164-uma",
+  "wallet": "5LKoBNVxraMyQDNh2PTcGkYRoz8iBGfem9J2rkbmFomH",
+  "name": "Uma·13",
+  "family": "Fen",
+  "generation": 13,
+  "home": 2,
+  "job": 0,
+  "parent": "mt-31-g12-152-ines",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.21863481380278244,
+  "brain": "thinker",
+  "lived": null,
+  "place": null,
+  "score": null,
+  "survived": null
+ },
+ {
+  "key": "mt-31-g13-166-wynn",
+  "wallet": "8rFu93st6toXRC32Vum38NejpkWTFEsqtYTNGRRpCNRc",
+  "name": "Wynn·13",
+  "family": "Fen",
+  "generation": 13,
+  "home": 3,
+  "job": 0,
+  "parent": "mt-31-g12-134-nyx",
+  "phon": {
+   "cons": [
+    "n",
+    "r",
+    "sh",
+    "k",
+    "z"
+   ],
+   "vows": [
+    "e",
+    "o",
+    "u"
+   ]
+  },
+  "greed": 0.08489302144153045,
+  "brain": "habit",
+  "lived": null,
+  "place": null,
+  "score": null,
+  "survived": null
+ }
+]

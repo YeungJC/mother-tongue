@@ -1,0 +1,989 @@
+[
+ {
+  "intent": "60b1c1527509f5903b6f3e873a3a3fe7f4446637ad60bca372c7ebe41cc2de91",
+  "maker": "Cass",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "c25d77d19d03bd703a19225cd5560781"
+ },
+ {
+  "intent": "89e76eefd2c9a69530985c111bb362aa3c686ae2a2968402703bedd0dcbbf61c",
+  "maker": "Bram",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "7cadfccdae004cddd39d595746d61fbc"
+ },
+ {
+  "intent": "c3f8cd29ba64b42ed02afddd24a40c39e5a7d90d35d9bf3159d401dda84ab9bc",
+  "maker": "Ada",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "1cb322cf8aca99cde3e6f3ac200e929c"
+ },
+ {
+  "intent": "02d40c248c4b014e1a905936473b54fa47c193e01b5b86a2420d3884fc78d586",
+  "maker": "Dov",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "efc953f4012571896c016ae8f9c069a9"
+ },
+ {
+  "intent": "b36b4526ce26f2fcaa1d9ff95451acf96b62b08c053b6b7455a9bd68103089fc",
+  "maker": "Fen",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "f1559bafeae7afe107c4cbe9d2da2fb0"
+ },
+ {
+  "intent": "b063495dd066286bcfc61037fbf519ca1786421d42acbd1a54057bdda1dcdeda",
+  "maker": "Esk",
+  "want": 1,
+  "wantQ": 6,
+  "salt": "e7787a330e38f8111292b5c4662c33a3"
+ },
+ {
+  "intent": "61734832ab31ebbfa6c7aa5cc7f6f945c1c45d78355b1fc8ec00ae2af796c130",
+  "maker": "Ines",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "2798e98ae8e02767f9a33f71f851082a"
+ },
+ {
+  "intent": "c7b980df073ed9cad432f7a916e63ad85b1c31a69536ac141c9f59b52b4a11c2",
+  "maker": "Hale",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "69e34e64e2a3e7bcaa47f32758cdc735"
+ },
+ {
+  "intent": "87d1bcac0d4aac6a7077bd8d59f94ba74f7e08f7e68a07ccc2c7926dc1716e02",
+  "maker": "Gil",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "c33ff7a88919b8a634fd4578ace5d0a5"
+ },
+ {
+  "intent": "d397579fb3b0e0be690e37f04ee89cbb6699cd4f8d3a20a65fc3e216242b58be",
+  "maker": "Lune",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "c07298afb6adebb55fc42d9e851e52c2"
+ },
+ {
+  "intent": "e663acfb8364c11a31121732d3cc7018becf2a032e47daf460a24861f8ebad00",
+  "maker": "Joss",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "0678b0058c9c0d47e8e5545e57d0671a"
+ },
+ {
+  "intent": "52df0271e685f2e2a2b8c5527739ebfc9b36d2bad572c1f81501225cbf73c1c7",
+  "maker": "Kit",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "7421423a80013b18e7a926128a60872d"
+ },
+ {
+  "intent": "2af70c4355654bb333ecb0e07fa3e26c369baed6ae887accc37598e680d7c083",
+  "maker": "Fen",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "8fc5520a5a6aa943935d06407b596769"
+ },
+ {
+  "intent": "632e2b716b2d9c4c38ac06cd2df08287837c77b50bd94d3445e48f121a9858c1",
+  "maker": "Esk",
+  "want": 1,
+  "wantQ": 4,
+  "salt": "4f7c8aec1d252a602fd1b342e32d24d1"
+ },
+ {
+  "intent": "7d1667d53b7ce5f710baec69f33ecebac25f7e5e636a389dd4bb184c375f7a9e",
+  "maker": "Ines",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "686957fb7e1fb033eeebf89faa14d6d6"
+ },
+ {
+  "intent": "da2f9818ef61279bf06150f628efcacbaf7b8cf12894450f66b3e0fd3729ac7d",
+  "maker": "Gil",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "225fe7d8159da3b8eca8e139811b9eef"
+ },
+ {
+  "intent": "87933838e5526d5c57a441fdfbe5040d2a1566b2c38c4aa841c9868c7e87d05f",
+  "maker": "Hale",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "de9ba35f3e8e36e755da2e7997990618"
+ },
+ {
+  "intent": "1a39566acd672b4dfcafec487ad588da3bded24aacd3dcc1c48461f034e03914",
+  "maker": "Joss",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "872e72f628d746c1a2a386a05e81228c"
+ },
+ {
+  "intent": "ccc45003be25184c5522fb7db7ec1344e92589546e83bd37955ef2db7b05632b",
+  "maker": "Kit",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "bf46e0f2e4be9543f49b490cba90c0d0"
+ },
+ {
+  "intent": "6079b102b8511fa4711a828054570c9aeb2199e8acad42c6d66638e05da9fcd7",
+  "maker": "Fen",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "b51ac130cfbe40833eea34eddcc5ac47"
+ },
+ {
+  "intent": "f2b0f4ec1f087b74c1f2961100845ab1c17c2a60bbbed378eb41a76b14547c9c",
+  "maker": "Esk",
+  "want": 1,
+  "wantQ": 4,
+  "salt": "434f52cc43fe2226580dd938fe4818b6"
+ },
+ {
+  "intent": "8b42a913248a17792813b6bf15110f771e37663678a1bced6fa63df038900745",
+  "maker": "Hale",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "0131d4991f0771c520f7bd5e2bb79bd8"
+ },
+ {
+  "intent": "fe72c1b4bd1bd1df11f70cea4f1765cb993fb5b2a4df34931fad41b1acacc459",
+  "maker": "Ines",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "8c7bb629f852119e3060dd43c4ef9024"
+ },
+ {
+  "intent": "5c899ed7e4f4c1fcd658000ea4930d77f8f0c95788fc6ab7292a6595b5104df5",
+  "maker": "Gil",
+  "want": 1,
+  "wantQ": 5,
+  "salt": "63563b3e59c00db860e362d7f4bf6852"
+ },
+ {
+  "intent": "dcbc88a7e99e2ae1821af7dfe3c40f759b5416c8dd9bacac5fec1e83ab0d16bc",
+  "maker": "Kit",
+  "want": 2,
+  "wantQ": 3,
+  "salt": "f6cacc21a98df9130df6c49a24c6c2d8"
+ },
+ {
+  "intent": "c2fcb7879fbaf9fdc3c44c9cc1b2c0706a70224e1c91bbdb7131859e04d8354e",
+  "maker": "Bram",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "caaf54bb19910efad6b85ddc8c5e068c"
+ },
+ {
+  "intent": "8ce8a6bb8e9742c5196b6e54935f2cad80ba2c172970d4ac7edd7e27d395e6f0",
+  "maker": "Joss",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "c0a77b80b56bde60399152580985354b"
+ },
+ {
+  "intent": "ba6633f25472a3ba2118856633cf4bf8a3bc68625fd83d90038ec7ed22692947",
+  "maker": "Lune",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "3c81b03ef01bd419cb9b44146a000c45"
+ },
+ {
+  "intent": "223f018bbb84f5cf98056ef436476912f8f35b5e8e7c8ef4ea6402798a50b3ab",
+  "maker": "Fen",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "fdf76e68ff0a17cdd2a91fb3fdf0cf0a"
+ },
+ {
+  "intent": "bd07af22bc82d9fc782ec59f235d1d9ddfda2630eb1db21979c2223790389aea",
+  "maker": "Esk",
+  "want": 1,
+  "wantQ": 6,
+  "salt": "3719d81f5f53ca1aeba37e46ed5270e9"
+ },
+ {
+  "intent": "839411423afe1e71c276a09a8ea53e45a841825e637653629ce1cd659e8c1ea1",
+  "maker": "Cass",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "6fc99141a1f2e3aec1184db32aaa293e"
+ },
+ {
+  "intent": "d0d210adedc3eeb6ad44f3245605ed1b2ebf3c9e17f008c84c00e1ac87a1b843",
+  "maker": "Gil",
+  "want": 1,
+  "wantQ": 5,
+  "salt": "046cd32ebfd81654c89bc3c7179e145d"
+ },
+ {
+  "intent": "e87016f10515ee3524c22e5b33ac22b3482122a81659b07704ee2685c2660197",
+  "maker": "Hale",
+  "want": 0,
+  "wantQ": 2,
+  "salt": "00e5bc32bc6593a799842d828b89195b"
+ },
+ {
+  "intent": "34d83c450b7d111f178dea4655059c75683127effb35b9a24bfd95cdbc8188a4",
+  "maker": "Ines",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "9e792969787e6c66d82b7837fac9aec7"
+ },
+ {
+  "intent": "ee2ddacf7e7b2c775dcba34df644f5296be730381ba0052d7a8e59ded309b845",
+  "maker": "Kit",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "c7466df1d8a1c386af91b75c62aac3ad"
+ },
+ {
+  "intent": "0eb5bec5f06246ab0ae82c1696c83995335162d68f700e9aed25f5a658e3742c",
+  "maker": "Joss",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "cd9c99d4bb691ec336d3f70e1f43faf2"
+ },
+ {
+  "intent": "04f2cc994f00ef70220351ff4d8678ef9f4b712c9730d1b5cec99a47e810b42d",
+  "maker": "Fen",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "dfc652f14718e865e72dc891684b780e"
+ },
+ {
+  "intent": "3b529d082cc8f50a66d5c43c5fc2d2c978edca2a7b0428c36a80c60e33dbb2b0",
+  "maker": "Esk",
+  "want": 1,
+  "wantQ": 4,
+  "salt": "5ffc5cd2bcb8aea8ab9cde87582834e9"
+ },
+ {
+  "intent": "31221b3791fa1fa1f2c3a14b066524c6ee56977cc630aab700213da2bc07e901",
+  "maker": "Dov",
+  "want": 0,
+  "wantQ": 5,
+  "salt": "a0ab1a51c51a488ea09f49c325fb13ea"
+ },
+ {
+  "intent": "c7bf28f214a070c74d2924cdc595def921871d2bf96c846ef32f93d0260899cb",
+  "maker": "Gil",
+  "want": 1,
+  "wantQ": 5,
+  "salt": "a9bde287f638dd4a68521dec11b5219b"
+ },
+ {
+  "intent": "6c39658049ccdf88bb400fb1a7ecc5d9bb668bb51d9458cf8104404a64d2e062",
+  "maker": "Ines",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "ac4dee68e15fb203b046f919e51408cd"
+ },
+ {
+  "intent": "79076a3009e3753211da4f348128ed6d25c3858b00bf272e47db1bcd84419772",
+  "maker": "Hale",
+  "want": 0,
+  "wantQ": 3,
+  "salt": "219b9d82d32a92a9f9003c689c4c3e40"
+ },
+ {
+  "intent": "95a93b9e2538d9bc699bcb8426f8edb25247cef6d055f5fa20c3717029848553",
+  "maker": "Joss",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "b3bc84d0c7d9511ec884c57431bd8d60"
+ },
+ {
+  "intent": "3588723df59f61f6f9937ae503986b8dba3fd4981bf28fb767f77a90580e20bf",
+  "maker": "Kit",
+  "want": 0,
+  "wantQ": 2,
+  "salt": "c08c88a350cd317d0023dac388da541d"
+ },
+ {
+  "intent": "52f803852118175225c2f9b89d9ba557ff983181b2713b3d136bdeead1952f35",
+  "maker": "Bram",
+  "want": 0,
+  "wantQ": 5,
+  "salt": "60da8fccd3cc967b37409c81450e7af8"
+ },
+ {
+  "intent": "793566ebbfc138d87042b734f54c030113ba3892344d0a30e988fb76196b64a3",
+  "maker": "Esk",
+  "want": 1,
+  "wantQ": 6,
+  "salt": "c7402464c385a9a187ba13bb403d4743"
+ },
+ {
+  "intent": "dc4eaad7db8875b9edfbc6cf306b29ff3ebebf21460391f3feee7bbb982845e8",
+  "maker": "Fen",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "5fb2592cdeaa1df4a596ea704bba0e34"
+ },
+ {
+  "intent": "8083141c9af5c4fede4413f07d09277ce3e4567c0adc81364bf9cd557b5faed4",
+  "maker": "Joss",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "97bd6f8f62cf225c6245417f07323c94"
+ },
+ {
+  "intent": "b58453df538b17983bfd3e1a1383fe8d3596b17f9c98e3776a9d548c417571cf",
+  "maker": "Kit",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "e53833e6e606187c0057afc4ac13bcad"
+ },
+ {
+  "intent": "39c5c11895fc89238bd3f724239886dd069664f447e5f33be9ef1b0d032c22d4",
+  "maker": "Lune",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "b8d08bdc461a1a74d368431176f44309"
+ },
+ {
+  "intent": "6a12f3c5a576158a110868b47df253abf288e0d47e83593a207c42aa0f37bf5a",
+  "maker": "Esk",
+  "want": 1,
+  "wantQ": 4,
+  "salt": "e1adcc297317a7d1434a7460674dccbe"
+ },
+ {
+  "intent": "a4e41cc582d5deced7e42858344e9bd5b711e7d6a6459ea6e7faa5588669cce8",
+  "maker": "Fen",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "c676c525dd98552f7ade41331a0cab7c"
+ },
+ {
+  "intent": "a92325ff0e9b47fa14917f24c2f7ea26a1080e890c2b3444aae261bce5bd0fd7",
+  "maker": "Kit",
+  "want": 0,
+  "wantQ": 2,
+  "salt": "e403766c33dde8f3a66c207532ad1d9a"
+ },
+ {
+  "intent": "cb350ec6a742c8a97df5c5d32ebc817bc6d533c4a6b6484ebcab389fcb49f4b2",
+  "maker": "Lune",
+  "want": 1,
+  "wantQ": 3,
+  "salt": "267625ee0c8557950df6d000e13c9e38"
+ },
+ {
+  "intent": "c1edf9cb4bf6c6d8d0f20d3ebaa18eea38b9171df6c51df5812aee66fb0d2e15",
+  "maker": "Joss",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "92b7d188b8c54c84f2f84b437f0bf031"
+ },
+ {
+  "intent": "ebc8b37ba9bf4b054e4e6f79d9b0cf27ecbab6a63a507f6922d6d8a3059ad734",
+  "maker": "Fen",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "cfe1cb7d8afff52ba2105882e5787296"
+ },
+ {
+  "intent": "c099885b73918fbeaec87dc611c94e4105676cee74cca69d2270a31c008786c5",
+  "maker": "Esk",
+  "want": 1,
+  "wantQ": 6,
+  "salt": "b67060375af3375501785e017300668a"
+ },
+ {
+  "intent": "e2c9baddf4c7efada630879ba3f5f7820e849932856728b82e517906f9907b1a",
+  "maker": "Lune",
+  "want": 1,
+  "wantQ": 3,
+  "salt": "e4b4d3a1dba866e42ca20d7db2775bf6"
+ },
+ {
+  "intent": "e749c6f278ea2e869617b132039d1327e898c9ba8c97495be2b4fe59c35e9f71",
+  "maker": "Kit",
+  "want": 2,
+  "wantQ": 3,
+  "salt": "e65ac53155b7dba2353b64faa7c3a7f2"
+ },
+ {
+  "intent": "653f2de5d938c4dce0e25d2173c872e8b124c087d58bc2d8e9c6909955c0acb6",
+  "maker": "Joss",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "0b7f76d42d9938cd47a6c5c2f4ae2ac1"
+ },
+ {
+  "intent": "b191d5ef5e858d6ae95c64dd88b90c0888ced591b806d58a45786e86bfba74df",
+  "maker": "Fen",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "ffd78c122f50beee4988c1f786754a6e"
+ },
+ {
+  "intent": "0c019d2f4f08b914b7b44af7b14481145d0fb64817935f1063e2c8724963dcf5",
+  "maker": "Cass",
+  "want": 1,
+  "wantQ": 4,
+  "salt": "f390108ccb528155457c7b70cd32a6d3"
+ },
+ {
+  "intent": "fd333ea6850576dec8a85f8ba9d02286ae20e05dc942faf7d97881bfb34b9b00",
+  "maker": "Esk",
+  "want": 1,
+  "wantQ": 4,
+  "salt": "851939a673edd8d6d476400b697c3dd6"
+ },
+ {
+  "intent": "a38abfa1e276ece318138d87ad03b3748dd262c302449bd1643b920288788ade",
+  "maker": "Dov",
+  "want": 0,
+  "wantQ": 5,
+  "salt": "b3b08d2e0a98ea107a9fac33015d1485"
+ },
+ {
+  "intent": "d78fb6352e71cb2689e93301f0428cc549a5a319a8cb4d92376de9627072ebab",
+  "maker": "Ada",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "aa9f89996d4ad2b9f4e9e4746795efab"
+ },
+ {
+  "intent": "50d5783a2ab3590d6427df18030fb5b838013f59ac5953b7faa4c9ed4497164d",
+  "maker": "Lune",
+  "want": 1,
+  "wantQ": 3,
+  "salt": "4e4e8fc93f8d758f115ea30c91498434"
+ },
+ {
+  "intent": "56d807d4d15c535705439e8c8b97dadd8adf5db5db4c8fe3231a07775ee5104a",
+  "maker": "Joss",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "216cf5957059f6d9d3a95d5d0d67dc81"
+ },
+ {
+  "intent": "fed391b8780f801c5c1a7573302da45d8214c5800d3a4b52c6fc5de79f6b6755",
+  "maker": "Kit",
+  "want": 0,
+  "wantQ": 5,
+  "salt": "67d3faaceba8a6252f280bcee98ad7ae"
+ },
+ {
+  "intent": "e9eb4e7d3f189a8cd170989ce40f41affd23ce23324cf684c54d2c18a1e12f2e",
+  "maker": "Bram",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "fea8321a1f6799d47f886e50a6a98296"
+ },
+ {
+  "intent": "81d72ac921a531ba0815fd26f81fa155badf560804d510a56ea371d83b695cf3",
+  "maker": "Gil",
+  "want": 1,
+  "wantQ": 3,
+  "salt": "a008e0b6c5cc163c46c38be722fc7ab3"
+ },
+ {
+  "intent": "fab6d97a367a03a324939223e44db174df042b0b0db915a647ce3d1910e6fbfa",
+  "maker": "Dov",
+  "want": 0,
+  "wantQ": 2,
+  "salt": "ef0420c4950be3bc0e3296454c231c48"
+ },
+ {
+  "intent": "69e5a3263b6cd66b5950c90f9e9f8a13e119a81816ee5d85d1d8cba8abdf7276",
+  "maker": "Ines",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "f487b801091ea039cd7766509b1864d7"
+ },
+ {
+  "intent": "3e0b17cbfe624d096f85046fb544cf0af6dc19a9576ac3fad7f69734b163639c",
+  "maker": "Fen",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "41d4368b02ffa3d5a74246295224bdde"
+ },
+ {
+  "intent": "e32670790acd8949e20c367643908bae3303bfb76cfe2aa7b91fb3bfaa2f2b6a",
+  "maker": "Lune",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "9a30b2fe42046526b8249809433e8589"
+ },
+ {
+  "intent": "e613c957bf7a7d263ce96b255fa728f518afe6ed8d4887c7ba728b752cd1e1a2",
+  "maker": "Joss",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "982bffbb466c92597ca9c9b6b7fb7815"
+ },
+ {
+  "intent": "679aabc67b16686844fd82e86ac3d9c0d5b497c279e07cd997b956a4bd3158cd",
+  "maker": "Kit",
+  "want": 2,
+  "wantQ": 3,
+  "salt": "eb7301d2d59bc0e07bafc39c61e53933"
+ },
+ {
+  "intent": "632cce41a6fb4002ee6ad6a43e8257488d666550b9e6a181a57aed19ca0b3a79",
+  "maker": "Dov",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "1efc9c10ede657030b19c6d7ae149970"
+ },
+ {
+  "intent": "518cf6a2d651f34a3c05a206014e1988a8df61b405bfef646837c49645be988e",
+  "maker": "Fen",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "f4d0c789539f1f83ada3443cfbf8237b"
+ },
+ {
+  "intent": "8145e785bacbe9d3d52221dcec034e93409b15eac3c46c761ea081ea0b57830a",
+  "maker": "Joss",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "eef95bb76f1c595de5082103a0399a8f"
+ },
+ {
+  "intent": "4ad8f1bef169ffd498d2ef71943f9b11f6d659cb0997beb7a62da1a5e72a092f",
+  "maker": "Kit",
+  "want": 0,
+  "wantQ": 2,
+  "salt": "1178b8e7533a58cd205c2d5415f4737d"
+ },
+ {
+  "intent": "f3f72a018d2852f5037c313dfa016ba25397bde8430140ebecaacd67959ce6a5",
+  "maker": "Lune",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "94564be875f70bb612a14111b1bb432e"
+ },
+ {
+  "intent": "1ce3935da80f1355e83af3c0913dbc531e3f4c9e6e94d088abd8a7986559f33f",
+  "maker": "Fen",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "06dac9fedea8602b88f8fd379b49a31e"
+ },
+ {
+  "intent": "3b1c22a1230810f81fe09cb2073427f369fd9549183b8e410a9edbd718f18520",
+  "maker": "Dov",
+  "want": 0,
+  "wantQ": 5,
+  "salt": "f5a8efd2879b655e80601bbae0ab4175"
+ },
+ {
+  "intent": "8597ed722b73f39ed49c524e3a5f95cd2f0f386b794f155ab360e420c0cd5c8e",
+  "maker": "Joss",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "c9efd494dbdb1b8ebd402ca4686f053f"
+ },
+ {
+  "intent": "a5971d5f4a40edde0c80bffeaf972211bc6b744e5c6cfeb4608b7da2c029a41c",
+  "maker": "Kit",
+  "want": 0,
+  "wantQ": 2,
+  "salt": "1a2280dd5ce8787ca919147b299d23de"
+ },
+ {
+  "intent": "bccc1514e9b12e399c97b9639ffad5dde55a248009bb5f0cc1f2c36b83210b4b",
+  "maker": "Lune",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "15958b28541fc441e786f8c0afdfeede"
+ },
+ {
+  "intent": "76e5c1fc4cd9a3d26dfdbd8fa08b286a959a76c04df023e4b577c60ddcbeb9d8",
+  "maker": "Ada",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "773eb76967bcb489abbbdcac5955293a"
+ },
+ {
+  "intent": "2d3ce2505cc40fdced7dad4c2d93f7ed9cad13d787ee3142098b2dbc9047d728",
+  "maker": "Dov",
+  "want": 0,
+  "wantQ": 5,
+  "salt": "c6ab75f797df2eb0874f147be95d8700"
+ },
+ {
+  "intent": "3f207374196e5036cc7a18503a9dc1afef1d4510a5113f1a6f935b69aaa776f2",
+  "maker": "Fen",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "d87a0197d619f36bff24a03fd3b31c88"
+ },
+ {
+  "intent": "6de425bc49ff223c7edb3977c81af992d5389224ec5aec36fc4e7a6103b81ee9",
+  "maker": "Gil",
+  "want": 0,
+  "wantQ": 2,
+  "salt": "fcfa9ba4528a92a6b1e18569c1e9e277"
+ },
+ {
+  "intent": "a93163c5d6706a79f4488c3b05987b55e3d564feaf8ef05312ed63bbba580871",
+  "maker": "Ines",
+  "want": 1,
+  "wantQ": 3,
+  "salt": "66609b309a35cf9ba77eec2b1f248d0f"
+ },
+ {
+  "intent": "393ddeb99084c85f1ffdc0170e4e20dabdbc8d00a678e99f59ea1b4b844e071f",
+  "maker": "Lune",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "896fcccc14be67e52fe47890ef19f723"
+ },
+ {
+  "intent": "79ac7c383eacbea00c4e08dc48a7b5e3a473f0dcdb3b1a2857c68f3b93e349b6",
+  "maker": "Kit",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "79bb98489cfe2c23efe46008933b3147"
+ },
+ {
+  "intent": "0485945d4be47362f3251797f674cbf89b3dc9414877bd149773ffb2bea93179",
+  "maker": "Joss",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "cda23735ffabe022aa5dea720e5ffb88"
+ },
+ {
+  "intent": "af7b98abd9eb96c4ede450192b7939247a13015e27ef4f7e235309cbfe15868f",
+  "maker": "Dov",
+  "want": 0,
+  "wantQ": 2,
+  "salt": "906d810abc10944d1d596325626d5b97"
+ },
+ {
+  "intent": "0f82bca99e9295fd49284162954986dd569a77070e21b8d18975d4b4a11166ac",
+  "maker": "Fen",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "2e4e4fbe12e11535bfe2ebc78051ce8d"
+ },
+ {
+  "intent": "78b12a1cabc27c72a1f07630b853337d2c00f0bf049fa5b001e6f28a3949b817",
+  "maker": "Gil",
+  "want": 0,
+  "wantQ": 2,
+  "salt": "f18604efff6f0b66323ac2cb9d713123"
+ },
+ {
+  "intent": "1db46213da4b847bfdf0c4733412cb15e70aa44a43e6e7839736f7baa9bc2c49",
+  "maker": "Ines",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "6195636b43f3c6e68df29eda384e371b"
+ },
+ {
+  "intent": "7d48f8f837b46b21d7bc8da200ebca33b6dcd8b0d2e8a4b535733355b57d4389",
+  "maker": "Joss",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "e1f620eeed0b64a937f8b909abc39598"
+ },
+ {
+  "intent": "c5e5ab0ff912a6cd2d116281877d4afd7926af7d2494a5397f649e39ff8acfaa",
+  "maker": "Kit",
+  "want": 0,
+  "wantQ": 3,
+  "salt": "969dd353d71d0061bf05cae13b547769"
+ },
+ {
+  "intent": "679b8d491ea10c7d39373e312438596ce11c13c340a5ed733f2c6cada6dff7be",
+  "maker": "Lune",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "c632a58f8d8cb69b4c2f7f9a572ab7c1"
+ },
+ {
+  "intent": "d7d0fde55f989b22997d337d2893304648123f9ba1fea3f2b8e734ddfb38089f",
+  "maker": "Fen",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "444877a1b5f118f558b0ca09eb82bb8d"
+ },
+ {
+  "intent": "42fd88f9ee234eb791dccd15635a1db281e843d62469889a3bb1a18ab0a8998e",
+  "maker": "Dov",
+  "want": 0,
+  "wantQ": 4,
+  "salt": "25a9bb4ad19646c20e0157426d6121d4"
+ },
+ {
+  "intent": "78a3dff7b355e97c7b219139ebbe359293842d7829fad84962e5aab9612176cd",
+  "maker": "Ines",
+  "want": 1,
+  "wantQ": 3,
+  "salt": "26c8300edf39b91022f408f9f33fdfb1"
+ },
+ {
+  "intent": "614a2c23cad707e53c536f7de712c695a66af970283672dd96d92468101aff03",
+  "maker": "Gil",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "9dd3a3e0553e6cf9765e1d0f6dfc3745"
+ },
+ {
+  "intent": "5a5e04ccd626dc5bf70ba9cd69571c1c55c082a95c3c2b27657aad60410ffc9c",
+  "maker": "Kit",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "c78a6a98b153ea6b90db9029dab9a949"
+ },
+ {
+  "intent": "fcb4fc4d3b26bea2c99d26a2f0f87040a6a76319539a9f5fcbba3d2359e7baab",
+  "maker": "Lune",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "ca760994421790ac13528fbfd0a4e745"
+ },
+ {
+  "intent": "48b3b81a0aed6effc5835e621b3ecc74f488b533acb8c35d881caa9af5be402f",
+  "maker": "Joss",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "ff8e773d642a7af04d338eb170e49137"
+ },
+ {
+  "intent": "63388127e2d52bead7e22b0e49c9b93c24ab2b02827b88d16a88c42c20b3de89",
+  "maker": "Dov",
+  "want": 3,
+  "wantQ": 4,
+  "salt": "e34a35b2da7689e5090cebd929a9135a"
+ },
+ {
+  "intent": "15ab1a544e9e1e1190dd74607c7d28a541a0d5e66e8079bb53d85c10644aa627",
+  "maker": "Fen",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "c686a2a5e9574676f67111c3c1122463"
+ },
+ {
+  "intent": "c5be99e910d92543cda732824f82441ed7c5efae2b4ea1308eca5a0415ba0351",
+  "maker": "Gil",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "1e16bbc031fb5b65c84c6e9c9c8e7e92"
+ },
+ {
+  "intent": "bb33300b27929b5d0d911b1f67b8a776cbad4f5dd752dcbfe85751bf67008a5c",
+  "maker": "Ines",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "750ea3cad824e0801b218c711ece4ae0"
+ },
+ {
+  "intent": "dda00a05aa07878cc61ef91674100a547f954671cba774dd4bad510606e51483",
+  "maker": "Lune",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "12cfbff1e6bcd4935670ea23d2a7ddf3"
+ },
+ {
+  "intent": "98dab44d1b0d5eb604452926a4637c33cf019e51324936feb0d9e1a3b6f75036",
+  "maker": "Kit",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "120dc0b4e240997c040bc3e8af61f1b6"
+ },
+ {
+  "intent": "23c930423d19b601026d1b268af36d03639457b3ecc001f08b43c3a19372c599",
+  "maker": "Joss",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "49c8e19bf9d93d5dc82bcd16c59454d3"
+ },
+ {
+  "intent": "94be787b6d4738874b93eb0e16fc4f701bdc24e32ff2709bf6d67c1913f760e1",
+  "maker": "Dov",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "6f8f142b63fb579254177b2328c188fa"
+ },
+ {
+  "intent": "791d7fd7051fcdcc4536b0c825b6f4e2fe3d9fd3f139a6f944f692dfd3292f11",
+  "maker": "Fen",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "23f7fc185c9f7a7c96558c6405fa7540"
+ },
+ {
+  "intent": "916b1aa7a3f35a3cd900045eab6a5e52eebaabdc0b5fc0d0c87405de87aa1839",
+  "maker": "Ines",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "2abe0cd434f5f141b824e95193877554"
+ },
+ {
+  "intent": "e1a6ed88ec161e84ba1762d54ad9a39fe0ef9436ed417ce06feea994df350ac4",
+  "maker": "Gil",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "e4d278687ada45fe092565c4ad3ad480"
+ },
+ {
+  "intent": "49b3d574339d0e7b47e45b5f4dabc7c3fd77446dc8eab9ba984350455889a285",
+  "maker": "Kit",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "99edf46254b3a2682454ae6141b04255"
+ },
+ {
+  "intent": "3056b380556ff65deefd4114b4f404eba5c336642d3f94afb4500eb6828b0efa",
+  "maker": "Lune",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "ee5ac731552ea47e845bcd8bf0a5075d"
+ },
+ {
+  "intent": "7762cbb69c7ac643c716f71148190d01173c583a9e262552013aead3bba4a800",
+  "maker": "Joss",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "fc1091ad9fc227dfa436be8a1fba13b9"
+ },
+ {
+  "intent": "2cf00ece7b34360779f81f67d9dbfb967e6825b0c73de8d058f9204d6d4120a0",
+  "maker": "Dov",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "e23c66cf00dd451c0defb5c4048f66fe"
+ },
+ {
+  "intent": "2811ed2eea4ba16cc5c1ceb955118ce31631f2cffc331d67eea83cb46c515fe7",
+  "maker": "Fen",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "cc311f7bb5e466fc16a7bb8d8e58ed33"
+ },
+ {
+  "intent": "cc2974d9b2768afd0cea5cd27799e5ae28b65a686e2ca9cd60e999ac8c538685",
+  "maker": "Gil",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "a85a81b3868bbbf605c87e4a9fe8cd91"
+ },
+ {
+  "intent": "4d7af624aa9fe30e33760da2bed2dc8a55f815e166dab32303cf2e61de00b8ee",
+  "maker": "Ines",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "4eed5d66a33c533132cde0e04dfe29fc"
+ },
+ {
+  "intent": "1691731ecc4d5f736727c9272b7fc18bc27ad3f80737fd4a821fa5d93434f879",
+  "maker": "Lune",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "6af256f88e60e82d12953807847ddde4"
+ },
+ {
+  "intent": "7273838037c2c59d72871c9d1bb89867df5f8a3526e3e82f07b47d4acbdd51e0",
+  "maker": "Kit",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "08fabba8b804a0bb6af568ccb5fc773d"
+ },
+ {
+  "intent": "aa0c6aa435a52fa9fc1905a15da1f93413cc65f936e541d89ab47093440d46e9",
+  "maker": "Joss",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "d9314fd24c2cec83af1157e95e5a4ace"
+ },
+ {
+  "intent": "e25695db9cc7569ce0315e27dfb74c2ce1093c459dee171c3d47c0912f1f2b9f",
+  "maker": "Fen",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "dff9cb2757d073075c9a794e081da2f4"
+ },
+ {
+  "intent": "5059fd717683210f43093ba2a01611a9d0c35b5addd4d4f2800d553f3cc68062",
+  "maker": "Dov",
+  "want": 3,
+  "wantQ": 4,
+  "salt": "1c4be75c9f8ed6bc3090645e64135fa2"
+ },
+ {
+  "intent": "80455fbfcb299718a48615d0cd0f6238cc975cca9c7f8dd3f328ebe9722f0bf1",
+  "maker": "Ines",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "e0a18e10ad3c2d95bd5108c7ce0ad3f1"
+ },
+ {
+  "intent": "d62c20ddd5cf50907f423bd4eafbd2f5e104dd3013ed200c079d0a8cd4ded58a",
+  "maker": "Gil",
+  "want": 3,
+  "wantQ": 5,
+  "salt": "cd081849160d52580ded064458ff043a"
+ },
+ {
+  "intent": "ffdae11ab31f124e603439a235cb69533dc93c0d2cd48a71ab1341cc44c5b381",
+  "maker": "Joss",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "ac1b9abb7724145191423c4425274413"
+ },
+ {
+  "intent": "abd0df0f24ce6789b7d76978adb60b0d36b4438a2340b7b6a8f361664cbe696d",
+  "maker": "Lune",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "07da8f88f4bf0eb948e1346c53d08579"
+ },
+ {
+  "intent": "670ab203ca139746bc61c6a211730b1db5a502340677c8644dc34cf8bffdbf4e",
+  "maker": "Kit",
+  "want": 0,
+  "wantQ": 3,
+  "salt": "3810a4bfaef23a2cc425d1494beca09c"
+ },
+ {
+  "intent": "b9ab031eaa85ea0099564731820268dac8626703f3272197b67695d4b323cf00",
+  "maker": "Ines",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "52177572a3bad492facc6ad115f1d262"
+ },
+ {
+  "intent": "e9b5cba3e7a823e8c012ac151025f02b646ad62f4141714a2a50f13061a8712b",
+  "maker": "Gil",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "615d0b486fe25a45e22fa7af463d9475"
+ },
+ {
+  "intent": "bf78cb04fcf2f25b6fd5f6cfdbb4d2182e6725444cc9bdcf0241fffa623c6d56",
+  "maker": "Lune",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "9ec5e1798240e10c820744faa4a039fa"
+ },
+ {
+  "intent": "2030f1aabfb9502ade298e61a5c964e9dfd11ca722658e2f5e5ccd352b70a6bb",
+  "maker": "Kit",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "a3396d885ea6d24472f287a832d585bb"
+ },
+ {
+  "intent": "c1b1946979b4a729a6940d2e6839d1a01702472f2dd0a07d6cfb2e9d2dde61f0",
+  "maker": "Joss",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "d20d4ec3e02dfbac82f047ed4e794bdb"
+ }
+]

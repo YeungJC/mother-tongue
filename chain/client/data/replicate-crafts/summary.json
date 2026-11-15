@@ -1,0 +1,1144 @@
+{
+ "summary": {
+  "seeds": 8,
+  "gens": 25,
+  "flex": 0,
+  "understoodFirstGen": [
+   0.7147239263803681,
+   0.6600790513833992,
+   0.39385474860335196,
+   0.4557823129251701,
+   0.5104712041884817,
+   0.49264705882352944,
+   0.6907894736842105,
+   0.45819397993311034
+  ],
+  "contextFirstGen": [
+   0.3987730061349693,
+   0.31225296442687744,
+   0.164804469273743,
+   0.1870748299319728,
+   0.25654450261780104,
+   0.33455882352941174,
+   0.26644736842105265,
+   0.2408026755852843
+  ],
+  "understoodLate": [
+   0.8177052905372835,
+   0.7602218294434843,
+   0.7079827238372294,
+   0.8073068808024513,
+   0.7697655211781247,
+   0.7690918825910689,
+   0.7216972929719827,
+   0.7884256946568442
+  ],
+  "contextLate": [
+   0.2682690334932701,
+   0.25851045256671934,
+   0.24822834823932344,
+   0.3317517087011731,
+   0.22059386359077351,
+   0.3396329238803471,
+   0.22885247356561472,
+   0.25339084645341337
+  ],
+  "kept": [
+   0.7831868686868677,
+   0.7771077441077435,
+   0.7591144781144782,
+   0.7739557479557476,
+   0.7595526695526691,
+   0.7736717171717168,
+   0.7616334776334772,
+   0.7704360269360264
+  ],
+  "verified": [
+   {
+    "verified": 4062,
+    "failed": 0
+   },
+   {
+    "verified": 3792,
+    "failed": 0
+   },
+   {
+    "verified": 4053,
+    "failed": 0
+   },
+   {
+    "verified": 3933,
+    "failed": 0
+   },
+   {
+    "verified": 3914,
+    "failed": 0
+   },
+   {
+    "verified": 3686,
+    "failed": 0
+   },
+   {
+    "verified": 3909,
+    "failed": 0
+   },
+   {
+    "verified": 3805,
+    "failed": 0
+   }
+  ],
+  "geography": [
+   {
+    "rho": 0.21691228064835574,
+    "p": 0.0069965017491254375
+   },
+   {
+    "rho": 0.18345648125947323,
+    "p": 0.017991004497751123
+   },
+   {
+    "rho": 0.2859773583493295,
+    "p": 0.0004997501249375312
+   },
+   {
+    "rho": 0.2578176764236207,
+    "p": 0.0034982508745627187
+   },
+   {
+    "rho": 0.24879399231787935,
+    "p": 0.0029985007496251873
+   },
+   {
+    "rho": 0.25526335755891216,
+    "p": 0.00399800099950025
+   },
+   {
+    "rho": 0.3283293458695042,
+    "p": 0.0004997501249375312
+   },
+   {
+    "rho": 0.28589084233580847,
+    "p": 0.0009995002498750624
+   }
+  ],
+  "geoDistance": [
+   {
+    "rho": -0.020959968075438002,
+    "p": 0.808095952023988
+   },
+   {
+    "rho": -0.05325222119713822,
+    "p": 0.5222388805597201
+   },
+   {
+    "rho": -0.045929368238645206,
+    "p": 0.5792103948025987
+   },
+   {
+    "rho": -0.04062138450322682,
+    "p": 0.6196901549225388
+   },
+   {
+    "rho": -0.06642012385367682,
+    "p": 0.44227886056971516
+   },
+   {
+    "rho": -0.06974839486040026,
+    "p": 0.39730134932533734
+   },
+   {
+    "rho": -0.16911681378190177,
+    "p": 0.03648175912043978
+   },
+   {
+    "rho": -0.08303946273562075,
+    "p": 0.29185407296351823
+   }
+  ],
+  "selection": [
+   {
+    "rho": 0.15796966679826527,
+    "p": 0.0079960019990005
+   },
+   {
+    "rho": 0.013928972911731799,
+    "p": 0.8050974512743628
+   },
+   {
+    "rho": -0.10146989653810995,
+    "p": 0.07646176911544228
+   },
+   {
+    "rho": 0.09681975045783395,
+    "p": 0.09495252373813093
+   },
+   {
+    "rho": 0.04743032881767453,
+    "p": 0.42278860569715143
+   },
+   {
+    "rho": 0.03011293474943377,
+    "p": 0.6121939030484758
+   },
+   {
+    "rho": 0.0876508379156218,
+    "p": 0.12643678160919541
+   },
+   {
+    "rho": 0.13079286297033946,
+    "p": 0.02348825587206397
+   }
+  ],
+  "clarity": [
+   {
+    "rho": 0.07662417174136388,
+    "p": 0.18440779610194902
+   },
+   {
+    "rho": 0.0773166529828366,
+    "p": 0.17891054472763618
+   },
+   {
+    "rho": 0.05268529305055007,
+    "p": 0.36731634182908546
+   },
+   {
+    "rho": 0.12302928097258602,
+    "p": 0.03298350824587706
+   },
+   {
+    "rho": -0.006799014937015811,
+    "p": 0.912543728135932
+   },
+   {
+    "rho": 0.018142108807982796,
+    "p": 0.7491254372813593
+   },
+   {
+    "rho": 0.07739601272225015,
+    "p": 0.18290854572713644
+   },
+   {
+    "rho": 0.08409267555250366,
+    "p": 0.16741629185407297
+   }
+  ],
+  "jobEffect": [
+   {
+    "eta2": 0.12420143884892086,
+    "p": 0.0004997501249375312
+   },
+   {
+    "eta2": 0.1726459627329193,
+    "p": 0.0004997501249375312
+   },
+   {
+    "eta2": 0.18719685039370082,
+    "p": 0.0004997501249375312
+   },
+   {
+    "eta2": 0.20154887218045117,
+    "p": 0.0004997501249375312
+   },
+   {
+    "eta2": 0.1356753246753247,
+    "p": 0.0004997501249375312
+   },
+   {
+    "eta2": 0.22445815784929793,
+    "p": 0.0004997501249375312
+   },
+   {
+    "eta2": 0.15948993288590607,
+    "p": 0.0004997501249375312
+   },
+   {
+    "eta2": 0.17826666666666663,
+    "p": 0.0004997501249375312
+   }
+  ],
+  "learnability": [
+   {
+    "rho": 0.013374307274199245,
+    "p": 0.8065967016491754
+   },
+   {
+    "rho": 0.14277338236770792,
+    "p": 0.01249375312343828
+   },
+   {
+    "rho": 0.05081395112542018,
+    "p": 0.3803098450774613
+   },
+   {
+    "rho": 0.17070623905106694,
+    "p": 0.004497751124437781
+   },
+   {
+    "rho": 0.2131690047372694,
+    "p": 0.0004997501249375312
+   },
+   {
+    "rho": -0.03060217917451185,
+    "p": 0.5882058970514743
+   },
+   {
+    "rho": -0.059293853147110054,
+    "p": 0.3243378310844578
+   },
+   {
+    "rho": -0.013180296988339214,
+    "p": 0.8210894552723638
+   }
+  ],
+  "stability": [
+   {
+    "rho": -0.48951048951048953,
+    "p": 0.11294352823588207
+   },
+   {
+    "rho": -0.5804195804195804,
+    "p": 0.050974512743628186
+   },
+   {
+    "rho": -0.5919448657459025,
+    "p": 0.04697651174412794
+   },
+   {
+    "rho": -0.39930008695285735,
+    "p": 0.20539730134932535
+   },
+   {
+    "rho": -0.5174825174825175,
+    "p": 0.09045477261369315
+   },
+   {
+    "rho": -0.6363636363636364,
+    "p": 0.031484257871064465
+   },
+   {
+    "rho": -0.4825174825174825,
+    "p": 0.12243878060969515
+   },
+   {
+    "rho": -0.7062937062937062,
+    "p": 0.01649175412293853
+   }
+  ],
+  "misunderstoodDeals": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "startedAsMistake": [
+   0.20833333333333334,
+   0.020833333333333332,
+   0.08333333333333333,
+   0.08333333333333333,
+   0.20833333333333334,
+   0.19148936170212766,
+   0.3125,
+   0.10638297872340426
+  ],
+  "fixation": [
+   null,
+   13,
+   17,
+   21,
+   19,
+   null,
+   null,
+   15
+  ],
+  "lineage": [
+   {
+    "rho": 0.7849009339087775,
+    "p": 0.0004997501249375312
+   },
+   {
+    "rho": 0.46180494788508036,
+    "p": 0.02048975512243878
+   },
+   {
+    "rho": 0.3945921632356748,
+    "p": 0.047476261869065464
+   },
+   {
+    "rho": 0.8467876153111791,
+    "p": 0.0004997501249375312
+   },
+   {
+    "rho": 0.6211521908208911,
+    "p": 0.001999000499750125
+   },
+   {
+    "rho": 0.1511199791043163,
+    "p": 0.45827086456771615
+   },
+   {
+    "rho": 0.27166819821870386,
+    "p": 0.18340829585207397
+   },
+   {
+    "rho": 0.13582226236037728,
+    "p": 0.5002498750624688
+   }
+  ],
+  "firstNamed": [
+   {
+    "category": "goods",
+    "day": [
+     4.6,
+     3.8,
+     4,
+     3.4,
+     5.4,
+     5.2,
+     3.75,
+     3.6
+    ]
+   },
+   {
+    "category": "numbers",
+    "day": [
+     10.6,
+     6.666666666666667,
+     7,
+     9,
+     7.6,
+     6.5,
+     3,
+     8.8
+    ]
+   },
+   {
+    "category": "yes/no",
+    "day": [
+     3,
+     4,
+     4,
+     3.5,
+     4.5,
+     2,
+     5,
+     3.5
+    ]
+   }
+  ],
+  "generations": [
+   25,
+   25,
+   25,
+   25,
+   25,
+   25,
+   25,
+   25
+  ],
+  "extinct": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "deathsPerGen": [
+   2.64,
+   3.2,
+   2.56,
+   2.72,
+   3.08,
+   3.28,
+   3.04,
+   3.16
+  ],
+  "clarityHalves": [
+   {
+    "top": 1.0933333333333333,
+    "bottom": 0.9066666666666666,
+    "p": 0.10844577711144428
+   },
+   {
+    "top": 1.1266666666666667,
+    "bottom": 0.8733333333333333,
+    "p": 0.03398300849575212
+   },
+   {
+    "top": 1.0266666666666666,
+    "bottom": 0.9733333333333334,
+    "p": 0.6516741629185407
+   },
+   {
+    "top": 1.04,
+    "bottom": 0.96,
+    "p": 0.5062468765617192
+   },
+   {
+    "top": 1,
+    "bottom": 1,
+    "p": 1
+   },
+   {
+    "top": 1.0536912751677852,
+    "bottom": 0.9530201342281879,
+    "p": 0.4312843578210895
+   },
+   {
+    "top": 1.1133333333333333,
+    "bottom": 0.8866666666666667,
+    "p": 0.05897051474262868
+   },
+   {
+    "top": 1.1466666666666667,
+    "bottom": 0.8533333333333334,
+    "p": 0.019490254872563718
+   }
+  ],
+  "drivers": [
+   {
+    "feature": "hungryDays",
+    "label": "hungry days",
+    "kind": "rank",
+    "children": {
+     "kind": "rank",
+     "positive": 0,
+     "negative": 8,
+     "meanEffect": -0.584410306777081,
+     "islands": 8
+    },
+    "standing": {
+     "kind": "rank",
+     "positive": 0,
+     "negative": 8,
+     "meanEffect": -0.6713648806275142,
+     "islands": 8
+    }
+   },
+   {
+    "feature": "trips",
+    "label": "trips to other towns",
+    "kind": "rank",
+    "children": {
+     "kind": "rank",
+     "positive": 0,
+     "negative": 8,
+     "meanEffect": -0.508520293179342,
+     "islands": 8
+    },
+    "standing": {
+     "kind": "rank",
+     "positive": 0,
+     "negative": 8,
+     "meanEffect": -0.5631452868909333,
+     "islands": 8
+    }
+   },
+   {
+    "feature": "trades",
+    "label": "trades made",
+    "kind": "rank",
+    "children": {
+     "kind": "rank",
+     "positive": 8,
+     "negative": 0,
+     "meanEffect": 0.45980393174162765,
+     "islands": 8
+    },
+    "standing": {
+     "kind": "rank",
+     "positive": 8,
+     "negative": 0,
+     "meanEffect": 0.5284883103964854,
+     "islands": 8
+    }
+   },
+   {
+    "feature": "town",
+    "label": "home town",
+    "kind": "group",
+    "children": {
+     "kind": "group",
+     "significant": 8,
+     "meanEffect": 0.2723629007581263,
+     "islands": 8
+    },
+    "standing": {
+     "kind": "group",
+     "significant": 8,
+     "meanEffect": 0.3341389510155639,
+     "islands": 8
+    }
+   },
+   {
+    "feature": "comprehension",
+    "label": "understands others",
+    "kind": "rank",
+    "children": {
+     "kind": "rank",
+     "positive": 2,
+     "negative": 0,
+     "meanEffect": 0.05790443226034883,
+     "islands": 8
+    },
+    "standing": {
+     "kind": "rank",
+     "positive": 1,
+     "negative": 0,
+     "meanEffect": 0.03218511998973232,
+     "islands": 8
+    }
+   },
+   {
+    "feature": "job",
+    "label": "trade",
+    "kind": "group",
+    "children": {
+     "kind": "group",
+     "significant": 8,
+     "meanEffect": 0.17293540077914843,
+     "islands": 8
+    },
+    "standing": {
+     "kind": "group",
+     "significant": 8,
+     "meanEffect": 0.2802766895258055,
+     "islands": 8
+    }
+   },
+   {
+    "feature": "clarity",
+    "label": "is understood",
+    "kind": "rank",
+    "children": {
+     "kind": "rank",
+     "positive": 1,
+     "negative": 0,
+     "meanEffect": 0.06281089761163217,
+     "islands": 8
+    },
+    "standing": {
+     "kind": "rank",
+     "positive": 0,
+     "negative": 0,
+     "meanEffect": 0.035224629441825625,
+     "islands": 8
+    }
+   },
+   {
+    "feature": "inheritedWords",
+    "label": "words inherited",
+    "kind": "rank",
+    "children": {
+     "kind": "rank",
+     "positive": 0,
+     "negative": 0,
+     "meanEffect": 0.018904961930736028,
+     "islands": 8
+    },
+    "standing": {
+     "kind": "rank",
+     "positive": 0,
+     "negative": 0,
+     "meanEffect": 0.028733805592253227,
+     "islands": 8
+    }
+   },
+   {
+    "feature": "greed",
+    "label": "greed",
+    "kind": "rank",
+    "children": {
+     "kind": "rank",
+     "positive": 0,
+     "negative": 0,
+     "meanEffect": 0.030082333905226636,
+     "islands": 8
+    },
+    "standing": {
+     "kind": "rank",
+     "positive": 0,
+     "negative": 0,
+     "meanEffect": 0.037617010725931335,
+     "islands": 8
+    }
+   },
+   {
+    "feature": "thinker",
+    "label": "an LLM thinker",
+    "kind": "rank",
+    "children": {
+     "kind": "rank",
+     "positive": 0,
+     "negative": 0,
+     "meanEffect": null,
+     "islands": 8
+    },
+    "standing": {
+     "kind": "rank",
+     "positive": 0,
+     "negative": 0,
+     "meanEffect": null,
+     "islands": 8
+    }
+   }
+  ]
+ },
+ "findings": [
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 71% of the time (context alone: 40%); by the last 10 generations, 82% (context: 27%).",
+    "evidence": "4062 tables joined to their revealed meanings; 4062 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 5/5 named by half the island in the first lifetime (day 4.6 on average); numbers: 5/5 named by half the island in the first lifetime (day 10.6 on average); yes/no: 2/2 named by half the island in the first lifetime (day 3.0 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 78% of their parent's words, use a different word for 10%, and lose 11%. By kind: goods 73% kept, numbers 79% kept, yes/no 91% kept. 0.23 words misheard per child.",
+    "evidence": "300 births; a child hears ~83 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": true,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.22, p = 0.007, n = 150. Oakhollow–Ironcrag 75%, Wrenford–Saltmere 72%, Wrenford–Oakhollow 70%, Wrenford–Ironcrag 68%, Ironcrag–Saltmere 62%, Oakhollow–Saltmere 62%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does your trade decide how many children you have?",
+    "solid": true,
+    "finding": "Children by job: farmer 1.25 (mean place 5.4, n = 125), woodcutter 1.20 (mean place 5.5, n = 50), miner 0.48 (mean place 7.6, n = 25), smith 0.40 (mean place 9.7, n = 50), carpenter 1.04 (mean place 6.7, n = 50). Job explains 12% of the variation in children (p = 0.000).",
+    "evidence": "Children go by standing within a trade (wealth against the mean of the same job), so a lucrative job alone should not pay."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": true,
+    "finding": "Agents who understood others best (top half) survived 81% vs 75% and had 1.15 vs 0.85 children. Comprehension vs children: ρ = 0.16, p = 0.008, n = 300; speaker clarity vs children: ρ = 0.08, p = 0.184, n = 300.",
+    "evidence": "300 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "0% of trades were accepted even though the listener got it wrong; 10 of 48 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Wrenford \"naso\" = ore: misheard: maso → naso (generation 6) · Wrenford \"dose\" = four: coined for \"six\" by Kit·4 (generation 4) · Oakhollow \"naso\" = ore: misheard: maso → naso (generation 6)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": false,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.49, p = 0.113, n = 12. Most used: two (2% replaced per generation), wood (15% replaced per generation), food (4% replaced per generation); least: four (9%), five (55%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": true,
+    "finding": "2 founding families still alive. Families alive vs. distinct words per meaning across towns: ρ = 0.78, p = <0.001, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ],
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 66% of the time (context alone: 31%); by the last 10 generations, 76% (context: 26%).",
+    "evidence": "3792 tables joined to their revealed meanings; 3792 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 5/5 named by half the island in the first lifetime (day 3.8 on average); numbers: 3/5 named by half the island in the first lifetime (day 6.7 on average); yes/no: 2/2 named by half the island in the first lifetime (day 4.0 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 78% of their parent's words, use a different word for 10%, and lose 12%. By kind: goods 73% kept, numbers 75% kept, yes/no 96% kept. 0.27 words misheard per child.",
+    "evidence": "300 births; a child hears ~78 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": true,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.18, p = 0.018, n = 150. Wrenford–Saltmere 77%, Wrenford–Ironcrag 72%, Ironcrag–Saltmere 70%, Oakhollow–Ironcrag 67%, Wrenford–Oakhollow 59%, Oakhollow–Saltmere 55%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does your trade decide how many children you have?",
+    "solid": true,
+    "finding": "Children by job: farmer 1.34 (mean place 5.4, n = 125), woodcutter 1.30 (mean place 5.1, n = 50), miner 0.60 (mean place 6.9, n = 25), smith 0.20 (mean place 10.4, n = 50), carpenter 0.86 (mean place 6.6, n = 50). Job explains 17% of the variation in children (p = 0.000).",
+    "evidence": "Children go by standing within a trade (wealth against the mean of the same job), so a lucrative job alone should not pay."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": false,
+    "finding": "Agents who understood others best (top half) survived 66% vs 79% and had 1.06 vs 0.94 children. Comprehension vs children: ρ = 0.01, p = 0.805, n = 300; speaker clarity vs children: ρ = 0.08, p = 0.179, n = 300.",
+    "evidence": "300 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "0% of trades were accepted even though the listener got it wrong; 1 of 48 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Wrenford \"badu\" = five: coined for \"food\" by Lune (generation 1)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": false,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.58, p = 0.051, n = 12. Most used: two (5% replaced per generation), wood (4% replaced per generation), food (5% replaced per generation); least: four (27%), five (64%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": true,
+    "finding": "By generation 13, every living agent descends from one founder. Families alive vs. distinct words per meaning across towns: ρ = 0.46, p = 0.020, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ],
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 39% of the time (context alone: 16%); by the last 10 generations, 71% (context: 25%).",
+    "evidence": "4053 tables joined to their revealed meanings; 4053 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 5/5 named by half the island in the first lifetime (day 4.0 on average); numbers: 5/5 named by half the island in the first lifetime (day 7.0 on average); yes/no: 2/2 named by half the island in the first lifetime (day 4.0 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 76% of their parent's words, use a different word for 10%, and lose 14%. By kind: goods 69% kept, numbers 78% kept, yes/no 94% kept. 0.20 words misheard per child.",
+    "evidence": "300 births; a child hears ~88 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": true,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.29, p = <0.001, n = 150. Wrenford–Saltmere 67%, Wrenford–Ironcrag 65%, Oakhollow–Ironcrag 65%, Wrenford–Oakhollow 61%, Ironcrag–Saltmere 59%, Oakhollow–Saltmere 49%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does your trade decide how many children you have?",
+    "solid": true,
+    "finding": "Children by job: farmer 1.33 (mean place 5.2, n = 125), woodcutter 1.24 (mean place 5.4, n = 50), miner 0.68 (mean place 6.8, n = 25), smith 0.26 (mean place 10.3, n = 50), carpenter 0.84 (mean place 6.9, n = 50). Job explains 19% of the variation in children (p = 0.000).",
+    "evidence": "Children go by standing within a trade (wealth against the mean of the same job), so a lucrative job alone should not pay."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": false,
+    "finding": "Agents who understood others best (top half) survived 75% vs 83% and had 0.91 vs 1.09 children. Comprehension vs children: ρ = -0.10, p = 0.076, n = 300; speaker clarity vs children: ρ = 0.05, p = 0.367, n = 300.",
+    "evidence": "300 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "0% of trades were accepted even though the listener got it wrong; 4 of 48 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Oakhollow \"ke\" = three: coined for \"tools\" by Esk (generation 1) · Ironcrag \"pali\" = tools: coined for \"wood\" by Zed·6 (generation 6) · Saltmere \"kepigi\" = five: misheard: kepiki → kepigi (generation 25)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": true,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.59, p = 0.047, n = 12. Most used: two (5% replaced per generation), wood (7% replaced per generation), no (7% replaced per generation); least: four (39%), five (45%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": true,
+    "finding": "By generation 17, every living agent descends from one founder. Families alive vs. distinct words per meaning across towns: ρ = 0.39, p = 0.047, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ],
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 46% of the time (context alone: 19%); by the last 10 generations, 81% (context: 33%).",
+    "evidence": "3933 tables joined to their revealed meanings; 3933 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 5/5 named by half the island in the first lifetime (day 3.4 on average); numbers: 4/5 named by half the island in the first lifetime (day 9.0 on average); yes/no: 2/2 named by half the island in the first lifetime (day 3.5 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 77% of their parent's words, use a different word for 11%, and lose 12%. By kind: goods 71% kept, numbers 77% kept, yes/no 93% kept. 0.26 words misheard per child.",
+    "evidence": "300 births; a child hears ~78 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": true,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.26, p = 0.003, n = 150. Oakhollow–Ironcrag 65%, Wrenford–Saltmere 65%, Wrenford–Oakhollow 58%, Wrenford–Ironcrag 58%, Ironcrag–Saltmere 52%, Oakhollow–Saltmere 47%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does your trade decide how many children you have?",
+    "solid": true,
+    "finding": "Children by job: farmer 1.34 (mean place 5.2, n = 125), woodcutter 1.14 (mean place 5.2, n = 50), miner 0.52 (mean place 7.2, n = 25), smith 0.20 (mean place 10.6, n = 50), carpenter 1.04 (mean place 6.6, n = 50). Job explains 20% of the variation in children (p = 0.000).",
+    "evidence": "Children go by standing within a trade (wealth against the mean of the same job), so a lucrative job alone should not pay."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": true,
+    "finding": "Agents who understood others best (top half) survived 82% vs 72% and had 1.09 vs 0.91 children. Comprehension vs children: ρ = 0.10, p = 0.095, n = 300; speaker clarity vs children: ρ = 0.12, p = 0.033, n = 300.",
+    "evidence": "300 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "0% of trades were accepted even though the listener got it wrong; 4 of 48 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Wrenford \"nakisha\" = yes: misheard: nakesha → nakisha (generation 4) · Oakhollow \"nakisha\" = yes: misheard: nakesha → nakisha (generation 4) · Ironcrag \"nakisha\" = yes: misheard: nakesha → nakisha (generation 4)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": false,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.40, p = 0.205, n = 12. Most used: two (14% replaced per generation), wood (16% replaced per generation), food (5% replaced per generation); least: four (22%), five (49%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": true,
+    "finding": "By generation 21, every living agent descends from one founder. Families alive vs. distinct words per meaning across towns: ρ = 0.85, p = <0.001, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ],
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 51% of the time (context alone: 26%); by the last 10 generations, 77% (context: 22%).",
+    "evidence": "3914 tables joined to their revealed meanings; 3914 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 5/5 named by half the island in the first lifetime (day 5.4 on average); numbers: 5/5 named by half the island in the first lifetime (day 7.6 on average); yes/no: 2/2 named by half the island in the first lifetime (day 4.5 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 76% of their parent's words, use a different word for 12%, and lose 12%. By kind: goods 71% kept, numbers 74% kept, yes/no 91% kept. 0.35 words misheard per child.",
+    "evidence": "300 births; a child hears ~79 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": true,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.25, p = 0.003, n = 150. Wrenford–Saltmere 68%, Wrenford–Ironcrag 60%, Oakhollow–Ironcrag 60%, Wrenford–Oakhollow 56%, Ironcrag–Saltmere 56%, Oakhollow–Saltmere 47%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does your trade decide how many children you have?",
+    "solid": true,
+    "finding": "Children by job: farmer 1.23 (mean place 5.6, n = 125), woodcutter 1.32 (mean place 5.2, n = 50), miner 0.60 (mean place 6.4, n = 25), smith 0.28 (mean place 10.0, n = 50), carpenter 1.02 (mean place 6.7, n = 50). Job explains 14% of the variation in children (p = 0.000).",
+    "evidence": "Children go by standing within a trade (wealth against the mean of the same job), so a lucrative job alone should not pay."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": false,
+    "finding": "Agents who understood others best (top half) survived 73% vs 75% and had 1.09 vs 0.91 children. Comprehension vs children: ρ = 0.05, p = 0.423, n = 300; speaker clarity vs children: ρ = -0.01, p = 0.913, n = 300.",
+    "evidence": "300 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "0% of trades were accepted even though the listener got it wrong; 10 of 48 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Wrenford \"ge\" = food: misheard: gi → ge (generation 4) · Wrenford \"vebu\" = four: misheard: vevu → vebu (generation 21) · Oakhollow \"ge\" = food: misheard: gi → ge (generation 4)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": false,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.52, p = 0.090, n = 12. Most used: wood (21% replaced per generation), two (2% replaced per generation), food (13% replaced per generation); least: four (35%), five (52%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": true,
+    "finding": "By generation 19, every living agent descends from one founder. Families alive vs. distinct words per meaning across towns: ρ = 0.62, p = 0.002, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ],
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 49% of the time (context alone: 33%); by the last 10 generations, 77% (context: 34%).",
+    "evidence": "3686 tables joined to their revealed meanings; 3686 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 5/5 named by half the island in the first lifetime (day 5.2 on average); numbers: 4/5 named by half the island in the first lifetime (day 6.5 on average); yes/no: 2/2 named by half the island in the first lifetime (day 2.0 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 77% of their parent's words, use a different word for 11%, and lose 11%. By kind: goods 72% kept, numbers 79% kept, yes/no 91% kept. 0.24 words misheard per child.",
+    "evidence": "300 births; a child hears ~78 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": true,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.26, p = 0.004, n = 150. Wrenford–Saltmere 72%, Oakhollow–Ironcrag 71%, Wrenford–Ironcrag 64%, Wrenford–Oakhollow 60%, Ironcrag–Saltmere 58%, Oakhollow–Saltmere 56%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does your trade decide how many children you have?",
+    "solid": true,
+    "finding": "Children by job: farmer 1.40 (mean place 5.1, n = 125), woodcutter 1.30 (mean place 5.0, n = 50), miner 0.42 (mean place 7.6, n = 24), smith 0.20 (mean place 10.5, n = 50), carpenter 0.80 (mean place 6.9, n = 50). Job explains 22% of the variation in children (p = 0.000).",
+    "evidence": "Children go by standing within a trade (wealth against the mean of the same job), so a lucrative job alone should not pay."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": false,
+    "finding": "Agents who understood others best (top half) survived 69% vs 76% and had 1.05 vs 0.95 children. Comprehension vs children: ρ = 0.03, p = 0.612, n = 299; speaker clarity vs children: ρ = 0.02, p = 0.749, n = 299.",
+    "evidence": "299 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "0% of trades were accepted even though the listener got it wrong; 9 of 47 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Wrenford \"nithi\" = food: misheard: mithi → nithi (generation 5) · Wrenford \"detho\" = tools: misheard: dethu → detho (generation 25) · Wrenford \"to\" = no: coined for \"ore\" by Esk·8 (generation 8)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": true,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.64, p = 0.031, n = 12. Most used: two (3% replaced per generation), wood (5% replaced per generation), food (6% replaced per generation); least: five (40%), four (38%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": false,
+    "finding": "2 founding families still alive. Families alive vs. distinct words per meaning across towns: ρ = 0.15, p = 0.458, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ],
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 69% of the time (context alone: 27%); by the last 10 generations, 72% (context: 23%).",
+    "evidence": "3909 tables joined to their revealed meanings; 3909 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 4/5 named by half the island in the first lifetime (day 3.8 on average); numbers: 2/5 named by half the island in the first lifetime (day 3.0 on average); yes/no: 2/2 named by half the island in the first lifetime (day 5.0 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 76% of their parent's words, use a different word for 11%, and lose 13%. By kind: goods 69% kept, numbers 77% kept, yes/no 93% kept. 0.26 words misheard per child.",
+    "evidence": "300 births; a child hears ~85 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": true,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.33, p = <0.001, n = 150. Wrenford–Saltmere 72%, Oakhollow–Ironcrag 63%, Wrenford–Ironcrag 62%, Wrenford–Oakhollow 58%, Ironcrag–Saltmere 57%, Oakhollow–Saltmere 52%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does your trade decide how many children you have?",
+    "solid": true,
+    "finding": "Children by job: farmer 1.33 (mean place 5.3, n = 125), woodcutter 1.28 (mean place 5.3, n = 50), miner 0.64 (mean place 6.6, n = 25), smith 0.30 (mean place 9.9, n = 50), carpenter 0.78 (mean place 7.3, n = 50). Job explains 16% of the variation in children (p = 0.000).",
+    "evidence": "Children go by standing within a trade (wealth against the mean of the same job), so a lucrative job alone should not pay."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": false,
+    "finding": "Agents who understood others best (top half) survived 77% vs 70% and had 1.04 vs 0.96 children. Comprehension vs children: ρ = 0.09, p = 0.126, n = 300; speaker clarity vs children: ρ = 0.08, p = 0.183, n = 300.",
+    "evidence": "300 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "0% of trades were accepted even though the listener got it wrong; 15 of 48 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Wrenford \"zese\" = food: coined for \"three\" by Fen (generation 1) · Wrenford \"thima\" = wood: misheard: thime → thima (generation 7) · Wrenford \"so\" = three: misheard: su → so (generation 13)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": false,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.48, p = 0.122, n = 12. Most used: two (8% replaced per generation), wood (15% replaced per generation), no (14% replaced per generation); least: four (31%), five (58%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": false,
+    "finding": "2 founding families still alive. Families alive vs. distinct words per meaning across towns: ρ = 0.27, p = 0.183, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ],
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 46% of the time (context alone: 24%); by the last 10 generations, 79% (context: 25%).",
+    "evidence": "3805 tables joined to their revealed meanings; 3805 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 5/5 named by half the island in the first lifetime (day 3.6 on average); numbers: 5/5 named by half the island in the first lifetime (day 8.8 on average); yes/no: 2/2 named by half the island in the first lifetime (day 3.5 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 77% of their parent's words, use a different word for 11%, and lose 12%. By kind: goods 71% kept, numbers 77% kept, yes/no 93% kept. 0.21 words misheard per child.",
+    "evidence": "300 births; a child hears ~79 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": true,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.29, p = <0.001, n = 150. Wrenford–Saltmere 74%, Wrenford–Ironcrag 69%, Oakhollow–Ironcrag 67%, Ironcrag–Saltmere 64%, Wrenford–Oakhollow 60%, Oakhollow–Saltmere 54%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does your trade decide how many children you have?",
+    "solid": true,
+    "finding": "Children by job: farmer 1.39 (mean place 5.3, n = 125), woodcutter 1.28 (mean place 5.1, n = 50), miner 0.60 (mean place 6.6, n = 25), smith 0.28 (mean place 10.1, n = 50), carpenter 0.66 (mean place 7.2, n = 50). Job explains 18% of the variation in children (p = 0.000).",
+    "evidence": "Children go by standing within a trade (wealth against the mean of the same job), so a lucrative job alone should not pay."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": true,
+    "finding": "Agents who understood others best (top half) survived 76% vs 68% and had 1.16 vs 0.84 children. Comprehension vs children: ρ = 0.13, p = 0.023, n = 300; speaker clarity vs children: ρ = 0.08, p = 0.167, n = 300.",
+    "evidence": "300 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "0% of trades were accepted even though the listener got it wrong; 5 of 47 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Wrenford \"tepa\" = wood: coined for \"planks\" by Dace·6 (generation 6) · Oakhollow \"tepa\" = wood: coined for \"planks\" by Dace·6 (generation 6) · Oakhollow \"beka\" = three: misheard: peka → beka (generation 25)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": true,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.71, p = 0.016, n = 12. Most used: two (5% replaced per generation), wood (9% replaced per generation), food (4% replaced per generation); least: planks (34%), five (52%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": false,
+    "finding": "By generation 15, every living agent descends from one founder. Families alive vs. distinct words per meaning across towns: ρ = 0.14, p = 0.500, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ]
+ ]
+}

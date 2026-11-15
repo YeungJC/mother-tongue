@@ -1,0 +1,842 @@
+[
+ {
+  "intent": "3cebb9be38b0801395f019a4b0da4f83497193ce4fec267344219465eb3659b6",
+  "maker": "Sela·5",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "730433f38d768b6195fed31b3642f652"
+ },
+ {
+  "intent": "85cd9207459a0e15144dcfc70ebd8bcee7a1cb4a4c15c16af57990cb5f08857a",
+  "maker": "Kit·5",
+  "want": 1,
+  "wantQ": 6,
+  "salt": "537daab61ecb2bed5d5f2f0e742ea84c"
+ },
+ {
+  "intent": "e05863bd7f18999bbcdee8d734d394f84ecb209c1ad5a8703b3270704a9511ec",
+  "maker": "Cass·5",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "f184b5d0d4e554acdc09474303572172"
+ },
+ {
+  "intent": "0e9673cebac471a412e500a0061fe24c0f46053bc7059bcdbe056ae2c7596411",
+  "maker": "Gil·5",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "7b769dc9ae620dffb8a114fb1fff17a8"
+ },
+ {
+  "intent": "86bf5feed65e388e4e474132338e73de5286ce616cdc8fa3d7eac6520fb3e0e0",
+  "maker": "Oren·5",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "e9f81878d2f6e3378c4d3f232786a751"
+ },
+ {
+  "intent": "f99f3a8c249b7f32833e4fd47597496bbda20655331c3e0a80d3b1f58f8efa84",
+  "maker": "Wynn·5",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "76bcefb60bdb81596fe246017defc4fe"
+ },
+ {
+  "intent": "508350e5baa6536dab80761d609db66dc2d837aa5df3d351db3bc2419796624d",
+  "maker": "Sela·5",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "c3430a4d60db9d86b9a1fc7f0d86bae2"
+ },
+ {
+  "intent": "15bb5734cb1e554ea02c7b31273e4098788f20727b5e5fcf209cbc4624f20c4e",
+  "maker": "Kit·5",
+  "want": 1,
+  "wantQ": 6,
+  "salt": "37d1e35ade2bd30f9921cae955822862"
+ },
+ {
+  "intent": "68d4dfaf84ba26f95fd48ca16a1fca33a44cc62eacd117192a323fb559e28669",
+  "maker": "Cass·5",
+  "want": 3,
+  "wantQ": 6,
+  "salt": "fc88f703dd375f6bf09f86b4f16abeee"
+ },
+ {
+  "intent": "745dc9f473920f378fdc4bfa3ee0e7f21d3b7770911e207c2a622135fc246e75",
+  "maker": "Gil·5",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "c82084b8baf356318abbbe35a961fc6f"
+ },
+ {
+  "intent": "6302e7116a3f335017af72d8b72f201cdfef57f77f395e99028d3f28fc3456a3",
+  "maker": "Wynn·5",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "013ef5751442c6893be6d5f3c18f1b96"
+ },
+ {
+  "intent": "63bbff84fa9d744bc93f76be76798e1fb8c398c1c289502ff0734d10216afdcc",
+  "maker": "Ada·5",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "350899b4c09bf1f7bb6a0d684dde7ee8"
+ },
+ {
+  "intent": "64703068568c6172c5b1870f88888e56614309968fe9786a4d44ea92e182b079",
+  "maker": "Oren·5",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "aa73fd25c059f42eaa02368cb4161d4e"
+ },
+ {
+  "intent": "2493b6d43480da0633280ac5e1c4743376abf6e41c78d458061dbe58c26d9149",
+  "maker": "Quin·5",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "f02c0a59ad75c283493f29b984db4f54"
+ },
+ {
+  "intent": "5de17345c6563f2ab2ce346049612376070e0054d5203069af3d7c70985bcdf7",
+  "maker": "Ines·5",
+  "want": 1,
+  "wantQ": 6,
+  "salt": "b518aa5dde6aae8b1755ad74fc7afada"
+ },
+ {
+  "intent": "013bcda53a9ca50272cf49806cafae9b1846adbef8f6d99b84da927e077dbe60",
+  "maker": "Kit·5",
+  "want": 2,
+  "wantQ": 6,
+  "salt": "76d8e331b02b6a3f2bb0ea93731eda47"
+ },
+ {
+  "intent": "45b962ed4b0e6acaca83d79a0a3a49e3781152aa80309f0b405c1e04d63b8aab",
+  "maker": "Sela·5",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "c19f9a74b2a781f03f3dd7117ac50471"
+ },
+ {
+  "intent": "910f1da002cdece42ba5d5a915c40d78347b8459ff701e8e40806e9f7ae71d3d",
+  "maker": "Cass·5",
+  "want": 3,
+  "wantQ": 6,
+  "salt": "dff407e3ca4829596f68190a0a04f9eb"
+ },
+ {
+  "intent": "51395e6108878c8be2435f225d89a52b9a13d47bce02781ff94bfc6702133685",
+  "maker": "Wynn·5",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "4c7ebf912ad413d33886b3b402cda76d"
+ },
+ {
+  "intent": "8012f3b6c017c678151788a37fbfe5a7a4fc9bed4b40f77080b4045ab337a9b7",
+  "maker": "Oren·5",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "c9724e370c3f3db81825ab36b5cf6999"
+ },
+ {
+  "intent": "aca7bd1a8f38ed4d23eb1290cecceb902c815e1da8d1c998d54a1c5ca9332084",
+  "maker": "Gil·5",
+  "want": 1,
+  "wantQ": 3,
+  "salt": "88af2a0a1e86953465a51e3425ac3633"
+ },
+ {
+  "intent": "478797298663b006bddc41e9f31c68dbe38b900329f7d4c879e8d02d6b3069b1",
+  "maker": "Cass·5",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "2a87c8bc3a1929619914fef56fbb618c"
+ },
+ {
+  "intent": "a5b20bc291bb5c880177db51f264377105fc770b0fb44212f79948280316a4a8",
+  "maker": "Uma·5",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "d48e6753e211517acf09c46a9b2a3276"
+ },
+ {
+  "intent": "43d314a2678efd0ef0e6c14a1f9286be083288586ae20e6871b639ee737c7bfa",
+  "maker": "Esk·5",
+  "want": 1,
+  "wantQ": 3,
+  "salt": "8436195905c2323a3532c2afcd90458f"
+ },
+ {
+  "intent": "0176c35eafdf1c144843a1fac4fb1ba27df1c1e111f29a4fb01d11266cb7f842",
+  "maker": "Kit·5",
+  "want": 2,
+  "wantQ": 5,
+  "salt": "90eecb4c7460107c5828932014c63e89"
+ },
+ {
+  "intent": "8f1034c4ce2ad50666cd7ffacd96124e9d679802ff86a5ac2ff8cd0da106a378",
+  "maker": "Sela·5",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "6c4b66c577454a25a723b36a10917306"
+ },
+ {
+  "intent": "2d9e3101448741c03f2d68f50f1c291e1ef0c32131d80e94278f59acf8165bfa",
+  "maker": "Oren·5",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "c2e96aee9e7b2a7dd01ecaabd8c68c6d"
+ },
+ {
+  "intent": "c3d3c7f883cfe6b13c57fb445a7167d204debc4304e4bd6991ada7a613ef837c",
+  "maker": "Wynn·5",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "f642a46615400df84c0cea8500052df8"
+ },
+ {
+  "intent": "23f92a3b025863c9266e4183e3881133df347d1b1dff0b66c5181b721c0afc90",
+  "maker": "Gil·5",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "b7783da1571a227152468ea3a0cf78a3"
+ },
+ {
+  "intent": "50334454c4180dc5424efef0003ee976f7685a796378bbbab1582e024dff226b",
+  "maker": "Cass·5",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "427f9257513135ff533958b1914d6771"
+ },
+ {
+  "intent": "8fd16199ac3fbc522b7deb49edc4820648010e729b10f0f66cd0dd30ff4892d7",
+  "maker": "Kit·5",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "6696a4e6b7f46366b7cdc9da4191e1c9"
+ },
+ {
+  "intent": "8837cfadb61d90377b36d177d1a4482755a03b0df79e3ef8475794eb036e7c29",
+  "maker": "Sela·5",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "21a138e856e4fa832c4d4b17f52fb285"
+ },
+ {
+  "intent": "fca8a182f7662211aebd0a0571bc32f0f34875f59cfe088a7dd1605b31c8500b",
+  "maker": "Gil·5",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "b2a2763070c3068f3f48f85cc0863057"
+ },
+ {
+  "intent": "6ff607c2ef0606e5f7052360da6d6c3de88ddbce4519c418dcceba17106d270f",
+  "maker": "Wynn·5",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "484994705773996b681bf2fd6c02535e"
+ },
+ {
+  "intent": "504ef12315997d288c4272944cb56067234fb741fa9146102a82603de94a4c7b",
+  "maker": "Oren·5",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "9c0414a9d42462d554125e3edc62fa61"
+ },
+ {
+  "intent": "c2834cce1b1ca4540b98763e977452aa9424a1c353f878e37409b6a9aaa75d8d",
+  "maker": "Sela·5",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "26c1fc7c56d7999fdc4b2ed25ff6d95b"
+ },
+ {
+  "intent": "6d2b0523ff8ac672cbf267c2bc94cf3ef135811ef9b07253fc19c1aa312060c7",
+  "maker": "Cass·5",
+  "want": 0,
+  "wantQ": 4,
+  "salt": "69adbce2a432caa8d7bec00065f12b5c"
+ },
+ {
+  "intent": "3f95f4c2a97eb3d931675548e40b1d79fb73a6f0ede6618e3a1dd5e5beed1fd4",
+  "maker": "Kit·5",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "47d41e49e59be27b85736659122d8f2e"
+ },
+ {
+  "intent": "e3f98aa57e4ca6bcbf17fdefeface88c802d78d03150b3844aeb50f402f1777d",
+  "maker": "Gil·5",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "d446b6a6c41c54c2d9195f78433e186a"
+ },
+ {
+  "intent": "f8e8470509d240304f6eb53903335b1f86296cbd68613c6e7e714b1814ec35f9",
+  "maker": "Ines·5",
+  "want": 1,
+  "wantQ": 3,
+  "salt": "7dcb36e61e268a328ea2b7a6af1dd719"
+ },
+ {
+  "intent": "97075fe5a25d01a072a1dcbc3065d76187027b4d77082d3330326a28c65c8e0e",
+  "maker": "Wynn·5",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "5f13bd07b4d04ed314ef2e8bb1605da8"
+ },
+ {
+  "intent": "58087d439b725f6f54589d35adab2237274943338fe29be8b6531cef42d43405",
+  "maker": "Sela·5",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "c8aa119c1684d138486159f1d3e2f71f"
+ },
+ {
+  "intent": "694e240be5040d7d9e024926ac5413ef8bf1ad48d512befac5b5845954be2621",
+  "maker": "Kit·5",
+  "want": 1,
+  "wantQ": 6,
+  "salt": "eb8e959567ba0d3d3af485e96d3d9d21"
+ },
+ {
+  "intent": "710e59f9ca0064f3f5d3b39c2e5bf4afe107a8c7b0fbd006c87974d487118fa2",
+  "maker": "Cass·5",
+  "want": 0,
+  "wantQ": 5,
+  "salt": "30cc2598e244b3aefac71aac54ceb4eb"
+ },
+ {
+  "intent": "b3d7a8c73abc687354fdc08a3e59ce19d53364eca96e71dd2e8cd07c3d78fd29",
+  "maker": "Wynn·5",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "f015ebc425cc3b681b99aa9406e7a95c"
+ },
+ {
+  "intent": "5b1af6782203248ba1665f96d4415da5efb85e8545d2b553b8778359a527366a",
+  "maker": "Gil·5",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "d3062a6cb41e50601673f684572416bc"
+ },
+ {
+  "intent": "3b49b108f845c00dc9abc784c26e2f9fd2f3710c587ae5968d21a8f24bbfa438",
+  "maker": "Sela·5",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "65ee64e7f70d4057d6ecdc6db6e335ac"
+ },
+ {
+  "intent": "a9b33102c8b25240c728af9ac1e750998142d3565f7322fa4d92b82a8d90c1c6",
+  "maker": "Oren·5",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "ed6c7a71a2991c054932435cb67d157f"
+ },
+ {
+  "intent": "0d5c0f331b9976040d3459aa1807c5106e2e0eafc4fd9a7add6fd6e2756d722c",
+  "maker": "Kit·5",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "abb72dada3aa5c5f3bfc19c4f0bc42f4"
+ },
+ {
+  "intent": "56460564396251f80255ea1a309a3af51206643fe0976d3986cf227be452baf8",
+  "maker": "Cass·5",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "31a4417afcca8a62991026e05d9f6989"
+ },
+ {
+  "intent": "aa641cd6b3560c1fa1769a1647feb4b949a9f878e0711d6906d71d90fe9c5d58",
+  "maker": "Gil·5",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "e55e5bfaf9db6583ef1928aa6d6cf497"
+ },
+ {
+  "intent": "9039ebfbbd2926d90efb90fd718fdc8c1ccd0209f775e8d638f31df2cdec9b83",
+  "maker": "Wynn·5",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "ec6a891b6e96f8b5908594994d043d06"
+ },
+ {
+  "intent": "25766819558b420f774c639457ee0e667466413d5ca3675bec38ece993a28350",
+  "maker": "Sela·5",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "7cb65caa2d5e9ae9c5ddd258c9d9743c"
+ },
+ {
+  "intent": "bfa1bad0b228f2d5d715f8ae93f2c2b71d40d7904c41c2329cae6daac1a5db83",
+  "maker": "Kit·5",
+  "want": 0,
+  "wantQ": 5,
+  "salt": "d72dc8775656b3e8c5208d3a8afd15d4"
+ },
+ {
+  "intent": "392dd623ca234030807e9b9b77c15a682f2d8e24e49d298e00253dc0df253334",
+  "maker": "Cass·5",
+  "want": 2,
+  "wantQ": 3,
+  "salt": "aa1df9b750a59b29c80747043c98b63e"
+ },
+ {
+  "intent": "4c650592b97005a20a5cdc1973e37ac82a5c6586c9fa6a07443c483236d18452",
+  "maker": "Gil·5",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "326bf5eb22ea62148d1481cc96877dda"
+ },
+ {
+  "intent": "ebb2637b7e4b76aa2a5a0e4431314be17d5f299ef9559b8f6466b4a66213d1dd",
+  "maker": "Quin·5",
+  "want": 0,
+  "wantQ": 4,
+  "salt": "369c70a006f13dc103ff619f819d4c00"
+ },
+ {
+  "intent": "feca573e960474efa58e447831677ed2223124b5638244fde5ce76d089c424ca",
+  "maker": "Wynn·5",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "fd4919299c495b8472f5493a9c6b62e8"
+ },
+ {
+  "intent": "4feef87d6b0a17b50b968fc21e30f6008dbf904ae75ca7f1fb01520661f2803b",
+  "maker": "Kit·5",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "c9ecf8d8ba6206d15fd2db50e5e940e5"
+ },
+ {
+  "intent": "a5d6350640b797b31a60c3c8309a3059a8d2be79d293f3ca1d612d73ba09d6f3",
+  "maker": "Cass·5",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "f100fa0f4adf79c6a06664cd68fc9eff"
+ },
+ {
+  "intent": "25f118641fc4612aab1f2c6305939015ee1e10dd9a0aab4137f00aa11693d984",
+  "maker": "Sela·5",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "017c18b2df69d75e600c5e2496b9950d"
+ },
+ {
+  "intent": "f68fe67c944ca0ba715af915b126f4e6c1147309bfe56b8fb50887cd8382c9aa",
+  "maker": "Gil·5",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "2a392c4e4e162d517ba76c60817d730a"
+ },
+ {
+  "intent": "3ddaeffc591e3b88da0a1f4aa2fc4d52eee349be4d6b03886278e635a62b9e40",
+  "maker": "Oren·5",
+  "want": 0,
+  "wantQ": 4,
+  "salt": "1aafe78554283f576de927330ba44b84"
+ },
+ {
+  "intent": "10afefaee5dd671e5e09c7cd9666e92bc3f8e69e9ea9c83aa4668f23a3395ec1",
+  "maker": "Wynn·5",
+  "want": 1,
+  "wantQ": 3,
+  "salt": "f17216ac0d391f4d1967e2d1525bd1ba"
+ },
+ {
+  "intent": "9b133b358a3d8d725c24695d98904d2c2c1005b72921eb3164a3871c639418e5",
+  "maker": "Sela·5",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "2bf791bcd94948cbf1276372b4aecd80"
+ },
+ {
+  "intent": "92a08991c77acfb51948e71f0e8491e8e8cce6c90feb8b5ab746814211a8ecb1",
+  "maker": "Kit·5",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "85a686c51a83c8a1615c1d8d3caf3aba"
+ },
+ {
+  "intent": "924461ecd0836805f63fa9095732726a7d5fc603083f9061dfbc391c50e8e466",
+  "maker": "Cass·5",
+  "want": 0,
+  "wantQ": 4,
+  "salt": "9ccf93e9aea3ac337b645a7dc2740007"
+ },
+ {
+  "intent": "1feb7415edc94f6e2f431c04a2e3b0f30b98d4a414aa6ba3d05e20fd17d630f1",
+  "maker": "Wynn·5",
+  "want": 1,
+  "wantQ": 3,
+  "salt": "e30db9d44fb841e0b008f50005a446e6"
+ },
+ {
+  "intent": "7f3e6cd31d2808f56bac1b037f7d8e69a5a21372c8d95a479838770ccd677d5e",
+  "maker": "Gil·5",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "53c89187d3287680622cdf62bf824c74"
+ },
+ {
+  "intent": "c2aa698b26f41529bb350f65a964f0681ebb2fae0dd1dfcc9a765a5d09e295e2",
+  "maker": "Oren·5",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "7c0e233a93dd71b65f86793e0722c92d"
+ },
+ {
+  "intent": "2c57dbfd8c2922829bed40ae400e2f1540c42e624025e5e98abf18767d40e61f",
+  "maker": "Sela·5",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "9d84f15c43a84d1844d37f3d3223721a"
+ },
+ {
+  "intent": "8f8da32deda0646ca179dc9bd487f628ed4dea80684e52faa1da095691f5d6cb",
+  "maker": "Kit·5",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "e50349fc643ec1bdeda8a018f5a3004e"
+ },
+ {
+  "intent": "ac2c0420438293301179d6192868e504ade3a4b1fcfe2e52740f7202c395d6db",
+  "maker": "Cass·5",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "5b015af2046875adc4da855ecb3a14e2"
+ },
+ {
+  "intent": "cd6445f5145fd9efb1105fe5a1a4a6b1cbb83ede9ab9b141626bcd897778783f",
+  "maker": "Wynn·5",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "31623b81c3b1a57e8c640f7fbe33e80a"
+ },
+ {
+  "intent": "c99a4184b5d47c957da6fc71446aca1e8d37d88d3da5495433598d88d644e32a",
+  "maker": "Gil·5",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "6d3aab5612ce0b81ec4198323dd59742"
+ },
+ {
+  "intent": "cc7fa1d5a78b5222850861738cc04f57ce32966d7ea338e9f9ae7acc07d5cbea",
+  "maker": "Oren·5",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "b02204e6335165cbc461c4eb372e20a4"
+ },
+ {
+  "intent": "749a16c64b5882d354be0417669b9b40f429e06154adb096fa25fd43ea69f203",
+  "maker": "Cass·5",
+  "want": 0,
+  "wantQ": 5,
+  "salt": "471ff4a437273b26e50b5c024c6595a2"
+ },
+ {
+  "intent": "87f3131306f2a92c5636b2f209a73d236ca0e327d16b7e05aac382c33f987378",
+  "maker": "Sela·5",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "253595bc9d81972f295fc7438af7dbb2"
+ },
+ {
+  "intent": "c894cabd366337a741b32e143ca72461f8d3439219bf01288c7a6522bdc70264",
+  "maker": "Kit·5",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "66bcd0cfe1fe89372427e4d5dee556c6"
+ },
+ {
+  "intent": "387faaeb921a893397274c5f503727c57dbef3028a7b0d360baf6244e900b7e4",
+  "maker": "Wynn·5",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "ec332e72b44721094e4ffe19f6538dae"
+ },
+ {
+  "intent": "dbb9a8f4a12df490248fe4c2537c4b85221cfc78db605868c9cc8ba49ebe0b3f",
+  "maker": "Oren·5",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "d0309938e3ef0b9c89c81395ab0ac48f"
+ },
+ {
+  "intent": "2c2c143b34bc071f71e0aba490bffb548c569ec7837ccbc8d5e63108181e4d39",
+  "maker": "Gil·5",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "1ccbfad2a15ccc694fab8edc6eb3af2a"
+ },
+ {
+  "intent": "1a82fab01dcbf4c03d9f6fc3fe929166b6da4a543088924d147b7ab4a65ae42a",
+  "maker": "Cass·5",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "efc9f3b3f970a5a1b2ff779a34253275"
+ },
+ {
+  "intent": "c9d348a846e71c567148c1aae6216bf0a5ca13d61402b0bf71540e44f60da368",
+  "maker": "Kit·5",
+  "want": 1,
+  "wantQ": 6,
+  "salt": "1bceaf5e288b6e977b383a5350c013c7"
+ },
+ {
+  "intent": "7c0d6685989985240abfd5304a8bd09503d880de276cd916114c0a3d7f528601",
+  "maker": "Sela·5",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "9868e50707922acc48d386d520a99de1"
+ },
+ {
+  "intent": "4522b8071653aec9d194b7231a1a384503b0de20031c0544f90a032e637448c3",
+  "maker": "Wynn·5",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "e2abd496286f758a6a70cc2d32d1a55f"
+ },
+ {
+  "intent": "8adf7becddb095941c01f42c838731e5a8d8a93fdd0b25f7e9fb66259a43f007",
+  "maker": "Oren·5",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "ebffe082f945462b762918ae7cc16ed3"
+ },
+ {
+  "intent": "2dc74373271d4c87ba330497386c3b331be770eba3b5562a60767a77a37a64f9",
+  "maker": "Gil·5",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "3104144267fe9896f62305f7f1f5ad5c"
+ },
+ {
+  "intent": "ba8e7f8bf06660f617e7e78df0d3e1b373a901781e90a438633d739bac020970",
+  "maker": "Cass·5",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "e6addc8216bd62c70c59dff47e4a70c0"
+ },
+ {
+  "intent": "a765e53e8da47807a4eeeaa9cab12d2263ea5603047ae26b5891d56144ae541a",
+  "maker": "Kit·5",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "6d5be4aa5dffcf1cfda5845efcf3bc43"
+ },
+ {
+  "intent": "486567c6a47ac14a8ec3089eae93ef75a8e2456253107d6e84580d741d7b364b",
+  "maker": "Sela·5",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "6ac2df480fd1225603797a022c577ea7"
+ },
+ {
+  "intent": "7c66443bd85615fde84d525fb348f0da2862f2d93d56aa0611382a4570e82120",
+  "maker": "Wynn·5",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "474620d82a1d28cb265e9ecafeaa670b"
+ },
+ {
+  "intent": "1816cd4fea9edc02e601ced821d94e29682df86b6a2e7c17eab95148a67fa525",
+  "maker": "Oren·5",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "220a2dab847a25d5bbd8b257dda8948d"
+ },
+ {
+  "intent": "bf3e2895cf5e075445f4fbf4d5a8d4b232c2a6c57f7cf5b0cd2870e467159ae2",
+  "maker": "Gil·5",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "05f35efb7db5242d87c9a14d9f406d8c"
+ },
+ {
+  "intent": "9c9ba283f70a8a60201f48ceadafaf06b05d3dd597eb08341704e7aa4826979a",
+  "maker": "Cass·5",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "60834d9064002886a30aaaaa9bf533fc"
+ },
+ {
+  "intent": "8aa87705d7b0f99dc96d8ff4cbf5ad539d785a9a0df796fe84c76b1ef20eafaa",
+  "maker": "Sela·5",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "c218e53a05b3bf50d32d90c723d44f94"
+ },
+ {
+  "intent": "4eae26d041550b736b579422875226ce86c13050c60ef9be54599cdb0222ff64",
+  "maker": "Kit·5",
+  "want": 2,
+  "wantQ": 3,
+  "salt": "9c67ea57387353c6138dfb9de5cd5293"
+ },
+ {
+  "intent": "cbfb98570e5bce4402b569af9a0166379d15ab7c415b7f3a8f3e2ec8c1b510c8",
+  "maker": "Gil·5",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "02d028e9a315647727939348d65a71e0"
+ },
+ {
+  "intent": "2d05d99a0bf96ba46706a404e43a7ae2e0dd7df6946f49d55409e73f7a1966ad",
+  "maker": "Oren·5",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "d7b73caf79ffdb09834c18c04990074b"
+ },
+ {
+  "intent": "41dfb0ee7fd6195a1c07bf2d27045516ed8247c758adf6bf4c16346e15d6a2d0",
+  "maker": "Wynn·5",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "bc3ffb25082dd50aa54c54ae06c997be"
+ },
+ {
+  "intent": "e52df826126638ef3ced80c67f0b3209ae29464ce4f3dbdb207ce5301f6ca123",
+  "maker": "Cass·5",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "7edcce5fe9c924046ca88760824098dc"
+ },
+ {
+  "intent": "0be2bdb82f55bdc022899880c4b24500216ca42958079b889e7412bb5b6d53b7",
+  "maker": "Sela·5",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "99b54ceed79bc287be289c32df5116b4"
+ },
+ {
+  "intent": "fc8d695cfe4c339f08546501715321f0199b4f7899d051cfde86ddf95f2c4022",
+  "maker": "Kit·5",
+  "want": 2,
+  "wantQ": 6,
+  "salt": "4267917851f3728d88054586b2e444b3"
+ },
+ {
+  "intent": "7955dba2812142589bbaf964282c0fa8987d20b1b3d4ce220b7c540782b090d9",
+  "maker": "Oren·5",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "509ae32eccbc8289946cd80a0d609495"
+ },
+ {
+  "intent": "80d878f3d643874e4ae1ad67723dc83cda0c3580c57af975757fb4e1d9652838",
+  "maker": "Wynn·5",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "9de24d78a2e457038bed1eeb19d34a66"
+ },
+ {
+  "intent": "945076c9fb5ae7b40c1809dab13a1d67ed35051da8aaa3e42250895681006cd8",
+  "maker": "Cass·5",
+  "want": 3,
+  "wantQ": 4,
+  "salt": "b9f82e8dd119a4b07c3b7dac02ea1404"
+ },
+ {
+  "intent": "ff8383525e9dfded6ce6b9312f69e5d77db046841bf04a3d05c1c5dcc4e4a426",
+  "maker": "Kit·5",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "aa3b95b5a10d9fa7e775af8123b88997"
+ },
+ {
+  "intent": "c3708f73781cddada144616404fed949b581923ac531458f9b260376456fd784",
+  "maker": "Sela·5",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "e3cc1f3db77c3d932d28a545328c2545"
+ },
+ {
+  "intent": "74cd81448cd6226590d4ac9c189142a39a40b5edb45d0f11a500076097f25ce8",
+  "maker": "Wynn·5",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "ac59c96b0e21bee1ba73144e44a0c734"
+ },
+ {
+  "intent": "aaced4729a5ec77ce4849aaab0cd15e60c2544cf569390c4ba91a415f4036185",
+  "maker": "Oren·5",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "f129145c793af9be16d0e43faecfd437"
+ },
+ {
+  "intent": "88a6372275cfca1c94d81245320668b9fae2acddda830d1a39c852238d6af367",
+  "maker": "Kit·5",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "f2590b4e8d31354f2114e10b651f076f"
+ },
+ {
+  "intent": "ebb8d8d2c8da7e282cf4db9d6cf94d8526a8825e82ee46cc56ed1876437b3764",
+  "maker": "Sela·5",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "a4529c46320a2b6932d9cb1356c12c50"
+ },
+ {
+  "intent": "1a17fc1756c50c5a2f077d597cdadc4a2acbb3be3c846cc2e8753b0b51a0c50b",
+  "maker": "Cass·5",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "d78bab18115c35c26c340f066e9a9b5e"
+ },
+ {
+  "intent": "25930bdfb958eec5c5145ae36b4cdf798a779fd0263de9fa539b78966a5b856c",
+  "maker": "Wynn·5",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "dad80d89e0525778d343acb82de5dd51"
+ },
+ {
+  "intent": "335ebac5005d7b84bb9e4df8407f82da2e5e535f116836cab8f17723ba696727",
+  "maker": "Oren·5",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "d10594283477994c949074934cee27fe"
+ },
+ {
+  "intent": "80a120167d489d32e18c837c9a102974448648a5f8e80420526bf04fca7db3fa",
+  "maker": "Cass·5",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "d7fd0a383960f2939130ae98fe7e044d"
+ },
+ {
+  "intent": "726af5abb377faf49879ce28eeafaa4267e749f0148a73498f9b1534bdacf9a0",
+  "maker": "Kit·5",
+  "want": 2,
+  "wantQ": 6,
+  "salt": "cbf12d96421c6e8ef036c95ca975a4b3"
+ },
+ {
+  "intent": "3f3e67d778e570cb197caabc3532634f56e44b3d0f55773cc5fcc6f908f8c5d0",
+  "maker": "Sela·5",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "897d342fc5649d47bf3a6331510ea1a1"
+ },
+ {
+  "intent": "cb9b0075d38083220c954c682551ead8742e303f9135a52912de9633fbb98e7d",
+  "maker": "Wynn·5",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "d871e9f8dd6c6627d0474b5f5257f64a"
+ },
+ {
+  "intent": "6f2742994d7e787354b708c5c0f0ccec3f27597980ac5d0ab72aa23e7c5314d6",
+  "maker": "Oren·5",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "c95b0d09459258701530614f0eeca4b2"
+ }
+]

@@ -1,0 +1,1010 @@
+[
+ {
+  "intent": "45477db4156efcda8fedab0a5948c6ef5bffe47b892e701115190ebee3d24c29",
+  "maker": "Mira·2",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "73cd9e67f58580ac558dfd04b159cfd0"
+ },
+ {
+  "intent": "40510d197de6a4ee482eb695aa354395ac5d8d427aaef25cb2777a0d982b1bab",
+  "maker": "Uma·2",
+  "want": 1,
+  "wantQ": 6,
+  "salt": "4eebbea25d065e778c479d2d337fda7f"
+ },
+ {
+  "intent": "605679a9610d9ef40afdd3bad24fb7ae518f9f3d33fdc1bdd9f7dd753944d961",
+  "maker": "Dace·2",
+  "want": 2,
+  "wantQ": 3,
+  "salt": "07ec5aec2052add2e48b3837be22bf9f"
+ },
+ {
+  "intent": "0ceb959342433ea4ea3605b9a3a681e163fe525fc304e13e125086847d36b90b",
+  "maker": "Wynn·2",
+  "want": 2,
+  "wantQ": 6,
+  "salt": "f80b77edb5acfec422650582c04d0220"
+ },
+ {
+  "intent": "a065a9f8bc7f53c9146098a8ff166791a5fd752a6c6edebf485bdc227f962c92",
+  "maker": "Oren·2",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "362bdc35b7e2498a710c3a72eef614b3"
+ },
+ {
+  "intent": "54957f8acc5716059898e5b57f56c993d27e93fc61fa39e5a73ba234d422ec65",
+  "maker": "Faye·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "2352647cf41bab68d05463f9b2bbdb47"
+ },
+ {
+  "intent": "af2fe4a26563ed3fdd6f7e6e695bcde9f4635d9b205b1df263c67bdede1c496d",
+  "maker": "Quin·2",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "6050dedfcb6aaa106a6423d1bc969023"
+ },
+ {
+  "intent": "f0e77b67e7236daac6d2a42aa373916f5dc0dd124468a0c6140c64055ba92730",
+  "maker": "Hollis·2",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "b43534cd83b800d2b684f9789fa091f1"
+ },
+ {
+  "intent": "c57e75c56f58b5fd60d50b33bbf0eaed9ae7d168b6a72462f38eaf7d3926d7b2",
+  "maker": "Sela·2",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "f270b8ad15dd6341ef352b222caa19d5"
+ },
+ {
+  "intent": "763ef65a8e7170e54b0f6d9da96f875f05960a08fd0ad11e1caf5f504d14d3f9",
+  "maker": "Brin·2",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "e69cd735a90be16a7516a43e519a320e"
+ },
+ {
+  "intent": "8bfb9379c443ff944a67117b4c7fb33c625a67d939d2bc4c0d9ed41e9f3dbedc",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "ba8c590f49931bd6e33525d4455d4bdd"
+ },
+ {
+  "intent": "903403d2a10bfb824257c3f1bf4136d405bc7db410cbd865bcc7b1a4807bc1c8",
+  "maker": "Faye·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "89ba3fce18eaaa43ad3aafc4dff8b0f8"
+ },
+ {
+  "intent": "906369184d357e91df651753fb048fcfc3c7fa37b90adcd8272fc7386113ff6b",
+  "maker": "Wynn·2",
+  "want": 1,
+  "wantQ": 4,
+  "salt": "c1c91fb865e9c0b01fd0c640ce076b8a"
+ },
+ {
+  "intent": "48bac63252701cdca72b03edc9094edb26157f6f321227526de54abe357755ed",
+  "maker": "Oren·2",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "03e126dce8613f2d66da03126489e80e"
+ },
+ {
+  "intent": "db136c42591f26032bd9dc74de94789bcf2c6f87bc714365ae6c090ddb727cfc",
+  "maker": "Quin·2",
+  "want": 1,
+  "wantQ": 3,
+  "salt": "adfb4f5d9acd6387d300971971dfee32"
+ },
+ {
+  "intent": "8985e2cda591fd1d4bc2421e3a2dd3ed5333051ad463399b4583003155f5672c",
+  "maker": "Hollis·2",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "6884a166009f7b1e61c0a318d421c2f5"
+ },
+ {
+  "intent": "5d104cc73f99b9ec120c8115cfbbcf95359e89c1f098adf78ec92ffe9a7553e3",
+  "maker": "Sela·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "f5e8e466f3b753bc91fe06cd0b1b9f3b"
+ },
+ {
+  "intent": "f4930da1b4819f7bfca24865d4293b80d52a4f3f9d0fd90bfb6596fc85cf1786",
+  "maker": "Brin·2",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "6c24588421bc8bfa24396959f16211bb"
+ },
+ {
+  "intent": "7afff506de552e2a165850ee39540df049eb115f91ab158cce9223da361e83d3",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "156168e1f94abd404290f5fa0ac97fea"
+ },
+ {
+  "intent": "1dac4587b3676afcaffe2fbbd590d84b28ef0c63609d89a5d9baf91362c5b7f3",
+  "maker": "Faye·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "4785d91cf5eb845809e83bdcf056c4f2"
+ },
+ {
+  "intent": "9c8b1328f36dd67b21405071d09ef5c345d720a38db63131d52d79764d9aac6e",
+  "maker": "Oren·2",
+  "want": 2,
+  "wantQ": 3,
+  "salt": "8b3af6c96ac3617f109a20046536615e"
+ },
+ {
+  "intent": "000a48dd18cd4cb3c510574cf8e3045931e2bee4e43c7f38bccfc6335abe26cb",
+  "maker": "Wynn·2",
+  "want": 2,
+  "wantQ": 6,
+  "salt": "dae04a0ad701e71c935c5953b34872cd"
+ },
+ {
+  "intent": "da31fffe04c36f1ab3718e5f063465a07972da182136a13ff226284ddd443f7a",
+  "maker": "Hollis·2",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "fd197b1bd87fe3a195db146b28e806e6"
+ },
+ {
+  "intent": "ea24da9abf79e357ed4435179a0962ac8a1cfab8747964888f3313e91e4a428d",
+  "maker": "Quin·2",
+  "want": 1,
+  "wantQ": 3,
+  "salt": "cd6372753f1581213a4de9b25eb029ac"
+ },
+ {
+  "intent": "d3a4049155b033ac62edac7ab4a76cef8959661beb9c7ddbaf8b99a3da6d60c9",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "c19bbbcf6e748022689f1533dddbeef8"
+ },
+ {
+  "intent": "ae3f8f196e826a5aa1912f41303d36116d2a5d5b2187abf9178f00b641d3510c",
+  "maker": "Uma·2",
+  "want": 1,
+  "wantQ": 4,
+  "salt": "d69f7928d7b605e3111e749230e7e724"
+ },
+ {
+  "intent": "ec0a3f3f3e8583d23cc99786afa5c1027c4b80a50be4e35050b3e70867bea69f",
+  "maker": "Sela·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "2eb3d1f6811a65a9d611c6b64ad2fd54"
+ },
+ {
+  "intent": "8e4d1623ec008b0c8822214a26b841df6a696741bac76f8d5f9ec65ce8f926e3",
+  "maker": "Brin·2",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "232351e309ffaaf9259f04397e254fb7"
+ },
+ {
+  "intent": "da55c1166dec2dad114df956597d5543755281cf324d88a2cf0ce4d8f20a5560",
+  "maker": "Uma·2",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "ab50d023bd29cb95be78080efcbf3276"
+ },
+ {
+  "intent": "6fff6501d8628d884e763f7f9738787d011b2059a21b9ef2a26ad8ca45a505ea",
+  "maker": "Mira·2",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "0c2e9535d825c228e62cdc64a1f69c05"
+ },
+ {
+  "intent": "5ebad92a062e8439010122b7900bd4a757d32df837ad118a2ba1df2247a1f5e0",
+  "maker": "Oren·2",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "2d597547e29b527722c87f911eb0a68b"
+ },
+ {
+  "intent": "20e96963a70d57f2b0ab4fb65cff98240ae09c020912fa9aaf85cd615cf9ead5",
+  "maker": "Wynn·2",
+  "want": 2,
+  "wantQ": 6,
+  "salt": "0e4d8d5d20a6e2912179847b8f3184ab"
+ },
+ {
+  "intent": "f1c23a53bd36b7eb2fdda6d944d0d5cd4e2d5cd63867cea513bfd47bec47fed2",
+  "maker": "Zed·2",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "e7a339c507ca4926a1f80daed6be030d"
+ },
+ {
+  "intent": "4909a7bf16a07e6f140911f3fa85baf84c702af2bb7d19fa7d8fc5a360e32e59",
+  "maker": "Dace·2",
+  "want": 0,
+  "wantQ": 5,
+  "salt": "8268f795ee874cc695dbcfc5c54353d4"
+ },
+ {
+  "intent": "cecc7f3237a580ef6ae854795d7fab4deb6f4d449a61b18440f0f6e99609f39d",
+  "maker": "Quin·2",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "f47ab44fca4bd0b273385e9b4bfbcb9c"
+ },
+ {
+  "intent": "03ca0147343b2147ff9e351f43b1adf4cd42612b9a6a10a08388d30dd0b4d8e7",
+  "maker": "Hollis·2",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "c0e8085e9a3262f70cf42dcae7e2a3b1"
+ },
+ {
+  "intent": "4d8a217a3f4ec2507f8c2df1997b97b2163dc4c2ae7b0fa22c550ecb37fb2596",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "0ba735f4e508cbb00719850a5e96423e"
+ },
+ {
+  "intent": "acb10b2d0e99abe8503c440d3ca0d924ac065a0f6712d7c6a707dbda0ddf60fe",
+  "maker": "Brin·2",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "138e41b5e8bd862da24cda40128ee94f"
+ },
+ {
+  "intent": "c824daab001cd93ab7d7fa1f2809268d76c89fb700ff824e7a81180e5a804642",
+  "maker": "Sela·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "a3ad328638c86ee4d4af2b50827961c9"
+ },
+ {
+  "intent": "ddfe9e257fe52019b31b57690562f722e3ded61463ee2772e07408955870f60f",
+  "maker": "Mira·2",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "33dcf96df9987a46fd15871d2cf66471"
+ },
+ {
+  "intent": "de4620fdc69b58b0ed4d027dae1e4d4ab39c0ce5103ea3974a2a53b870180cbc",
+  "maker": "Uma·2",
+  "want": 3,
+  "wantQ": 6,
+  "salt": "2e7e9517fdd7d41c552bdf134865b4fa"
+ },
+ {
+  "intent": "afa3a7391bdf79352a74111b2b22d58ae8ba108c1291e04098ae5f8e8edb275b",
+  "maker": "Oren·2",
+  "want": 0,
+  "wantQ": 2,
+  "salt": "347f41d7a89eb5998d471614b2a03382"
+ },
+ {
+  "intent": "f49ae6fa98b4e6186088d5cb524fbc3654cc12a66a764cf22d87f3a208d063de",
+  "maker": "Wynn·2",
+  "want": 2,
+  "wantQ": 6,
+  "salt": "5db50807da360b0f0a4d97425cbd15e9"
+ },
+ {
+  "intent": "2e578775f7d6aa0673ad726e47f58b8f48482d8068ce5f3ef6b2e9ff51de3840",
+  "maker": "Quin·2",
+  "want": 1,
+  "wantQ": 5,
+  "salt": "66ff7d9bc92d4d4eb1b5f51d27d9ad80"
+ },
+ {
+  "intent": "9f8dc797f88b0508879e925746a2e69b07aa1df0d727c8b8ad211bf84c7248cf",
+  "maker": "Hollis·2",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "b2f8ef9e3fbd64d09def5c08330254de"
+ },
+ {
+  "intent": "941b8b108b50dbb2277350194ebaa90de791aec49de2247af9fb5a00e0fd5e11",
+  "maker": "Brin·2",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "f87970188a87a8908d5db4e3653dc311"
+ },
+ {
+  "intent": "9f7eb3f7d90c3ced44790142360323e3eb0c399c95b6f3fe0526f11be501fe14",
+  "maker": "Sela·2",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "1bd556730f1969fde708afc09b59b7c1"
+ },
+ {
+  "intent": "cbc9462f3588d02e71ea63f9535b3dfd2f476bb2b3e878c243431039216e7101",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "e796a053fb504b09a5ec7644b498665a"
+ },
+ {
+  "intent": "5141ad18544b6b35693df4d70b6c9d7873165601ee2e3a7e95b1b9734000839f",
+  "maker": "Oren·2",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "ee56e3bae055f5cf1d35344a33b5cba8"
+ },
+ {
+  "intent": "19eb8b71fea8b80f926adc91b292dc4b04cefacdcf3cf4479614ed573b8f6656",
+  "maker": "Wynn·2",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "38772301843545a2f1f5726b71457e5c"
+ },
+ {
+  "intent": "2b5324047bdf0ea40eb82dec88c6ec099d17241b75f103252a6f70ecc2acd7c5",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "534489b749cac4c43338e1c78e1458d7"
+ },
+ {
+  "intent": "ac17690df23027fb007023a62580d31b35bae5d3e9663a85bddba235d4384e06",
+  "maker": "Brin·2",
+  "want": 0,
+  "wantQ": 4,
+  "salt": "7a7d05631c440f6d9b8a2ecc626b6596"
+ },
+ {
+  "intent": "bf70b22d9462655791045acfee9399241468269d28b63edc073e603dfd3da18d",
+  "maker": "Sela·2",
+  "want": 1,
+  "wantQ": 3,
+  "salt": "e79af3b71dbdeffa604bc618d414fc1e"
+ },
+ {
+  "intent": "3dca5f25703e5213fa542c3dfb9038eeb48fc12009540940a32d623444bc930d",
+  "maker": "Wynn·2",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "5629d9f5698506e87493105510c71162"
+ },
+ {
+  "intent": "b79be183d33a318b2d7437d91682820b9fce3d4c17d8b682ec7863b81787fa28",
+  "maker": "Oren·2",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "35ddca1025de1d01c2037467d21bab83"
+ },
+ {
+  "intent": "1c8bf294254812afe7c5065144d94174eb8f4bf7b4c0c27afafaa2b40918c8bd",
+  "maker": "Brin·2",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "9fb9db3a5e1974c29d3e366f7d4f110a"
+ },
+ {
+  "intent": "e68fa410efe1e99cc9acd187a1cd0a3f64b7359d1927d510a6695b75f47c4fcf",
+  "maker": "Sela·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "552b340ea241920c3b0a0fc435bf24f3"
+ },
+ {
+  "intent": "4b9336df80f16213d7202dd93aec9ebb18e61d47920d6267fc7e8121a5f29ad4",
+  "maker": "Dace·2",
+  "want": 0,
+  "wantQ": 4,
+  "salt": "160ffc5c33e345218a4b587968b72d84"
+ },
+ {
+  "intent": "8a087b9450cc733c3e6fd0b925626e278995bd6a8f723a92a77c7783df35416e",
+  "maker": "Uma·2",
+  "want": 1,
+  "wantQ": 4,
+  "salt": "08bc04ee4c2ce9343bb84abef39ba877"
+ },
+ {
+  "intent": "fdae335436981d38969920eecae56d9c21accdb107c8934fb3bca2e0feb5f2a2",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "31ad9a785531eb169cdb523371c52088"
+ },
+ {
+  "intent": "1ecf34bd4c407ceac6f889ea2e7f73fe5ec7778499a9150bd29437e3bfcdc5ee",
+  "maker": "Mira·2",
+  "want": 1,
+  "wantQ": 1,
+  "salt": "2cea92ce48c86afd3ce984861b867ca9"
+ },
+ {
+  "intent": "5f0f06738ef5ac77b045cb1aff04e583dd1eddcafd521dfac6d4aef4640e00cb",
+  "maker": "Oren·2",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "70f1afff1dcaf688cef2579f240989f2"
+ },
+ {
+  "intent": "220fb1f34f41da255b4ca459eb9a7a7fe80254eb8e940cbf5cd94092c8a4e427",
+  "maker": "Wynn·2",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "6b1ae05dd5b5f0bcc7516438e47fb6eb"
+ },
+ {
+  "intent": "c5fc337312750e283391ea21fd37bdd786b961e164e0f7d19dde96948c858d26",
+  "maker": "Faye·2",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "3d48408710ff356a5dfbd19396bb35a2"
+ },
+ {
+  "intent": "7efb348155472ad781089df0b5aa7121d2861729dd830bbfe5e5b0b8892884bd",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "1203f78ba3946f058a8a962df915b51b"
+ },
+ {
+  "intent": "e9094aa288cd4d04b590b3eae1ff2fd0e5ce336b2b315bc57e7da8b4c6ff48a5",
+  "maker": "Brin·2",
+  "want": 2,
+  "wantQ": 3,
+  "salt": "e7f55a5f27adbbac777ba16775302634"
+ },
+ {
+  "intent": "ee3044be77b6ce0ce28b34d50d671e53a9ad28747380f6943254e666c95bfa6a",
+  "maker": "Sela·2",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "bf8342e40a6369aaf588af1e9211d70f"
+ },
+ {
+  "intent": "e08ee84ec144520457f89770cf687901ec05507325118f8441897328cc84d998",
+  "maker": "Faye·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "ac72959381c056c1b7ea2359f3fcc8f5"
+ },
+ {
+  "intent": "25725da68020d5e50e2c6f226c160915c205920dd7c1e8165a83f73837371c83",
+  "maker": "Hollis·2",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "d952094fa25fb1617a9f73791da356b2"
+ },
+ {
+  "intent": "484768a5bb113f3680dd5be7fab97bb8975d3dc327da12a59f34a148da1fe82e",
+  "maker": "Oren·2",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "46f28cc1bb4aa1d4d16e24696df4fc76"
+ },
+ {
+  "intent": "9c9fe31f0117921df1048d995d3011df91dbaf3f00446a4c005df745e2e3f939",
+  "maker": "Quin·2",
+  "want": 0,
+  "wantQ": 2,
+  "salt": "07f269852ec0f05583b1a201f0e48e0b"
+ },
+ {
+  "intent": "50a84353f9aa989e073da2ca71389f04e9c916c99a65853be4da935e9379c96a",
+  "maker": "Wynn·2",
+  "want": 1,
+  "wantQ": 6,
+  "salt": "176b4d1ca41a181e2f034680e8435cfb"
+ },
+ {
+  "intent": "d4f700cde1bedf34c3b2accec1bcf9546b3f1157a13f0ea326c3b2555bac3b1e",
+  "maker": "Sela·2",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "c134bc12486ac0ef2b86d31d6794e33b"
+ },
+ {
+  "intent": "b94ff1165e1aa32649293f8b9b5b2d21d9f2fff705414157e8c837b601ba12c7",
+  "maker": "Brin·2",
+  "want": 2,
+  "wantQ": 3,
+  "salt": "68b0e65e867852c59b4123174eb3b8f5"
+ },
+ {
+  "intent": "a4df60d23207bedb36cb54440e7e4c92a945c5a2f904ad3df4aeb401681e51f6",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "b1b66c2388b4edbe50c7a572a6b0bc6a"
+ },
+ {
+  "intent": "c41d547dac84be2f5e2287311688805fdc6905a844294dfc2539a0ba28e3322d",
+  "maker": "Faye·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "65f01aa2334d3c0dff2a832873fccc1f"
+ },
+ {
+  "intent": "49cc4166034fd3fabff8daba35d67d646ef4fc8744a4080a4b4e2542a3152d20",
+  "maker": "Wynn·2",
+  "want": 3,
+  "wantQ": 6,
+  "salt": "2682551415ea2e3be5323555d7bcc02e"
+ },
+ {
+  "intent": "399794048dfbd46ebe3cc8aa7db3069010e59dac8f57aa71d09c7b7476190c9a",
+  "maker": "Oren·2",
+  "want": 2,
+  "wantQ": 3,
+  "salt": "b5b5bbed1f5351ca8d9aee5921349cc5"
+ },
+ {
+  "intent": "7a541f23376665059f9a236ef506f2d1ebbb3fccb895cddbf70b2eeb37618fda",
+  "maker": "Sela·2",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "2f7cce13147712acc99b0beb12d5c2af"
+ },
+ {
+  "intent": "e2482dd58965d508f3be18aef831cc464c667a2c49b57cf16ded11dfbdf318ab",
+  "maker": "Brin·2",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "e0626c6b582edc20717edabadbf0c976"
+ },
+ {
+  "intent": "f80a0573b779e660595d80b7da5df16ba865199e3ca7b529122ba7c61d9f0529",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "a87c6a6fbb37e99a32967c864be1ef32"
+ },
+ {
+  "intent": "23bfdb23380d48647a890a1a90e28ce63a38e8b1ec90b9bf137f5169072e8864",
+  "maker": "Oren·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "68d333028badd8bec0c940b42ce1e4d4"
+ },
+ {
+  "intent": "7932bc8c42ba850b30de75ba50b11922dda0e01bb5ad0e0139b5d5191435e9af",
+  "maker": "Wynn·2",
+  "want": 3,
+  "wantQ": 6,
+  "salt": "6316108598d67d02ef12a338c9ef9268"
+ },
+ {
+  "intent": "3e797a3af2f95ec93bae670f89cb36c4bfe8de2e217d3a8bce3468e76cd83a62",
+  "maker": "Faye·2",
+  "want": 4,
+  "wantQ": 1,
+  "salt": "598884dc1b6c807b0448ea383961fc4b"
+ },
+ {
+  "intent": "a600f5d41d3401a65058bd03ead9c7dfc378285bdb483d63fee18f4267466e27",
+  "maker": "Sela·2",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "ea7260ac03c44b86a184d776c0c0ce19"
+ },
+ {
+  "intent": "960e4a533d6bf7e453a457d296d6194c036bb4408a9ae5b6d8983798d1762ddf",
+  "maker": "Brin·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "fb773f5fdc98ef72275e4639aec5b8fd"
+ },
+ {
+  "intent": "51cece285319ff9a6a940101ccfe68b0b52e90d4e2754185eb9567aafb3214bd",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "ac6d3377feda4b0053b622e87923b224"
+ },
+ {
+  "intent": "4d1351c3c7dbfdc539fa49233f6f938749cb23defcf5c12b56d5dea0ab1ecdd9",
+  "maker": "Faye·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "79884af2e03f4104b535e0510d61f1c5"
+ },
+ {
+  "intent": "8bf21156a7639b1fc32b17009b7742e076c0c2cfcbbbeb9be2dfe05bb11ebe1a",
+  "maker": "Oren·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "bcb2ddc555b601c7b05231cef3ca5112"
+ },
+ {
+  "intent": "732526718b5487d979b5bf7eb3a37f165904d61b2b5dd7abd7a2e5261e25765d",
+  "maker": "Wynn·2",
+  "want": 3,
+  "wantQ": 6,
+  "salt": "be3130dc5e9172cb9cda138c47a63ab1"
+ },
+ {
+  "intent": "9ccdbf86caf27d9246831e3c2fd672a0fb79e54800495770251b111f1f5a8378",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "64bdcc0faa31eb900414e3f8f256f31b"
+ },
+ {
+  "intent": "b21493c897ffa9a0271af0eecb3f8d4b991f74652d67e5f07b9ade7087af4eca",
+  "maker": "Brin·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "972d42f7530ddffe19e18276c098b6cb"
+ },
+ {
+  "intent": "a17f1ef1abc06fb16adebc39c4971c20af5534a67233a675b5d1dfdb844c66b4",
+  "maker": "Uma·2",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "95c54e71d0d5e514dd8461101f93c87b"
+ },
+ {
+  "intent": "805b097dc2f2d5f7d35ccf8638656acf96013e08565160c71205c83d39027c07",
+  "maker": "Sela·2",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "ee63b4971bbd9071d32a1ed0794c9dff"
+ },
+ {
+  "intent": "519f6ee79834f807748d5bde08c026f7afb91819a836116fb5e319b8d48d428c",
+  "maker": "Wynn·2",
+  "want": 3,
+  "wantQ": 4,
+  "salt": "494baaebeca738c592e8eac85ac718a8"
+ },
+ {
+  "intent": "b2fe4a4e428d11b5fd0ee928a0aae56e492a933543d3613c06a9a607f17bc64c",
+  "maker": "Mira·2",
+  "want": 1,
+  "wantQ": 6,
+  "salt": "c24825a81b882a6c1d152ba681764abf"
+ },
+ {
+  "intent": "6299d9444bb697f9914086e07b9060d33ce0b32be54e43702820c68923e73012",
+  "maker": "Oren·2",
+  "want": 0,
+  "wantQ": 2,
+  "salt": "98503e6a6b34cd7c921df8c01e913242"
+ },
+ {
+  "intent": "0a6ce67414d851aa96a0758c30b3297f30db8d45dd2da7bb14f3a524b0ccab1d",
+  "maker": "Faye·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "7512d3b65010f17740eace8cca571d0d"
+ },
+ {
+  "intent": "3d2ef19ac24305ebe7352e32948cc3fe0954192a2bde2c93d4ace0396ac7fa08",
+  "maker": "Juno·2",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "f9abfbd3b77418d62e9ac21ec0e71306"
+ },
+ {
+  "intent": "ab8fac761e7754fb8a84d1bf1656b6817abe996d4030c443aed635a4b6ef7cb3",
+  "maker": "Brin·2",
+  "want": 3,
+  "wantQ": 4,
+  "salt": "89a554ba813f9f23a7eb86b3c31a2cd9"
+ },
+ {
+  "intent": "3fed568849689c0b3ca6c57d06f0b6f1a7372eadce531bdafc179f077c49322b",
+  "maker": "Sela·2",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "cca840d84260cfc6f063a3385a0b8822"
+ },
+ {
+  "intent": "ed3deda70d86b167cf557b895f598eb9821041c7eb65fcdf4f3afeaa344df711",
+  "maker": "Oren·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "8c035670353e84d0eb478decb669b7a2"
+ },
+ {
+  "intent": "2e51de1d19fdbe2b55e7be499f2f17c5066e2f04c4f6da22499914ae16243374",
+  "maker": "Wynn·2",
+  "want": 1,
+  "wantQ": 6,
+  "salt": "216ea6fef8c60f9eced453ad470925a5"
+ },
+ {
+  "intent": "7e70959044caa10afef51a4b1dc682bb773bebb8aa71294ee45508ee543ca9ab",
+  "maker": "Faye·2",
+  "want": 1,
+  "wantQ": 2,
+  "salt": "f236cda341a658245268d1e1b2c40498"
+ },
+ {
+  "intent": "3b2986a73210739a41ba4e7f6cc3afcf0753698ffbe30642aeaec0b674798cda",
+  "maker": "Sela·2",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "f0b1d4736f7dcff18313d63132de2c54"
+ },
+ {
+  "intent": "03c35c9e2cff82068093c1c739a631615fc4e1e44547815e931823f8a2e8d427",
+  "maker": "Brin·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "206f82b14edc367478175cfb90f9e317"
+ },
+ {
+  "intent": "c222649d7a8f8f0fe8bdbac7938cd88d1a48ccf3a5a70884da7bdaa3dc4a1148",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "a25043f6a06d6dfaeff1484afa99da2f"
+ },
+ {
+  "intent": "33ec0692cdc11356145d86c6669660575eefed708843b593d9601db4d91db01c",
+  "maker": "Mira·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "0fa785c96ef6c6932d594a87de5acf52"
+ },
+ {
+  "intent": "ca554eea6eb4afc6268bbc879f7f5468609ec268b0a2214784782038fa13c81c",
+  "maker": "Oren·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "53959fcc375fa687eb44b7946cae1d90"
+ },
+ {
+  "intent": "124feaa5100fa9c4b19a8132f57a4897d5a9827ac166512891560ee38b9bce48",
+  "maker": "Wynn·2",
+  "want": 0,
+  "wantQ": 2,
+  "salt": "439137a123f3a92400af44b2f614a581"
+ },
+ {
+  "intent": "7703565550bcece49358959c5eec4e65429ce6dff7b9900f9999cfbc48235ffa",
+  "maker": "Faye·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "d551085440d00eace543bb9decf4de4a"
+ },
+ {
+  "intent": "381a93513a52e1fa563af88198f6fd88be8d7b47249b5073049e2a7c96a77571",
+  "maker": "Sela·2",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "9dd886a4dc3505c1d48837f6efeb74fe"
+ },
+ {
+  "intent": "ec0806892a1313ed535f6a53218b3b20752f35f276732394072ab7da5b79e5d4",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "37cb2613f7dbea334a1beaa9f4533f28"
+ },
+ {
+  "intent": "8396ed3a6b4524f124ebad84aeb0f23fa2474e81d7d0ce4c51063e279b0d6bf3",
+  "maker": "Brin·2",
+  "want": 3,
+  "wantQ": 4,
+  "salt": "eba4ff45ff5f22e2e6c630d7a8861dbd"
+ },
+ {
+  "intent": "65fd2243fe6670981ab0fb6a83998420b2b4d38a9379ec67af699e46bbf00fab",
+  "maker": "Oren·2",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "29eda5b74e4010456f0bf280cc0539dc"
+ },
+ {
+  "intent": "a44738d3db53f2a150522e08b9fbcbcbd636a9456ea3740a876a653b680585dc",
+  "maker": "Faye·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "f0a66247d87750d8753e0ddb10fe04f5"
+ },
+ {
+  "intent": "763d83e5f76a33e06181b6db7d6a66e9f8dcb931f16c54d3be93846741252cb8",
+  "maker": "Wynn·2",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "fc6dc71e7021aae266e21aa9066387f6"
+ },
+ {
+  "intent": "e4079da99400464b2198ab503db172571816603c69f2a0519380c98a25fce382",
+  "maker": "Sela·2",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "09531bd9e0b33b52e1100b808005bc6e"
+ },
+ {
+  "intent": "e2292f4e7a7934992fe1f12be0b202fd335a8b256bc792acea1f94024a8823e5",
+  "maker": "Brin·2",
+  "want": 0,
+  "wantQ": 4,
+  "salt": "37f1b36b111feaeda8174819fe8be382"
+ },
+ {
+  "intent": "529d2e216974be6c692ea0c8f05b89a1f310e9b49cbcd60a9435f6e1d7d6bc82",
+  "maker": "Mira·2",
+  "want": 2,
+  "wantQ": 2,
+  "salt": "1c71e20b9e16eb34ac0a57e731dc7e0d"
+ },
+ {
+  "intent": "7eb060ef7cb68e5f6cdbf214a2fb42b66606d5998a5de400ce8a44e949293ecc",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "eb0a625abde3a9c01540e36b89d0f0e7"
+ },
+ {
+  "intent": "f2c774efdb2c18f7fa724e4e60e554d469c06e7790a84ad19ec9e3aee8d297a8",
+  "maker": "Oren·2",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "63fa0c06c1bfa25adb0794b18c613cc0"
+ },
+ {
+  "intent": "b631052913e4564a66729f5ffcf5ac004ee0b895a47bb6630dd56a7d772e4daa",
+  "maker": "Faye·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "95c4cedcf7703313a364c7598c6ef13d"
+ },
+ {
+  "intent": "515532f08de98bd0861a9451636f6d21266119a2066d29281bf14ff9b61696f9",
+  "maker": "Wynn·2",
+  "want": 3,
+  "wantQ": 4,
+  "salt": "3f3a9fa2760280771ee9fbc6493460fa"
+ },
+ {
+  "intent": "9281b382dc716983fe427288f617f8f4f2fc3b4af10d29edaaf994c714cef1b2",
+  "maker": "Brin·2",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "021a42a08ad62e4b8ba6d71472f24975"
+ },
+ {
+  "intent": "83a96655759d3080bdcd460887077e176b9dd538d005370fee0979903028c59c",
+  "maker": "Sela·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "a8ce07b01bba0a563608d349638e081a"
+ },
+ {
+  "intent": "1e05d8c9cd0176826d86981c2ce9c1a9722572ef8f4bf5dc0bb32be758de0327",
+  "maker": "Wynn·2",
+  "want": 3,
+  "wantQ": 6,
+  "salt": "2657a07e0e4eca0807cec26a24bbfa13"
+ },
+ {
+  "intent": "de7ed59d3bb35c84c3f86f26e08e004e81b4220814c39a618c88131f6e56da6e",
+  "maker": "Oren·2",
+  "want": 2,
+  "wantQ": 3,
+  "salt": "26c5eb300ce9e3b291bdcba0f4c382d4"
+ },
+ {
+  "intent": "2fcc4de2bcffa3ee9d3a612a1337b603c61fed082de754e55020a9426ad29f74",
+  "maker": "Faye·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "04f64e786a807686d4e37e814f7e45fb"
+ },
+ {
+  "intent": "5eeb4ee56a33f937dd20483e579368b30fa3be2968c1142d52103db98aabdb45",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "39a2181feaecf3df63dee243ca3e4c49"
+ },
+ {
+  "intent": "782ab9acb003e37570db4fa00a94b078b717302ccb84a199b41ba3caf6a27e64",
+  "maker": "Brin·2",
+  "want": 2,
+  "wantQ": 3,
+  "salt": "6e68d7c60160ec82bebaecdf830df58d"
+ },
+ {
+  "intent": "ac70b511443bee340abebc0c6d91dc96c1b81bdea4a61e95b527b3f4008ee00c",
+  "maker": "Sela·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "3f88e49499ebe901494e91ec72f69e8a"
+ },
+ {
+  "intent": "35bd7a8fbde08a6192181b83ec7f2e0d27e8d28fa13e5d7d98666beb1703ca85",
+  "maker": "Oren·2",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "d3308ae8b83fa7f1549d7db9b83cd660"
+ },
+ {
+  "intent": "88803fcab4a45b19756aa6cb1604ebd06914c631733896e10c569ad3fecaec40",
+  "maker": "Wynn·2",
+  "want": 1,
+  "wantQ": 4,
+  "salt": "1296cc6213563356d93722185b55b631"
+ },
+ {
+  "intent": "260f81c592f6ca41478f8d750a13980be97d13b385ed4032dce781e38e5abf90",
+  "maker": "Faye·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "14a60db1e1a3b3ec51646cf41d6932b3"
+ },
+ {
+  "intent": "acd4e5fa6347f67fdd5ab935e91021d45a44fef435ea7f2deece3dc506576989",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "33ffc8dba005f827fffc76a09bcaf84b"
+ },
+ {
+  "intent": "ca9a0248aa25b576e286f61d381b9e328997d31dd9a4ad00780be019ac9b429d",
+  "maker": "Brin·2",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "fec6084967733bae7f4e7d556287008e"
+ },
+ {
+  "intent": "3c8ed34f756f137ceab346259b72d14b5dc3d706047729cabe88d03e4bd5aece",
+  "maker": "Sela·2",
+  "want": 3,
+  "wantQ": 3,
+  "salt": "d7941bda5ab693b11a5b19e3df54656c"
+ },
+ {
+  "intent": "97106aa64d3352613aec5a069991f840fee1481269678222a26be79247ce15bb",
+  "maker": "Faye·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "2e3e24dd9505de5ee190500d3220470d"
+ },
+ {
+  "intent": "7ab0eca31ae3f78073e9254b13981e673171befaf893eb5aab0425185b995cd8",
+  "maker": "Oren·2",
+  "want": 2,
+  "wantQ": 1,
+  "salt": "c28537de6fba3731d70c2c59f5d35a6f"
+ },
+ {
+  "intent": "7f7d5457f6ad0522d1fcd1cba8069ddae68e52a88b042393aa68d17410a98134",
+  "maker": "Wynn·2",
+  "want": 3,
+  "wantQ": 6,
+  "salt": "0bfaa32ef5a1ab0637fbe0e43068a090"
+ },
+ {
+  "intent": "fe4641cf9dc5d6a24ed1929878113002de041e972557aefe0f5e6c3eb9236883",
+  "maker": "Brin·2",
+  "want": 0,
+  "wantQ": 6,
+  "salt": "80f2da667316fbce0a080820cb9c273a"
+ },
+ {
+  "intent": "f21fb5edcc6ca4ead3173753224f4c6f269abdaa99fb808512448286156b79dc",
+  "maker": "Juno·2",
+  "want": 3,
+  "wantQ": 2,
+  "salt": "9f8356721a89dfe91706e9461046452b"
+ },
+ {
+  "intent": "5be763dba0043d079ccb207877b1a81c0388961db9fbc2157be461911420615c",
+  "maker": "Sela·2",
+  "want": 3,
+  "wantQ": 1,
+  "salt": "5d2c22ddf13367b19db3e20dfe719df0"
+ }
+]

@@ -1,0 +1,655 @@
+{
+ "summary": {
+  "seeds": 8,
+  "gens": 25,
+  "understoodFirstGen": [
+   0.6054421768707483,
+   0.64,
+   0.3914027149321267,
+   0.4146341463414634,
+   0.3306878306878307,
+   0.453125,
+   0.5719844357976653,
+   0.48
+  ],
+  "understoodLate": [
+   0.6686031913288825,
+   0.6862850215757671,
+   0.6461311781261277,
+   0.6131207245561695,
+   0.6539730968860549,
+   0.6644523277119276,
+   0.6628664796326427,
+   0.6980125994417563
+  ],
+  "contextLate": [
+   0.30523519948516864,
+   0.3909948785401889,
+   0.22667863038834196,
+   0.23853870619580775,
+   0.27320656793630216,
+   0.3169851705960665,
+   0.2674136391453413,
+   0.3067938438449307
+  ],
+  "kept": [
+   0.7690909090909094,
+   0.7494537037037028,
+   0.7559166666666665,
+   0.7284354256854256,
+   0.7456060606060594,
+   0.752368807118806,
+   0.7538720538720539,
+   0.7352508417508415
+  ],
+  "geography": [
+   {
+    "rho": 0.2069129924048945,
+    "p": 0.013493253373313344
+   },
+   {
+    "rho": 0.2724040211550412,
+    "p": 0.0024987506246876563
+   },
+   {
+    "rho": 0.38246663978435,
+    "p": 0.0004997501249375312
+   },
+   {
+    "rho": 0.23635746671631575,
+    "p": 0.004997501249375313
+   },
+   {
+    "rho": 0.3533892867703288,
+    "p": 0.0009995002498750624
+   },
+   {
+    "rho": 0.2085190261051738,
+    "p": 0.010494752623688156
+   },
+   {
+    "rho": 0.09667904721154974,
+    "p": 0.26786606696651677
+   },
+   {
+    "rho": 0.17159420876710782,
+    "p": 0.0384807596201899
+   }
+  ],
+  "selection": [
+   {
+    "rho": 0.14656568185932234,
+    "p": 0.011494252873563218
+   },
+   {
+    "rho": -0.0038490094828854808,
+    "p": 0.952023988005997
+   },
+   {
+    "rho": 0.19086134048792144,
+    "p": 0.0009995002498750624
+   },
+   {
+    "rho": 0.009994742619876363,
+    "p": 0.8650674662668666
+   },
+   {
+    "rho": 0.08096261352800367,
+    "p": 0.16491754122938532
+   },
+   {
+    "rho": 0.0646333559211297,
+    "p": 0.26286856571714146
+   },
+   {
+    "rho": 0.13885424771128582,
+    "p": 0.014492753623188406
+   },
+   {
+    "rho": 0.05892660709165237,
+    "p": 0.3148425787106447
+   }
+  ],
+  "stability": [
+   {
+    "rho": -0.3087738305619017,
+    "p": 0.33933033483258374
+   },
+   {
+    "rho": -0.3432579694857896,
+    "p": 0.27136431784107945
+   },
+   {
+    "rho": -0.4028027192945491,
+    "p": 0.20039980009995004
+   },
+   {
+    "rho": -0.4125874125874126,
+    "p": 0.191904047976012
+   },
+   {
+    "rho": -0.31173427841056406,
+    "p": 0.3363318340829585
+   },
+   {
+    "rho": -0.5859685193617907,
+    "p": 0.04847576211894053
+   },
+   {
+    "rho": -0.5174825174825175,
+    "p": 0.08745627186406797
+   },
+   {
+    "rho": -0.5314685314685315,
+    "p": 0.0769615192403798
+   }
+  ],
+  "misunderstoodDeals": [
+   0.5429666248743539,
+   0.4904500888293676,
+   0.5719591914971055,
+   0.5657559828069731,
+   0.5392702970358983,
+   0.5165652680812969,
+   0.5579974705831487,
+   0.5131856541446408
+  ],
+  "startedAsMistake": [
+   0.0851063829787234,
+   0.2391304347826087,
+   0.0625,
+   0.1875,
+   0.3958333333333333,
+   0.23404255319148937,
+   0.3333333333333333,
+   0.3125
+  ],
+  "fixation": [
+   10,
+   14,
+   18,
+   18,
+   null,
+   20,
+   25,
+   null
+  ],
+  "lineage": [
+   {
+    "rho": 0.5108791451256287,
+    "p": 0.010994502748625687
+   },
+   {
+    "rho": 0.23572609186797083,
+    "p": 0.25087456271864067
+   },
+   {
+    "rho": 0.7245213271683549,
+    "p": 0.0004997501249375312
+   },
+   {
+    "rho": 0.29193000522865764,
+    "p": 0.14292853573213393
+   },
+   {
+    "rho": 0.7487542354961673,
+    "p": 0.0004997501249375312
+   },
+   {
+    "rho": 0.3952136674815616,
+    "p": 0.05147426286856572
+   },
+   {
+    "rho": 0.7413201037241708,
+    "p": 0.0004997501249375312
+   },
+   {
+    "rho": 0.6105065421593608,
+    "p": 0.0009995002498750624
+   }
+  ],
+  "firstNamed": [
+   {
+    "category": "goods",
+    "day": [
+     6.4,
+     7,
+     4,
+     3.2,
+     3.6,
+     4.2,
+     6.25,
+     3.8
+    ]
+   },
+   {
+    "category": "numbers",
+    "day": [
+     10,
+     9.5,
+     7.75,
+     5,
+     7.4,
+     5,
+     2,
+     3.75
+    ]
+   },
+   {
+    "category": "yes/no",
+    "day": [
+     3,
+     7,
+     2.5,
+     2,
+     2.5,
+     1.5,
+     2,
+     3
+    ]
+   }
+  ]
+ },
+ "findings": [
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 61% of the time (context alone: 39%); by the last 10 generations, 67% (context: 31%).",
+    "evidence": "4670 tables joined to their revealed meanings; 4670 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 5/5 named by half the island in the first lifetime (day 6.4 on average); numbers: 3/5 named by half the island in the first lifetime (day 10.0 on average); yes/no: 2/2 named by half the island in the first lifetime (day 3.0 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 77% of their parent's words, use a different word for 9%, and lose 14%. By kind: goods 69% kept, numbers 79% kept, yes/no 93% kept. 0.29 words misheard per child.",
+    "evidence": "300 births; a child hears ~81 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": true,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.21, p = 0.013, n = 150. Wrenford–Saltmere 67%, Oakhollow–Ironcrag 57%, Wrenford–Ironcrag 54%, Ironcrag–Saltmere 52%, Wrenford–Oakhollow 46%, Oakhollow–Saltmere 44%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": true,
+    "finding": "Agents who understood others best (top half) survived 91% vs 85% and had 1.14 vs 0.86 children. Comprehension vs children: ρ = 0.15, p = 0.011, n = 300; speaker clarity vs children: ρ = 0.06, p = 0.290, n = 300.",
+    "evidence": "300 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "54% of trades were accepted even though the listener got it wrong; 4 of 47 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Wrenford \"ru\" = food: misheard: lu → ru (generation 2) · Oakhollow \"ru\" = food: misheard: lu → ru (generation 2) · Ironcrag \"ru\" = food: misheard: lu → ru (generation 2)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": false,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.31, p = 0.339, n = 12. Most used: two (6% replaced per generation), tools (39% replaced per generation), wood (35% replaced per generation); least: four (42%), five (51%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": true,
+    "finding": "By generation 10, every living agent descends from one founder. Families alive vs. distinct words per meaning across towns: ρ = 0.51, p = 0.011, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ],
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 64% of the time (context alone: 30%); by the last 10 generations, 69% (context: 39%).",
+    "evidence": "4551 tables joined to their revealed meanings; 4551 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 5/5 named by half the island in the first lifetime (day 7.0 on average); numbers: 2/5 named by half the island in the first lifetime (day 9.5 on average); yes/no: 2/2 named by half the island in the first lifetime (day 7.0 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 75% of their parent's words, use a different word for 11%, and lose 14%. By kind: goods 68% kept, numbers 75% kept, yes/no 94% kept. 0.27 words misheard per child.",
+    "evidence": "300 births; a child hears ~77 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": true,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.27, p = 0.002, n = 150. Oakhollow–Ironcrag 68%, Wrenford–Saltmere 64%, Wrenford–Ironcrag 54%, Wrenford–Oakhollow 53%, Ironcrag–Saltmere 49%, Oakhollow–Saltmere 46%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": false,
+    "finding": "Agents who understood others best (top half) survived 82% vs 90% and had 1.05 vs 0.95 children. Comprehension vs children: ρ = -0.00, p = 0.952, n = 300; speaker clarity vs children: ρ = 0.02, p = 0.738, n = 300.",
+    "evidence": "300 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "49% of trades were accepted even though the listener got it wrong; 11 of 46 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Wrenford \"zubuthe\" = wood: coined for \"ore\" by Juno·22 (generation 22) · Wrenford \"levosi\" = two: misheard: levose → levosi (generation 18) · Wrenford \"sho\" = three: misheard: so → sho (generation 21)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": false,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.34, p = 0.271, n = 12. Most used: two (11% replaced per generation), tools (46% replaced per generation), wood (13% replaced per generation); least: five (37%), four (59%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": false,
+    "finding": "By generation 14, every living agent descends from one founder. Families alive vs. distinct words per meaning across towns: ρ = 0.24, p = 0.251, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ],
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 39% of the time (context alone: 19%); by the last 10 generations, 65% (context: 23%).",
+    "evidence": "4726 tables joined to their revealed meanings; 4726 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 5/5 named by half the island in the first lifetime (day 4.0 on average); numbers: 4/5 named by half the island in the first lifetime (day 7.8 on average); yes/no: 2/2 named by half the island in the first lifetime (day 2.5 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 76% of their parent's words, use a different word for 10%, and lose 14%. By kind: goods 71% kept, numbers 72% kept, yes/no 95% kept. 0.34 words misheard per child.",
+    "evidence": "300 births; a child hears ~80 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": true,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.38, p = <0.001, n = 150. Wrenford–Saltmere 61%, Wrenford–Ironcrag 46%, Ironcrag–Saltmere 44%, Oakhollow–Ironcrag 43%, Wrenford–Oakhollow 27%, Oakhollow–Saltmere 27%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": true,
+    "finding": "Agents who understood others best (top half) survived 85% vs 91% and had 1.13 vs 0.87 children. Comprehension vs children: ρ = 0.19, p = <0.001, n = 299; speaker clarity vs children: ρ = 0.07, p = 0.266, n = 299.",
+    "evidence": "299 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "57% of trades were accepted even though the listener got it wrong; 3 of 48 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Wrenford \"kiba\" = six: coined for \"three\" by Dace·11 (generation 11) · Oakhollow \"vabagi\" = two: misheard: vavagi → vabagi (generation 12) · Saltmere \"bikeki\" = no: misheard: pikeki → bikeki (generation 23)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": false,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.40, p = 0.200, n = 12. Most used: tools (40% replaced per generation), two (15% replaced per generation), wood (28% replaced per generation); least: four (52%), five (66%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": true,
+    "finding": "By generation 18, every living agent descends from one founder. Families alive vs. distinct words per meaning across towns: ρ = 0.72, p = <0.001, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ],
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 41% of the time (context alone: 31%); by the last 10 generations, 61% (context: 24%).",
+    "evidence": "4775 tables joined to their revealed meanings; 4775 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 5/5 named by half the island in the first lifetime (day 3.2 on average); numbers: 5/5 named by half the island in the first lifetime (day 5.0 on average); yes/no: 2/2 named by half the island in the first lifetime (day 2.0 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 73% of their parent's words, use a different word for 13%, and lose 14%. By kind: goods 69% kept, numbers 70% kept, yes/no 90% kept. 0.35 words misheard per child.",
+    "evidence": "300 births; a child hears ~77 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": true,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.24, p = 0.005, n = 150. Wrenford–Saltmere 56%, Oakhollow–Ironcrag 55%, Wrenford–Ironcrag 49%, Wrenford–Oakhollow 45%, Ironcrag–Saltmere 43%, Oakhollow–Saltmere 43%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": true,
+    "finding": "Agents who understood others best (top half) survived 85% vs 94% and had 0.99 vs 1.01 children. Comprehension vs children: ρ = 0.01, p = 0.865, n = 300; speaker clarity vs children: ρ = -0.11, p = 0.044, n = 300.",
+    "evidence": "300 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "57% of trades were accepted even though the listener got it wrong; 9 of 48 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Wrenford \"sheki\" = wood: coined for \"tools\" by Sol·20 (generation 20) · Wrenford \"keri\" = tools: coined for \"ore\" by Mira·22 (generation 22) · Wrenford \"kige\" = four: coined for \"food\" by Lark·20 (generation 20)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": false,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.41, p = 0.192, n = 12. Most used: tools (35% replaced per generation), two (8% replaced per generation), wood (22% replaced per generation); least: four (48%), five (59%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": false,
+    "finding": "By generation 18, every living agent descends from one founder. Families alive vs. distinct words per meaning across towns: ρ = 0.29, p = 0.143, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ],
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 33% of the time (context alone: 27%); by the last 10 generations, 65% (context: 27%).",
+    "evidence": "4829 tables joined to their revealed meanings; 4829 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 5/5 named by half the island in the first lifetime (day 3.6 on average); numbers: 5/5 named by half the island in the first lifetime (day 7.4 on average); yes/no: 2/2 named by half the island in the first lifetime (day 2.5 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 75% of their parent's words, use a different word for 11%, and lose 14%. By kind: goods 67% kept, numbers 75% kept, yes/no 92% kept. 0.34 words misheard per child.",
+    "evidence": "300 births; a child hears ~80 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": true,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.35, p = <0.001, n = 150. Wrenford–Saltmere 61%, Oakhollow–Ironcrag 55%, Wrenford–Ironcrag 51%, Wrenford–Oakhollow 48%, Ironcrag–Saltmere 44%, Oakhollow–Saltmere 36%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": false,
+    "finding": "Agents who understood others best (top half) survived 91% vs 89% and had 1.07 vs 0.93 children. Comprehension vs children: ρ = 0.08, p = 0.165, n = 299; speaker clarity vs children: ρ = 0.04, p = 0.529, n = 299.",
+    "evidence": "299 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "54% of trades were accepted even though the listener got it wrong; 19 of 48 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Wrenford \"vilugi\" = tools: coined for \"ore\" by Zed·23 (generation 23) · Wrenford \"rege\" = three: misheard: reke → rege (generation 4) · Wrenford \"zo\" = yes: misheard: so → zo (generation 2)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": false,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.31, p = 0.336, n = 12. Most used: tools (49% replaced per generation), two (8% replaced per generation), wood (30% replaced per generation); least: four (57%), five (61%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": true,
+    "finding": "2 founding families still alive. Families alive vs. distinct words per meaning across towns: ρ = 0.75, p = <0.001, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ],
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 45% of the time (context alone: 37%); by the last 10 generations, 66% (context: 32%).",
+    "evidence": "4384 tables joined to their revealed meanings; 4384 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 5/5 named by half the island in the first lifetime (day 4.2 on average); numbers: 2/5 named by half the island in the first lifetime (day 5.0 on average); yes/no: 2/2 named by half the island in the first lifetime (day 1.5 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 75% of their parent's words, use a different word for 10%, and lose 14%. By kind: goods 71% kept, numbers 72% kept, yes/no 96% kept. 0.27 words misheard per child.",
+    "evidence": "300 births; a child hears ~78 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": true,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.21, p = 0.010, n = 150. Oakhollow–Ironcrag 63%, Wrenford–Saltmere 59%, Wrenford–Ironcrag 59%, Wrenford–Oakhollow 55%, Oakhollow–Saltmere 45%, Ironcrag–Saltmere 45%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": false,
+    "finding": "Agents who understood others best (top half) survived 80% vs 80% and had 1.07 vs 0.93 children. Comprehension vs children: ρ = 0.06, p = 0.263, n = 300; speaker clarity vs children: ρ = -0.07, p = 0.219, n = 300.",
+    "evidence": "300 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "52% of trades were accepted even though the listener got it wrong; 11 of 47 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Wrenford \"pe\" = two: misheard: pa → pe (generation 11) · Wrenford \"pomeno\" = six: misheard: poneno → pomeno (generation 4) · Wrenford \"pasa\" = no: misheard: posa → pasa (generation 23)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": true,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.59, p = 0.048, n = 12. Most used: two (8% replaced per generation), tools (28% replaced per generation), wood (17% replaced per generation); least: four (50%), five (63%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": false,
+    "finding": "By generation 20, every living agent descends from one founder. Families alive vs. distinct words per meaning across towns: ρ = 0.40, p = 0.051, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ],
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 57% of the time (context alone: 31%); by the last 10 generations, 66% (context: 27%).",
+    "evidence": "4778 tables joined to their revealed meanings; 4778 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 4/5 named by half the island in the first lifetime (day 6.3 on average); numbers: 1/5 named by half the island in the first lifetime (day 2.0 on average); yes/no: 2/2 named by half the island in the first lifetime (day 2.0 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 75% of their parent's words, use a different word for 11%, and lose 14%. By kind: goods 70% kept, numbers 73% kept, yes/no 95% kept. 0.31 words misheard per child.",
+    "evidence": "300 births; a child hears ~76 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": false,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.10, p = 0.268, n = 150. Wrenford–Saltmere 63%, Wrenford–Ironcrag 59%, Oakhollow–Ironcrag 56%, Ironcrag–Saltmere 55%, Wrenford–Oakhollow 50%, Oakhollow–Saltmere 45%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": true,
+    "finding": "Agents who understood others best (top half) survived 85% vs 87% and had 1.11 vs 0.89 children. Comprehension vs children: ρ = 0.14, p = 0.014, n = 299; speaker clarity vs children: ρ = -0.03, p = 0.567, n = 299.",
+    "evidence": "299 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "56% of trades were accepted even though the listener got it wrong; 16 of 48 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Wrenford \"ko\" = wood: coined for \"ore\" by Sol·4 (generation 4) · Wrenford \"thide\" = two: misheard: thidi → thide (generation 3) · Wrenford \"bitha\" = no: misheard: bithe → bitha (generation 11)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": false,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.52, p = 0.087, n = 12. Most used: tools (35% replaced per generation), two (9% replaced per generation), wood (9% replaced per generation); least: four (47%), five (54%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": true,
+    "finding": "By generation 25, every living agent descends from one founder. Families alive vs. distinct words per meaning across towns: ρ = 0.74, p = <0.001, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ],
+  [
+   {
+    "q": "How fast does a language appear from nothing?",
+    "solid": true,
+    "finding": "First-generation listeners guess what a speaker means 48% of the time (context alone: 32%); by the last 10 generations, 70% (context: 31%).",
+    "evidence": "4626 tables joined to their revealed meanings; 4626 reveals verified against the on-chain hash, 0 failed."
+   },
+   {
+    "q": "Are things you can show named before things you can't?",
+    "solid": false,
+    "finding": "goods: 5/5 named by half the island in the first lifetime (day 3.8 on average); numbers: 4/5 named by half the island in the first lifetime (day 3.8 on average); yes/no: 2/2 named by half the island in the first lifetime (day 3.0 on average).",
+    "evidence": "Daily dictionary snapshots of the first lifetime; one island, so a description, not a test."
+   },
+   {
+    "q": "What survives from parent to child?",
+    "solid": true,
+    "finding": "Children keep 74% of their parent's words, use a different word for 12%, and lose 14%. By kind: goods 71% kept, numbers 67% kept, yes/no 94% kept. 0.34 words misheard per child.",
+    "evidence": "300 births; a child hears ~74 of its parent's remembered episodes."
+   },
+   {
+    "q": "Do towns that meet more speak more alike?",
+    "solid": true,
+    "finding": "Contact vs. shared words across town pairs and generations: ρ = 0.17, p = 0.038, n = 150. Wrenford–Saltmere 60%, Oakhollow–Ironcrag 53%, Wrenford–Ironcrag 51%, Ironcrag–Saltmere 50%, Wrenford–Oakhollow 49%, Oakhollow–Saltmere 49%.",
+    "evidence": "Contact = agents from both towns at the same table; similarity = same most-common word per meaning."
+   },
+   {
+    "q": "Does being understood pay?",
+    "solid": false,
+    "finding": "Agents who understood others best (top half) survived 86% vs 87% and had 1.05 vs 0.95 children. Comprehension vs children: ρ = 0.06, p = 0.315, n = 300; speaker clarity vs children: ρ = -0.12, p = 0.051, n = 300.",
+    "evidence": "300 completed lives with enough tables to measure."
+   },
+   {
+    "q": "How much rests on misunderstanding?",
+    "solid": true,
+    "finding": "51% of trades were accepted even though the listener got it wrong; 15 of 48 words in use now started as a mistake (misheard, or coined for something else).",
+    "evidence": "Wrenford \"thethe\" = tools: coined for \"ore\" by Ada·21 (generation 21) · Wrenford \"thene\" = two: misheard: tene → thene (generation 25) · Wrenford \"thaga\" = no: misheard: thaka → thaga (generation 13)"
+   },
+   {
+    "q": "Do the words used most change least?",
+    "solid": false,
+    "finding": "Use vs. replacement rate across meanings: ρ = -0.53, p = 0.077, n = 12. Most used: tools (23% replaced per generation), two (9% replaced per generation), wood (17% replaced per generation); least: four (58%), five (63%).",
+    "evidence": "Real languages show this (Pagel et al. 2007). n = meanings, so treat as suggestive."
+   },
+   {
+    "q": "Do a few families take over, and does the language narrow with them?",
+    "solid": true,
+    "finding": "2 founding families still alive. Families alive vs. distinct words per meaning across towns: ρ = 0.61, p = <0.001, n = 25.",
+    "evidence": "Children go to the best-placed parents, so lineages die out: a founder effect, as in population genetics. Caution: families and variety both fall over time, so the correlation may be the language converging, not the families narrowing it."
+   }
+  ]
+ ]
+}

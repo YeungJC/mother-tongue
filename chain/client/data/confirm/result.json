@@ -1,0 +1,44 @@
+{
+ "at": "2026-11-15T02:08:51.513Z",
+ "c1": {
+  "k": 5,
+  "of": 8,
+  "meanRho": 0.15203016025726673,
+  "pooledP": 0.00390625,
+  "verdict": "SUPPORTED"
+ },
+ "c1w1": {
+  "k": 2,
+  "of": 8,
+  "meanRho": 0.05972854923273377,
+  "pooledP": 0.0390625,
+  "verdict": "NOT SUPPORTED"
+ },
+ "c1w6": {
+  "k": 2,
+  "of": 8,
+  "meanRho": 0.0398188282794328,
+  "pooledP": 0.0625,
+  "verdict": "NOT SUPPORTED"
+ },
+ "c2": true,
+ "c3": {
+  "k": 1,
+  "of": 8,
+  "meanRho": -0.49792615402196944,
+  "pooledP": 0.00390625,
+  "verdict": "NOT SUPPORTED"
+ },
+ "c4": {
+  "k": 1,
+  "of": 8,
+  "meanRho": 0.046837298902004644,
+  "pooledP": 0.015625,
+  "verdict": "NOT SUPPORTED"
+ },
+ "sanity": {
+  "emergence": 8,
+  "contact": 8,
+  "kept": 0.7482153529341018
+ }
+}

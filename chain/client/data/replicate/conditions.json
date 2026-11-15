@@ -1,0 +1,653 @@
+{
+ "at": "2026-11-14T23:41:24.174Z",
+ "conditions": [
+  {
+   "flex": 0.5,
+   "label": "lenient",
+   "folder": "replicate",
+   "islands": 8,
+   "gens": 25,
+   "survived": 8,
+   "understoodLate": 0.6846996309436041,
+   "contextLate": 0.31576476830856715,
+   "clarity": {
+    "k": 0,
+    "of": 8,
+    "meanRho": -0.02703999332992836
+   },
+   "comprehension": {
+    "k": 0,
+    "of": 8,
+    "meanRho": 0.000549394925703004
+   },
+   "deathsPerGen": 1.69,
+   "misunderstoodDeals": 0.5085060289044784,
+   "clarityHalves": {
+    "top": 1.0009563758389264,
+    "bottom": 1.0023993288590605
+   },
+   "verified": 36923,
+   "failed": 0,
+   "drivers": [
+    {
+     "feature": "trades",
+     "label": "trades made",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 8,
+      "negative": 0,
+      "meanEffect": 0.40866393760997227,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 8,
+      "negative": 0,
+      "meanEffect": 0.4953525521753581,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "hungryDays",
+     "label": "hungry days",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 8,
+      "meanEffect": -0.39912161919813255,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 8,
+      "meanEffect": -0.5142356924149148,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "trips",
+     "label": "trips to other towns",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 8,
+      "meanEffect": -0.45029383427719244,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 8,
+      "meanEffect": -0.49054121691787655,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "town",
+     "label": "home town",
+     "kind": "group",
+     "children": {
+      "kind": "group",
+      "significant": 8,
+      "meanEffect": 0.14443783857487127,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "group",
+      "significant": 8,
+      "meanEffect": 0.18917546088469922,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "job",
+     "label": "trade",
+     "kind": "group",
+     "children": {
+      "kind": "group",
+      "significant": 6,
+      "meanEffect": 0.04813357837894319,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "group",
+      "significant": 8,
+      "meanEffect": 0.09757403435419548,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "comprehension",
+     "label": "understands others",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": 0.000549394925703004,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": -0.014905634454500608,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "clarity",
+     "label": "is understood",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 1,
+      "meanEffect": -0.02703999332992836,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 1,
+      "meanEffect": -0.0526129269194502,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "inheritedWords",
+     "label": "words inherited",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": 0.005352973085063664,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 1,
+      "meanEffect": 0.013896920995951205,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "greed",
+     "label": "greed",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": 0.013854250415773612,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": -0.004133265050412654,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "thinker",
+     "label": "an LLM thinker",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": null,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": null,
+      "islands": 8
+     }
+    }
+   ]
+  },
+  {
+   "flex": 0.25,
+   "label": "in between",
+   "folder": "replicate-flex0.25",
+   "islands": 8,
+   "gens": 25,
+   "survived": 8,
+   "understoodLate": 0.7033866907358812,
+   "contextLate": 0.2992369664664445,
+   "clarity": {
+    "k": 0,
+    "of": 8,
+    "meanRho": -0.04165657559160087
+   },
+   "comprehension": {
+    "k": 0,
+    "of": 8,
+    "meanRho": 0.004180578252652445
+   },
+   "deathsPerGen": 1.795,
+   "misunderstoodDeals": 0.32234058336430593,
+   "clarityHalves": {
+    "top": 0.9958445190156598,
+    "bottom": 1.0058333333333334
+   },
+   "verified": 36612,
+   "failed": 0,
+   "drivers": [
+    {
+     "feature": "trips",
+     "label": "trips to other towns",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 8,
+      "meanEffect": -0.47956640682926155,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 8,
+      "meanEffect": -0.5217727077864512,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "hungryDays",
+     "label": "hungry days",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 8,
+      "meanEffect": -0.4220607142546082,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 8,
+      "meanEffect": -0.5294108153111924,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "trades",
+     "label": "trades made",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 8,
+      "negative": 0,
+      "meanEffect": 0.3829192887397587,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 8,
+      "negative": 0,
+      "meanEffect": 0.4704145091969171,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "clarity",
+     "label": "is understood",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 2,
+      "meanEffect": -0.04165657559160087,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 2,
+      "meanEffect": -0.0562520847309678,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "town",
+     "label": "home town",
+     "kind": "group",
+     "children": {
+      "kind": "group",
+      "significant": 8,
+      "meanEffect": 0.15095544952843096,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "group",
+      "significant": 8,
+      "meanEffect": 0.21827201014896022,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "job",
+     "label": "trade",
+     "kind": "group",
+     "children": {
+      "kind": "group",
+      "significant": 7,
+      "meanEffect": 0.05773104408077906,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "group",
+      "significant": 8,
+      "meanEffect": 0.11613449133388658,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "comprehension",
+     "label": "understands others",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": 0.004180578252652445,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 1,
+      "meanEffect": -0.009104667758144704,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "inheritedWords",
+     "label": "words inherited",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": 0.02368529297517188,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": 0.03494992563078654,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "greed",
+     "label": "greed",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 1,
+      "negative": 1,
+      "meanEffect": 0.010160882026608423,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 1,
+      "negative": 1,
+      "meanEffect": 0.01012995244520172,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "thinker",
+     "label": "an LLM thinker",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": null,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": null,
+      "islands": 8
+     }
+    }
+   ]
+  },
+  {
+   "flex": 0,
+   "label": "strict",
+   "folder": "replicate-flex0",
+   "islands": 8,
+   "gens": 25,
+   "survived": 8,
+   "understoodLate": 0.736126619433984,
+   "contextLate": 0.30953438567992075,
+   "clarity": {
+    "k": 0,
+    "of": 8,
+    "meanRho": -0.02429414895313657
+   },
+   "comprehension": {
+    "k": 0,
+    "of": 8,
+    "meanRho": 0.0005940707242790724
+   },
+   "deathsPerGen": 2.1100000000000003,
+   "misunderstoodDeals": 0,
+   "clarityHalves": {
+    "top": 1.0024217002237137,
+    "bottom": 1.0034507829977628
+   },
+   "verified": 35772,
+   "failed": 0,
+   "drivers": [
+    {
+     "feature": "trades",
+     "label": "trades made",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 8,
+      "negative": 0,
+      "meanEffect": 0.3985831109999705,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 8,
+      "negative": 0,
+      "meanEffect": 0.48844725261105215,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "hungryDays",
+     "label": "hungry days",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 8,
+      "meanEffect": -0.43910298403747766,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 8,
+      "meanEffect": -0.5555247051261313,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "trips",
+     "label": "trips to other towns",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 8,
+      "meanEffect": -0.44505902531070685,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 8,
+      "meanEffect": -0.49280516910310446,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "town",
+     "label": "home town",
+     "kind": "group",
+     "children": {
+      "kind": "group",
+      "significant": 8,
+      "meanEffect": 0.12616731885508076,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "group",
+      "significant": 8,
+      "meanEffect": 0.18262832607444576,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "job",
+     "label": "trade",
+     "kind": "group",
+     "children": {
+      "kind": "group",
+      "significant": 8,
+      "meanEffect": 0.07081960737985568,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "group",
+      "significant": 8,
+      "meanEffect": 0.11575370797860143,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "inheritedWords",
+     "label": "words inherited",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": 0.02323374103391851,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 1,
+      "negative": 0,
+      "meanEffect": 0.04079885776115963,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "comprehension",
+     "label": "understands others",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": 0.0005940707242790724,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": -0.008420867048288566,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "clarity",
+     "label": "is understood",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 1,
+      "meanEffect": -0.02429414895313657,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 2,
+      "meanEffect": -0.058653714752343274,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "greed",
+     "label": "greed",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": -0.008791479946184655,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": -0.009007956126411022,
+      "islands": 8
+     }
+    },
+    {
+     "feature": "thinker",
+     "label": "an LLM thinker",
+     "kind": "rank",
+     "children": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": null,
+      "islands": 8
+     },
+     "standing": {
+      "kind": "rank",
+      "positive": 0,
+      "negative": 0,
+      "meanEffect": null,
+      "islands": 8
+     }
+    }
+   ]
+  }
+ ]
+}

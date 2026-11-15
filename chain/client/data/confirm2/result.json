@@ -1,0 +1,21 @@
+{
+ "at": "2026-11-15T02:30:20.522Z",
+ "pagel": {
+  "k": 1,
+  "negative": 8,
+  "meanRho": -0.5155232039635189,
+  "pooledP": 0.00390625,
+  "verdict": "SUPPORTED"
+ },
+ "talk": {
+  "k": 4,
+  "of": 8,
+  "meanRho": 0.12493255420018146,
+  "pooledP": 0.00390625,
+  "verdict": "SUPPORTED"
+ },
+ "kirby": {
+  "meanRho": 0.014723150307755317,
+  "pooledP": 0.34375
+ }
+}

@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": [
+      "ES2022",
+      "DOM",
+      "DOM.Iterable"
+    ],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "jsx": "react-jsx",
+    "strict": false,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "allowImportingTsExtensions": true,
+    "baseUrl": ".",
+    "paths": {
+      "@solana/kit": [
+        "./node_modules/@solana/kit"
+      ],
+      "@solana/kit/*": [
+        "./node_modules/@solana/kit/*"
+      ],
+      "@solana/program-client-core": [
+        "./node_modules/@solana/program-client-core"
+      ],
+      "@solana-program/token": [
+        "./node_modules/@solana-program/token"
+      ]
+    }
+  },
+  "include": [
+    "src"
+  ]
+}
